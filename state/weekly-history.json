@@ -46,5 +46,21 @@
     "title": "Weekly Market Pulse: Bitcoin, Ethereum, NEAR, Bitcoin Cash, Injective, LayerZero, Raydium and Ethena",
     "videoId": "82RboNJCMfY",
     "durationSec": 295.704
+  },
+  {
+    "at": "2026-09-27T21:52:12.498Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "quant-network",
+      "grass",
+      "sei-network",
+      "sui",
+      "the-graph",
+      "fetch-ai"
+    ],
+    "title": "Quant Soars 204% This Week: Full Crypto Market Breakdown",
+    "videoId": "4N3Cdk12lbk",
+    "durationSec": 282.12
   }
 ]

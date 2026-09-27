@@ -1,0 +1,329 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "image": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048"
+    },
+    {
+      "id": "sei-network",
+      "name": "Sei",
+      "symbol": "SEI",
+      "image": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207"
+    },
+    {
+      "id": "sui",
+      "name": "Sui",
+      "symbol": "SUI",
+      "image": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290"
+    },
+    {
+      "id": "the-graph",
+      "name": "The Graph",
+      "symbol": "GRT",
+      "image": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159"
+    },
+    {
+      "id": "fetch-ai",
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "image": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 84612,
+      "priceText": "84,612",
+      "change7dPct": 4.15,
+      "change24hPct": 0.55,
+      "weekHigh": 87330,
+      "weekLow": 80631,
+      "weekHighText": "87,330",
+      "weekLowText": "80,631",
+      "rangePositionPct": 59,
+      "rsi14": 58.5,
+      "rsiZone": "neutral",
+      "sma20": 84285.2,
+      "sma20Text": "84,285",
+      "aboveSma20": true,
+      "volume24hUsd": 21683917881,
+      "volume24hText": "21.68B",
+      "marketCapUsd": 1699952960952,
+      "marketCapText": "1.7T",
+      "marketCapRank": 1,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 2687.27,
+      "priceText": "2,687",
+      "change7dPct": 1.98,
+      "change24hPct": 0.05,
+      "weekHigh": 2804.42,
+      "weekLow": 2612.23,
+      "weekHighText": "2,804",
+      "weekLowText": "2,612",
+      "rangePositionPct": 39,
+      "rsi14": 51.3,
+      "rsiZone": "neutral",
+      "sma20": 2692.0209999999997,
+      "sma20Text": "2,692",
+      "aboveSma20": false,
+      "volume24hUsd": 8126471625,
+      "volume24hText": "8.13B",
+      "marketCapUsd": 328113183888,
+      "marketCapText": "328.11B",
+      "marketCapRank": 2,
+      "trend": "range-bound"
+    },
+    {
+      "price": 226.09,
+      "priceText": "226.09",
+      "change7dPct": 204.37,
+      "change24hPct": 81.8,
+      "weekHigh": 193.67,
+      "weekLow": 63.8,
+      "weekHighText": "193.67",
+      "weekLowText": "63.80",
+      "rangePositionPct": 125,
+      "rsi14": 87.5,
+      "rsiZone": "overbought",
+      "sma20": 120.51299999999999,
+      "sma20Text": "120.51",
+      "aboveSma20": true,
+      "volume24hUsd": 942668492,
+      "volume24hText": "942.67M",
+      "marketCapUsd": 3283116784,
+      "marketCapText": "3.28B",
+      "marketCapRank": 37,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.652873,
+      "priceText": "0.6529",
+      "change7dPct": 73.84,
+      "change24hPct": 12.83,
+      "weekHigh": 0.643037,
+      "weekLow": 0.35429,
+      "weekHighText": "0.6430",
+      "weekLowText": "0.3543",
+      "rangePositionPct": 103,
+      "rsi14": 72.8,
+      "rsiZone": "overbought",
+      "sma20": 0.5279816000000002,
+      "sma20Text": "0.5280",
+      "aboveSma20": true,
+      "volume24hUsd": 74433819,
+      "volume24hText": "74.43M",
+      "marketCapUsd": 441747265,
+      "marketCapText": "441.75M",
+      "marketCapRank": 123,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.075572,
+      "priceText": "0.0756",
+      "change7dPct": 47.47,
+      "change24hPct": 5.29,
+      "weekHigh": 0.077091,
+      "weekLow": 0.050957,
+      "weekHighText": "0.0771",
+      "weekLowText": "0.0510",
+      "rangePositionPct": 94,
+      "rsi14": 67.9,
+      "rsiZone": "neutral",
+      "sma20": 0.0700699,
+      "sma20Text": "0.0701",
+      "aboveSma20": true,
+      "volume24hUsd": 105551673,
+      "volume24hText": "105.55M",
+      "marketCapUsd": 508824761,
+      "marketCapText": "508.82M",
+      "marketCapRank": 112,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 1.27,
+      "priceText": "1.270",
+      "change7dPct": 43.6,
+      "change24hPct": 10.06,
+      "weekHigh": 1.29,
+      "weekLow": 0.873269,
+      "weekHighText": "1.290",
+      "weekLowText": "0.8733",
+      "rangePositionPct": 95,
+      "rsi14": 74.5,
+      "rsiZone": "overbought",
+      "sma20": 1.1419499999999998,
+      "sma20Text": "1.142",
+      "aboveSma20": true,
+      "volume24hUsd": 1202864506,
+      "volume24hText": "1.2B",
+      "marketCapUsd": 5202013924,
+      "marketCapText": "5.2B",
+      "marketCapRank": 26,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.03463476,
+      "priceText": "0.0346",
+      "change7dPct": 41.63,
+      "change24hPct": 25.11,
+      "weekHigh": 0.03325093,
+      "weekLow": 0.02176994,
+      "weekHighText": "0.0333",
+      "weekLowText": "0.0218",
+      "rangePositionPct": 112,
+      "rsi14": 79.1,
+      "rsiZone": "overbought",
+      "sma20": 0.027554225000000005,
+      "sma20Text": "0.0276",
+      "aboveSma20": true,
+      "volume24hUsd": 56775103,
+      "volume24hText": "56.78M",
+      "marketCapUsd": 378917983,
+      "marketCapText": "378.92M",
+      "marketCapRank": 132,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.246615,
+      "priceText": "0.2466",
+      "change7dPct": 38.83,
+      "change24hPct": 1.26,
+      "weekHigh": 0.258979,
+      "weekLow": 0.173172,
+      "weekHighText": "0.2590",
+      "weekLowText": "0.1732",
+      "rangePositionPct": 86,
+      "rsi14": 63.3,
+      "rsiZone": "neutral",
+      "sma20": 0.2392112,
+      "sma20Text": "0.2392",
+      "aboveSma20": true,
+      "volume24hUsd": 92218838,
+      "volume24hText": "92.22M",
+      "marketCapUsd": 570820948,
+      "marketCapText": "570.82M",
+      "marketCapRank": 108,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto",
+    "overviewLines": [
+      "Total crypto market capitalization sits near two point eight eight trillion dollars after pulling back slightly.",
+      "Bitcoin dominance holds firm at fifty eight point eight percent across the wider digital asset landscape.",
+      "Traders experienced selective momentum this week with sharp rallies concentrated in high beta alternative tokens.",
+      "Today we examine seven-day performances across major network tokens and several standout double-digit gainers."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin gained four point one five percent over seven days, trading at eighty-four thousand six hundred twelve dollars.",
+        "The asset reached a week high of eighty-seven thousand three hundred thirty dollars during active trading.",
+        "Its daily trading volume stands at twenty-one point six eight billion dollars in strong uptrend territory.",
+        "Price action continues holding safely above its twenty-period average heading into the weekend close."
+      ],
+      [
+        "Ethereum rose one point nine eight percent this week, currently priced at two thousand six hundred eighty-seven dollars.",
+        "Its week range spanned from two thousand six hundred twelve dollars up to two thousand eight hundred four dollars.",
+        "The fourteen-period R S I reads fifty-one point three while trading below its twenty-period moving average.",
+        "Ether maintains a market capitalization of three hundred twenty-eight point one one billion dollars."
+      ],
+      [
+        "Quant surged two hundred four point three seven percent this week, trading at two hundred twenty-six dollars and nine cents.",
+        "The token touched a week low of sixty-three dollars and eighty cents before launching upward.",
+        "Daily trading volume expanded to nine hundred forty-two point six seven million dollars with an overbought R S I of eighty-seven point five.",
+        "Quant trades firmly above its twenty-period average with an eighty-one point eight percent twenty-four-hour gain."
+      ],
+      [
+        "Grass climbed seventy-three point eight four percent across seven days, reaching sixty-five point two nine cents.",
+        "Its fourteen-period R S I registered seventy-two point eight within overbought territory during the rally.",
+        "Trading volume reached seventy-four point four three million dollars against a four hundred forty-one point seven five million dollar cap.",
+        "The asset holds an active strong uptrend alongside a twelve point eight three percent single-day advance."
+      ],
+      [
+        "Sei advanced forty-seven point four seven percent over seven days, changing hands at seven point five six cents.",
+        "The token fluctuated between a week low of five point one cents and a week high of seven point seven one cents.",
+        "Daily transaction volume reached one hundred five point five five million dollars with an R S I of sixty-seven point nine.",
+        "Sei maintains its position above the twenty-period average while ranked one hundred twelve by market capitalization."
+      ],
+      [
+        "Sui pushed forty-three point six percent higher over the past week, currently trading at one dollar and twenty-seven cents.",
+        "Trading activity pushed the price toward a week high of one dollar and twenty-nine cents.",
+        "Daily volume reached one point two billion dollars supporting a total market valuation of five point two billion dollars.",
+        "The token registers an overbought R S I of seventy-four point five amid an ongoing strong uptrend."
+      ],
+      [
+        "The Graph rose forty-one point six three percent over seven days, trading at three point four six cents.",
+        "Its weekly price corridor ranged between two point one eight cents and three point three three cents.",
+        "Twenty-four-hour volume reached fifty-six point seven eight million dollars as daily price jumped twenty-five point one one percent.",
+        "The asset trades above its twenty-period average with an R S I reading of seventy-nine point one."
+      ],
+      [
+        "Artificial Superintelligence Alliance gained thirty-eight point eight three percent over the week, reaching twenty-four point six six cents.",
+        "The week low recorded seventeen point three two cents against a week high of twenty-five point nine cents.",
+        "Volume reached ninety-two point two two million dollars with an R S I positioned at neutral sixty-three point three.",
+        "The token sits at rank one hundred eight while sustaining a documented strong uptrend."
+      ]
+    ],
+    "takeaway": "Selective Altcoin Momentum Highlights Weekly Action",
+    "cta": "If you enjoyed this comprehensive weekly breakdown, please like the video and subscribe for our regular market updates.",
+    "title": "Quant Soars 204% This Week: Full Crypto Market Breakdown",
+    "description": "In this week's edition of Weekly Market Pulse, we analyze seven-day price action across Bitcoin, Ethereum, Quant, Grass, Sei, Sui, The Graph, and Artificial Superintelligence Alliance. We cover weekly ranges, momentum indicators, volume developments, and prevailing technical trends across major digital assets.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "crypto",
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "quant",
+      "qnt",
+      "grass",
+      "sei",
+      "sui",
+      "the graph",
+      "grt",
+      "fet",
+      "crypto recap",
+      "weekly market pulse",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Quant",
+    "#QNT",
+    "#Grass",
+    "#Sei"
+  ],
+  "videoId": "4N3Cdk12lbk",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2408,
+    "output_tokens": 1282
+  }
+}
