@@ -1,0 +1,91 @@
+{
+  "slot": "open",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 122.5,
+      "priceText": "122.50",
+      "change24hPct": 1.7,
+      "high24h": 124.77,
+      "low24h": 120.11,
+      "high24hText": "124.77",
+      "low24hText": "120.11",
+      "support": 123.43,
+      "resistance": 124.69,
+      "supportText": "123.43",
+      "resistanceText": "124.69",
+      "distToResistancePct": 1.79,
+      "distToSupportPct": -0.76,
+      "rangePositionPct": 51,
+      "rsi14": 59,
+      "rsiZone": "neutral",
+      "sma20": 122.607,
+      "sma20Text": "122.61",
+      "aboveSma20": false,
+      "volatility24hPct": 0.5,
+      "volume24hUsd": 3553365930,
+      "volume24hText": "3.55B",
+      "marketCapUsd": 71989636292,
+      "marketCapText": "71.99B",
+      "marketCapRank": 7,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "The crypto market slipped today, yet Solana somehow managed to stay green.",
+    "hook": "Solana Defies The Broader Market",
+    "segmentLines": [
+      [
+        "Solana gained nearly 2% to trade near $123 while the broader market stumbled.",
+        "It sits right in the middle of its 24-hour range with an RSI of 59.",
+        "This move comes as CoinDesk reports Solana's fast settlement upgrade reached a second test network."
+      ]
+    ],
+    "takeaway": "Green for now, but stuck in the middle",
+    "cta": "Is Solana building strength or will it follow the market down? Share your view and follow for more.",
+    "title": "Solana Edges Up to $122 While Crypto Drops #Shorts",
+    "description": "Solana moved +1.7% to $122.50 while the total crypto market cap dropped -2%. Trading volume reached $3.55B as price remained range-bound.\n\nMarket data: CoinGecko\nNews: \"Solana’s 150-millisecond settlement upgrade reaches second public test network\" (CoinDesk) https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "published": 1790398800000,
+      "age_hours": 32
+    },
+    "tags": [
+      "solana",
+      "sol",
+      "solana update",
+      "crypto news",
+      "solana price",
+      "altcoins",
+      "market analysis",
+      "crypto",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Solana",
+    "#SOL",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Ethereum",
+    "#Bitcoin"
+  ],
+  "videoId": "U7yZHxU9CbM",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1815,
+    "output_tokens": 300
+  }
+}
