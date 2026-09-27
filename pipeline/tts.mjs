@@ -47,6 +47,37 @@ export function forSpeech(text) {
     .replace(/~\s?/g, "about ");
 }
 
+const sleep = (ms) => new Promise((ok) => setTimeout(ok, ms));
+const FALLBACK_VOICES = ["en-US-AndrewNeural", "en-US-GuyNeural"];
+
+// edge-tts is a free Microsoft endpoint that now and then answers with no audio
+// (NoAudioReceived) for a while; on 2026-09-26 that failed four hourly runs in a row.
+// Retry the same voice, then similar voices, then a plain-text version of the line.
+async function speakLine(text, file, voice, rate) {
+  const plain = (s) => s.replace(/[^\p{L}\p{N}\s.,?!'-]/gu, " ").replace(/\s+/g, " ").trim();
+  const attempts = [
+    [voice, forSpeech(text), 0],
+    [voice, forSpeech(text), 8000],
+    [voice, forSpeech(text), 20000],
+    ...FALLBACK_VOICES.filter((v) => v !== voice).map((v) => [v, forSpeech(text), 5000]),
+    [voice, plain(forSpeech(text)), 20000],
+  ];
+  let last;
+  for (const [v, say, wait] of attempts) {
+    if (wait) await sleep(wait);
+    try {
+      // "--text=" form: a line starting with "-" (e.g. "-3% today") would otherwise be parsed as an option
+      await run("edge-tts", ["--voice", v, `--rate=${rate}`, `--text=${say}`, "--write-media", file]);
+      if (v !== voice || say !== forSpeech(text)) console.log(`  tts fallback used: ${v}${say !== forSpeech(text) ? " (plain text)" : ""}`);
+      return;
+    } catch (err) {
+      last = err;
+      console.warn(`  tts retry (${v}): ${String(err.message).split("\n").filter(Boolean).pop()?.slice(0, 120)}`);
+    }
+  }
+  throw last;
+}
+
 export async function synthesizeVoiceover(lines, { workDir, outFile, musicFile = null }) {
   const voice = process.env.TTS_VOICE || "en-US-AndrewMultilingualNeural";
   const rate = process.env.TTS_RATE || "+6%";
@@ -56,8 +87,7 @@ export async function synthesizeVoiceover(lines, { workDir, outFile, musicFile =
   const parts = [];
   for (const [i, text] of lines.entries()) {
     const file = path.join(workDir, `line_${i}.mp3`);
-    // "--text=" form: a line starting with "-" (e.g. "-3% today") would otherwise be parsed as an option
-    await run("edge-tts", ["--voice", voice, `--rate=${rate}`, `--text=${forSpeech(text)}`, "--write-media", file]);
+    await speakLine(text, file, voice, rate);
     parts.push({ file, duration: await probeDuration(file) });
   }
 
