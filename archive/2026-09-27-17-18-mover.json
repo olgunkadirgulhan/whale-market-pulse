@@ -1,0 +1,87 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.085599,
+      "priceText": "0.0856",
+      "change24hPct": 12.04,
+      "high24h": 0.0884,
+      "low24h": 0.076021,
+      "high24hText": "0.0884",
+      "low24hText": "0.0760",
+      "support": 0.082702,
+      "resistance": 0.086959,
+      "supportText": "0.0827",
+      "resistanceText": "0.0870",
+      "distToResistancePct": 1.59,
+      "distToSupportPct": 3.38,
+      "rangePositionPct": 77,
+      "rsi14": 51.4,
+      "rsiZone": "neutral",
+      "sma20": 0.0853343,
+      "sma20Text": "0.0853",
+      "aboveSma20": true,
+      "volatility24hPct": 1.48,
+      "volume24hUsd": 81187943,
+      "volume24hText": "81.19M",
+      "marketCapUsd": 674538723,
+      "marketCapText": "674.54M",
+      "marketCapRank": 98,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Most altcoins are bleeding today, but Pyth Network just bucked the trend.",
+    "hook": "Pyth Defies the Market",
+    "segmentLines": [
+      [
+        "Pyth climbed over 12% to about $0.085, defying the broader market downturn.",
+        "It is trading almost 1.6% below the four-hour high with a neutral RSI of 51.",
+        "Over $81 million traded today, representing a notable 12% turnover of its entire market cap."
+      ]
+    ],
+    "takeaway": "Strong uptrend continues despite market pressure",
+    "cta": "Is this Pyth rally sustainable or just a short-term bounce? Tell me below and follow for more.",
+    "title": "Why did PYTH jump 12.04% to $0.0856 while crypto slid? #Shorts",
+    "description": "Pyth Network (PYTH) bucked the broader market decline, climbing +12.04% to $0.0856. The token saw $81.19M in 24-hour trading volume, representing a 12% turnover of its market cap.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pyth network",
+      "pyth",
+      "pyth token",
+      "crypto",
+      "altcoin",
+      "market pulse",
+      "whale movement",
+      "crypto volume",
+      "pyth price",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#PythNetwork",
+    "#PYTH",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Bitcoin",
+    "#Pythcoinpriceprediction2"
+  ],
+  "videoId": "tWuBi9kpA3I",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1783,
+    "output_tokens": 275
+  }
+}
