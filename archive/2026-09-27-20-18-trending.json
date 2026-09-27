@@ -1,0 +1,86 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 5.46,
+      "priceText": "5.460",
+      "change24hPct": 12.51,
+      "high24h": 5.48,
+      "low24h": 4.75,
+      "high24hText": "5.480",
+      "low24hText": "4.750",
+      "support": 5.15,
+      "resistance": 5.48,
+      "supportText": "5.150",
+      "resistanceText": "5.480",
+      "distToResistancePct": 0.37,
+      "distToSupportPct": 5.68,
+      "rangePositionPct": 97,
+      "rsi14": 64.9,
+      "rsiZone": "neutral",
+      "sma20": 5.244999999999999,
+      "sma20Text": "5.245",
+      "aboveSma20": true,
+      "volatility24hPct": 1.4,
+      "volume24hUsd": 1380585938,
+      "volume24hText": "1.38B",
+      "marketCapUsd": 7140378440,
+      "marketCapText": "7.14B",
+      "marketCapRank": 21,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "NEAR Protocol is trending everywhere today, but look at how much actually traded.",
+    "hook": "Why Everyone Is Searching NEAR",
+    "segmentLines": [
+      [
+        "The token jumped more than 12% today, pushing its price to about $5.46.",
+        "It is now in a strong uptrend, sitting just under the four-hour high of $5.48.",
+        "This movement comes as over 19% of the entire market cap changed hands today."
+      ]
+    ],
+    "takeaway": "Trading volume spikes as NEAR nears daily high",
+    "cta": "Is this the start of a major NEAR breakout or just a temporary spike? Let me know below and follow for more.",
+    "title": "Why did 19.3% of NEAR Protocol trade in just 24 hours? 🔍 #Shorts",
+    "description": "NEAR Protocol (NEAR) is trending today after jumping +12.51% to $5.460. The token is currently in a strong uptrend with 19.3% of its market cap trading in the last 24 hours.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "near protocol",
+      "near",
+      "near crypto",
+      "near price",
+      "crypto trend",
+      "whale market pulse",
+      "altcoin news",
+      "crypto volume",
+      "near analysis",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#NEARProtocol",
+    "#NEAR",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#bitcoin",
+    "#btc"
+  ],
+  "videoId": "XbE2QUv5pL0",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1781,
+    "output_tokens": 258
+  }
+}
