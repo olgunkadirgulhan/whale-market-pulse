@@ -2,11 +2,12 @@ name: Produce crypto short
 
 on:
   schedule:
-    # Three videos a day, UTC: open (from 09:00), mover (from 14:00), trending (from 19:00).
+    # Three videos a day, UTC: open (from 13:00 = 09 ET, US market open), mover (from 17:00 = 13 ET),
+    # trending (from 20:00 = 16 ET). ET afternoon did best on 09-22..26; the 05 ET open got ~40 views.
     # GitHub often fires crons hours late or drops them, so there are backup triggers. The "Pick slot"
     # step produces the earliest slot that is due and not yet in archive/ today, or skips: never more than 3/day.
     # Hourly and off the :00 mark, where GitHub drops the most runs (09:00/11:00 never fired).
-    - cron: "17 9-23 * * *"
+    - cron: "17 13-23 * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -46,7 +47,7 @@ jobs:
           git fetch -q origin master
           today=$(date -u +%F); hour=$((10#$(date -u +%H)))
           done_today=$(git ls-tree --name-only origin/master archive/ | grep "archive/$today-" || true)
-          for pair in open:9 mover:14 trending:19; do
+          for pair in open:13 mover:17 trending:20; do
             s=${pair%%:*}; h=${pair##*:}
             if [ "$hour" -ge "$h" ] && ! printf '%s\n' "$done_today" | grep -q -- "-$s.json"; then
               echo "slot=$s" >> "$GITHUB_OUTPUT"; echo "producing slot: $s"; exit 0

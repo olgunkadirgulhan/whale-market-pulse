@@ -21,8 +21,8 @@ const slotArg = args.find((a) => a.startsWith("--slot="))?.split("=")[1];
 
 function slotForNow() {
   const hour = new Date().getUTCHours();
-  if (hour < 12) return "open";
-  if (hour < 17) return "mover";
+  if (hour < 17) return "open";
+  if (hour < 20) return "mover";
   return "trending";
 }
 
