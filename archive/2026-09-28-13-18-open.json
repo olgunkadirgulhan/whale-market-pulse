@@ -1,0 +1,90 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83377,
+      "priceText": "83,377",
+      "change24hPct": -1.58,
+      "high24h": 85089,
+      "low24h": 82581,
+      "high24hText": "85,089",
+      "low24hText": "82,581",
+      "support": 82581,
+      "resistance": 83567,
+      "supportText": "82,581",
+      "resistanceText": "83,567",
+      "distToResistancePct": 0.23,
+      "distToSupportPct": 0.95,
+      "rangePositionPct": 32,
+      "rsi14": 54.3,
+      "rsiZone": "neutral",
+      "sma20": 83084.3,
+      "sma20Text": "83,084",
+      "aboveSma20": true,
+      "volatility24hPct": 0.28,
+      "volume24hUsd": 34554395703,
+      "volume24hText": "34.55B",
+      "marketCapUsd": 1675065958111,
+      "marketCapText": "1.68T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Bitcoin dropped over one percent today, but look at where it stands now.",
+    "hook": "Bitcoin Finds A New Floor",
+    "segmentLines": [
+      [
+        "Bitcoin is down about one point six percent today, now trading at eighty-three thousand three hundred dollars.",
+        "The price is sitting at thirty-two percent of its twenty-four hour range, just below the four-hour high.",
+        "This comes as Cointelegraph reports Strategy added one thousand six hundred sixty-five Bitcoin to their holdings."
+      ]
+    ],
+    "takeaway": "Holding steady despite a massive institutional buy.",
+    "cta": "Is this consolidation or a deeper pullback? Tell me your thoughts below and follow for more.",
+    "title": "Why is Bitcoin trading at $83,377 after a massive new purchase? #Shorts",
+    "description": "Bitcoin fell -1.58% to $83,377 today. This price action follows news that Strategy purchased 1,665 Bitcoin for $143M.\n\nMarket data: CoinGecko\nNews: \"Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666\" (Cointelegraph) https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Cointelegraph",
+      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
+      "link": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": 1790599081000,
+      "age_hours": 1
+    },
+    "tags": [
+      "bitcoin",
+      "btc",
+      "crypto news",
+      "market update",
+      "bitcoin price",
+      "institutional investment",
+      "crypto market",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#goldtrading",
+    "#livetrading"
+  ],
+  "videoId": "lAxOR4JnJts",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1914,
+    "output_tokens": 295
+  }
+}
