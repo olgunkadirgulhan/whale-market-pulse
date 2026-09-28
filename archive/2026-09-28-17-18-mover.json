@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "hedera-hashgraph",
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "image": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.127253,
+      "priceText": "0.1273",
+      "change24hPct": 35.86,
+      "high24h": 0.128218,
+      "low24h": 0.093383,
+      "high24hText": "0.1282",
+      "low24hText": "0.0934",
+      "support": 0.11588,
+      "resistance": 0.128218,
+      "supportText": "0.1159",
+      "resistanceText": "0.1282",
+      "distToResistancePct": 0.76,
+      "distToSupportPct": 8.94,
+      "rangePositionPct": 97,
+      "rsi14": 73.6,
+      "rsiZone": "overbought",
+      "sma20": 0.11524035000000002,
+      "sma20Text": "0.1152",
+      "aboveSma20": true,
+      "volatility24hPct": 3.3,
+      "volume24hUsd": 1272558786,
+      "volume24hText": "1.27B",
+      "marketCapUsd": 5580975469,
+      "marketCapText": "5.58B",
+      "marketCapRank": 23,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Hedera jumped almost 36% today, but look where it is sitting now.",
+    "hook": "Hedera Surges Fast",
+    "segmentLines": [
+      [
+        "Hedera climbed 35.86% over the last 24 hours to reach $0.1273.",
+        "The price sits right at the 4-hour high and near the 24-hour high, with RSI at 73.6 in overbought territory.",
+        "A notable 22.8% of the total market cap changed hands in the last 24 hours."
+      ]
+    ],
+    "takeaway": "Hitting overbought levels near the absolute daily highs",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "Hedera Jumps 35.86% to $0.1273 While Near Daily Highs 📊 #Shorts",
+    "description": "Hedera jumped +35.86% to $0.1273 today, hitting overbought RSI levels near its 24-hour high with 22.8% turnover.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "hedera",
+      "hbar",
+      "hbar crypto",
+      "crypto trading",
+      "altcoins",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Hedera",
+    "#HBAR",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#altcoins",
+    "#bitcoin"
+  ],
+  "videoId": "8wre40KYMj8",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1799,
+    "output_tokens": 257
+  }
+}
