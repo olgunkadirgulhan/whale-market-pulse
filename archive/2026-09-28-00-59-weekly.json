@@ -1,0 +1,330 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "layerzero",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "image": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208"
+    },
+    {
+      "id": "ondo-finance",
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+    },
+    {
+      "id": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725"
+    },
+    {
+      "id": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "image": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932"
+    },
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    },
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 84231,
+      "priceText": "84,231",
+      "change7dPct": 4.01,
+      "change24hPct": -0.07,
+      "weekHigh": 87330,
+      "weekLow": 80907,
+      "weekHighText": "87,330",
+      "weekLowText": "80,907",
+      "rangePositionPct": 52,
+      "rsi14": 55.2,
+      "rsiZone": "neutral",
+      "sma20": 84287.65,
+      "sma20Text": "84,288",
+      "aboveSma20": false,
+      "volume24hUsd": 22906021251,
+      "volume24hText": "22.91B",
+      "marketCapUsd": 1692218764136,
+      "marketCapText": "1.69T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2676.2,
+      "priceText": "2,676",
+      "change7dPct": 1.82,
+      "change24hPct": -0.63,
+      "weekHigh": 2804.42,
+      "weekLow": 2634.74,
+      "weekHighText": "2,804",
+      "weekLowText": "2,635",
+      "rangePositionPct": 24,
+      "rsi14": 49.6,
+      "rsiZone": "neutral",
+      "sma20": 2692.2324999999996,
+      "sma20Text": "2,692",
+      "aboveSma20": false,
+      "volume24hUsd": 9250537187,
+      "volume24hText": "9.25B",
+      "marketCapUsd": 326723053550,
+      "marketCapText": "326.72B",
+      "marketCapRank": 2,
+      "trend": "range-bound"
+    },
+    {
+      "price": 1.63,
+      "priceText": "1.630",
+      "change7dPct": 40.75,
+      "change24hPct": 2.68,
+      "weekHigh": 1.72,
+      "weekLow": 1.15,
+      "weekHighText": "1.720",
+      "weekLowText": "1.150",
+      "rangePositionPct": 84,
+      "rsi14": 59.3,
+      "rsiZone": "neutral",
+      "sma20": 1.5859999999999999,
+      "sma20Text": "1.586",
+      "aboveSma20": true,
+      "volume24hUsd": 72019744,
+      "volume24hText": "72.02M",
+      "marketCapUsd": 575707478,
+      "marketCapText": "575.71M",
+      "marketCapRank": 107,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.568049,
+      "priceText": "0.5680",
+      "change7dPct": 35.62,
+      "change24hPct": 5.17,
+      "weekHigh": 0.589151,
+      "weekLow": 0.406139,
+      "weekHighText": "0.5892",
+      "weekLowText": "0.4061",
+      "rangePositionPct": 88,
+      "rsi14": 72.4,
+      "rsiZone": "overbought",
+      "sma20": 0.5431729000000001,
+      "sma20Text": "0.5432",
+      "aboveSma20": true,
+      "volume24hUsd": 356893584,
+      "volume24hText": "356.89M",
+      "marketCapUsd": 2766018430,
+      "marketCapText": "2.77B",
+      "marketCapRank": 40,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.084153,
+      "priceText": "0.0842",
+      "change7dPct": 35.34,
+      "change24hPct": 1.72,
+      "weekHigh": 0.0884,
+      "weekLow": 0.060322,
+      "weekHighText": "0.0884",
+      "weekLowText": "0.0603",
+      "rangePositionPct": 85,
+      "rsi14": 64.8,
+      "rsiZone": "neutral",
+      "sma20": 0.07686694999999999,
+      "sma20Text": "0.0769",
+      "aboveSma20": true,
+      "volume24hUsd": 72602181,
+      "volume24hText": "72.6M",
+      "marketCapUsd": 662704414,
+      "marketCapText": "662.7M",
+      "marketCapRank": 99,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 329.27,
+      "priceText": "329.27",
+      "change7dPct": 32.7,
+      "change24hPct": -1.41,
+      "weekHigh": 365.1,
+      "weekLow": 251.17,
+      "weekHighText": "365.10",
+      "weekLowText": "251.17",
+      "rangePositionPct": 69,
+      "rsi14": 54.8,
+      "rsiZone": "neutral",
+      "sma20": 336.822,
+      "sma20Text": "336.82",
+      "aboveSma20": false,
+      "volume24hUsd": 271248731,
+      "volume24hText": "271.25M",
+      "marketCapUsd": 6616766209,
+      "marketCapText": "6.62B",
+      "marketCapRank": 22,
+      "trend": "range-bound"
+    },
+    {
+      "price": 5.34,
+      "priceText": "5.340",
+      "change7dPct": 32.09,
+      "change24hPct": 5.63,
+      "weekHigh": 5.57,
+      "weekLow": 3.92,
+      "weekHighText": "5.570",
+      "weekLowText": "3.920",
+      "rangePositionPct": 86,
+      "rsi14": 64.6,
+      "rsiZone": "neutral",
+      "sma20": 4.9704999999999995,
+      "sma20Text": "4.970",
+      "aboveSma20": true,
+      "volume24hUsd": 1400675462,
+      "volume24hText": "1.4B",
+      "marketCapUsd": 6984875878,
+      "marketCapText": "6.98B",
+      "marketCapRank": 21,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.0103157,
+      "priceText": "0.0103",
+      "change7dPct": 30.27,
+      "change24hPct": 5.5,
+      "weekHigh": 0.01111058,
+      "weekLow": 0.00785555,
+      "weekHighText": "0.0111",
+      "weekLowText": "0.007856",
+      "rangePositionPct": 76,
+      "rsi14": 59.9,
+      "rsiZone": "neutral",
+      "sma20": 0.010026399,
+      "sma20Text": "0.0100",
+      "aboveSma20": true,
+      "volume24hUsd": 257637801,
+      "volume24hText": "257.64M",
+      "marketCapUsd": 648449172,
+      "marketCapText": "648.45M",
+      "marketCapRank": 100,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto Market Pulse",
+    "overviewLines": [
+      "Welcome back to Weekly Market Pulse covering the biggest digital asset price movements",
+      "The total market capitalization sits near two trillion eight hundred billion dollars today",
+      "Bitcoin dominance is holding at fifty eight point seven percent across the board",
+      "Let us review the weekly performance numbers for the leading crypto assets"
+    ],
+    "coinLines": [
+      [
+        "Bitcoin changed by four point zero one percent this week to trade at eighty four thousand two hundred and thirty one dollars",
+        "This week brought a high of eighty seven thousand three hundred and thirty dollars and a low of eighty thousand nine hundred and seven dollars",
+        "Volume reached twenty two point nine one billion dollars with a market capitalization of one point six nine trillion dollars",
+        "The fourteen period relative strength index reads fifty five point two in a neutral zone"
+      ],
+      [
+        "Ethereum moved one point eight two percent over the past week to two thousand six hundred and seventy six dollars",
+        "Prices ranged between a weekly high of two thousand eight hundred and four dollars and a low of two thousand six hundred and thirty five dollars",
+        "Trading volume totaled nine point two five billion dollars alongside a market capitalization of three hundred and twenty six point seven two billion dollars",
+        "The fourteen period relative strength index sits at forty nine point six with a neutral reading"
+      ],
+      [
+        "LayerZero shifted forty point seven five percent this week to reach one point six three dollars",
+        "The asset recorded a weekly high of one point seven two dollars and a low of one point one five dollars",
+        "Volume landed at seventy two point zero two million dollars while market capitalization stands at five hundred and seventy five point seven one million dollars",
+        "The fourteen period relative strength index is at fifty nine point three in a neutral zone"
+      ],
+      [
+        "Ondo changed by thirty five point six two percent this week to trade at zero point five six eight zero dollars",
+        "This week saw a high of zero point five eight nine two dollars and a low of zero point four zero six one dollars",
+        "Total volume reached three hundred and fifty six point eight nine million dollars with a market capitalization of two point seven seven billion dollars",
+        "The fourteen period relative strength index reached seventy two point four inside the overbought zone"
+      ],
+      [
+        "Pyth Network moved thirty five point three four percent over the week to price at zero point zero eight four two dollars",
+        "Prices touched a weekly high of zero point zero eight eight four dollars and a weekly low of zero point zero six zero three dollars",
+        "Volume came in at seventy two point six million dollars and market capitalization totals six hundred and sixty two point seven million dollars",
+        "The fourteen period relative strength index rests at sixty four point eight in neutral territory"
+      ],
+      [
+        "Bitcoin Cash shifted thirty two point seven percent this week to three hundred and twenty nine point twenty seven dollars",
+        "The market recorded a weekly high of three hundred and sixty five point ten dollars and a low of two hundred and fifty one point seventeen dollars",
+        "Trading volume reached two hundred and seventy one point two five million dollars with a market capitalization of six point six two billion dollars",
+        "The fourteen period relative strength index is registered at fifty four point eight in a neutral range"
+      ],
+      [
+        "NEAR Protocol changed by thirty two point zero nine percent this week to five point three four dollars",
+        "The week featured a high of five point five seven dollars alongside a low of three point nine two dollars",
+        "Volume reached one point four billion dollars with a total market capitalization of six point nine eight billion dollars",
+        "The fourteen period relative strength index sits at sixty four point six in neutral conditions"
+      ],
+      [
+        "Pudgy Penguins moved thirty point two seven percent over the week to zero point zero one zero three dollars",
+        "Prices reached a weekly high of zero point zero one one one dollars and a low of zero point zero0 seven eight five six dollars",
+        "Volume totaled two hundred and fifty seven point six four million dollars alongside a market capitalization of six hundred and forty eight point four five million dollars",
+        "The fourteen period relative strength index reads fifty nine point nine in a neutral zone"
+      ]
+    ],
+    "takeaway": "Strong Momentum Across LayerOne and Infrastructure Tokens This Week",
+    "cta": "If you found this recap helpful please consider subscribing to the channel and liking the video",
+    "title": "LayerZero +40% This Week: What Moved Crypto Markets and What Didn't",
+    "description": "This weekly market recap covers price action and metrics for Bitcoin, Ethereum, LayerZero, Ondo, Pyth Network, Bitcoin Cash, NEAR Protocol, and Pudgy Penguins. Data: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "layerzero",
+      "zro",
+      "ondo",
+      "pyth",
+      "pyth network",
+      "bitcoin cash",
+      "bch",
+      "near",
+      "near protocol",
+      "pudgy penguins",
+      "pengu",
+      "crypto recap",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#LayerZero",
+    "#ZRO",
+    "#Ondo",
+    "#PythNetwork"
+  ],
+  "videoId": "QnKa30LVeDc",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2443,
+    "output_tokens": 990
+  }
+}

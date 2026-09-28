@@ -62,5 +62,21 @@
     "title": "Quant Soars 204% This Week: Full Crypto Market Breakdown",
     "videoId": "4N3Cdk12lbk",
     "durationSec": 282.12
+  },
+  {
+    "at": "2026-09-28T01:14:50.866Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "layerzero",
+      "ondo-finance",
+      "pyth-network",
+      "bitcoin-cash",
+      "near",
+      "pudgy-penguins"
+    ],
+    "title": "LayerZero +40% This Week: What Moved Crypto Markets and What Didn't",
+    "videoId": "QnKa30LVeDc",
+    "durationSec": 288.288
   }
 ]
