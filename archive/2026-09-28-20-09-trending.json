@@ -1,0 +1,86 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 241.93,
+      "priceText": "241.93",
+      "change24hPct": 29.93,
+      "high24h": 358.2,
+      "low24h": 185.67,
+      "high24hText": "358.20",
+      "low24hText": "185.67",
+      "support": 220.5,
+      "resistance": 257.29,
+      "supportText": "220.50",
+      "resistanceText": "257.29",
+      "distToResistancePct": 6.35,
+      "distToSupportPct": 8.86,
+      "rangePositionPct": 33,
+      "rsi14": 52.6,
+      "rsiZone": "neutral",
+      "sma20": 237.3195,
+      "sma20Text": "237.32",
+      "aboveSma20": true,
+      "volatility24hPct": 5.15,
+      "volume24hUsd": 1579956129,
+      "volume24hText": "1.58B",
+      "marketCapUsd": 3518229363,
+      "marketCapText": "3.52B",
+      "marketCapRank": 33,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Quant jumped almost 30% today, but look where it is sitting now.",
+    "hook": "Quant Just Woke Up",
+    "segmentLines": [
+      [
+        "Quant climbed almost 30% to $241.93 while the wider market dropped 3.59%.",
+        "It sits near the lower third of its 24-hour range with the RSI neutral at 52.6.",
+        "A massive turnover of nearly 45% of its market cap changed hands today."
+      ]
+    ],
+    "takeaway": "Up nearly 30%, but still sitting low in its daily range.",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "Quant Surges 29.93% to $241.93 With 44.9% Turnover 📊 #Shorts",
+    "description": "Quant rose 29.93% to $241.93 today with 44.9% of its market cap changing hands while the wider market dropped 3.59%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "quant",
+      "qnt",
+      "quant crypto",
+      "qnt token",
+      "crypto market",
+      "altcoins",
+      "trading volume",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Quant",
+    "#QNT",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#QuantNetwork",
+    "#quantcrypto"
+  ],
+  "videoId": "IyvvDcScngQ",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1801,
+    "output_tokens": 255
+  }
+}
