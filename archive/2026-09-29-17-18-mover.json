@@ -1,0 +1,90 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "aave",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "image": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 167.31344353385362,
+      "priceText": "167.31",
+      "change24hPct": 11.94,
+      "high24h": 175.9,
+      "low24h": 145.37,
+      "high24hText": "175.90",
+      "low24hText": "145.37",
+      "support": 167.86,
+      "resistance": 175.9,
+      "supportText": "167.86",
+      "resistanceText": "175.90",
+      "distToResistancePct": 5.13,
+      "distToSupportPct": -0.33,
+      "rangePositionPct": 72,
+      "rsi14": 56.5,
+      "rsiZone": "neutral",
+      "sma20": 169.40149999999997,
+      "sma20Text": "169.40",
+      "aboveSma20": false,
+      "volatility24hPct": 1.47,
+      "volume24hUsd": 584444401.9664277,
+      "volume24hText": "584.44M",
+      "marketCapUsd": 2579374819,
+      "marketCapText": "2.58B",
+      "marketCapRank": 47,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Aave jumped almost 12% today, but where is it sitting right now?",
+    "hook": "Aave Just Made a Big Move",
+    "segmentLines": [
+      [
+        "Aave climbed 11.94% today to reach $167.31 while the broader market dipped.",
+        "The coin sits near the upper portion of its 24-hour range with the RSI neutral at 56.5.",
+        "CoinDesk reports Aave leads DeFi higher as crypto shrugs off surging bond market."
+      ]
+    ],
+    "takeaway": "Solid gains today, but staying just below the four-hour high.",
+    "cta": "Real breakout or a bull trap? Tell me below, and follow for the next move.",
+    "title": "Why did Aave jump 11.94% to $167.31 today? 📈 #Shorts",
+    "description": "Aave moved +11.94% to $167.31 today alongside a 22.7% turnover rate, as CoinDesk reports Aave leads DeFi higher as crypto shrugs off surging bond market.\n\nMarket data: CoinGecko\nNews: \"Aave leads DeFi higher as crypto shrugs off surging bond market\" (CoinDesk) https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "published": 1790677731000,
+      "age_hours": 7
+    },
+    "tags": [
+      "aave",
+      "aave coin",
+      "defi",
+      "crypto market",
+      "altcoins",
+      "trading volume",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Aave",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#altcoinseason",
+    "#TheCoinDaily",
+    "#marketanalysis"
+  ],
+  "videoId": "4ZhXUKo2SIY",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1851,
+    "output_tokens": 257
+  }
+}
