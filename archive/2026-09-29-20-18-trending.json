@@ -1,0 +1,86 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.009882466925798049,
+      "priceText": "0.009882",
+      "change24hPct": 4.55,
+      "high24h": 0.01007436,
+      "low24h": 0.00899902,
+      "high24hText": "0.0101",
+      "low24hText": "0.008999",
+      "support": 0.0095395,
+      "resistance": 0.01007436,
+      "supportText": "0.009540",
+      "resistanceText": "0.0101",
+      "distToResistancePct": 1.94,
+      "distToSupportPct": 3.47,
+      "rangePositionPct": 82,
+      "rsi14": 55.9,
+      "rsiZone": "neutral",
+      "sma20": 0.0098105375,
+      "sma20Text": "0.009811",
+      "aboveSma20": true,
+      "volatility24hPct": 1.43,
+      "volume24hUsd": 77242232.831484,
+      "volume24hText": "77.24M",
+      "marketCapUsd": 621215785,
+      "marketCapText": "621.22M",
+      "marketCapRank": 108,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Pudgy Penguins climbed higher today while the broader crypto market took a hit.",
+    "hook": "Penguins Defy Market Trend",
+    "segmentLines": [
+      [
+        "PENGU rose about 4.5% to just under $0.01 during the last 24 hours.",
+        "It is currently trading near the 4-hour high of $0.0101 in a strong uptrend.",
+        "More than 12% of the total supply changed hands today with $77 million in volume."
+      ]
+    ],
+    "takeaway": "Strong uptrend holds near the daily high",
+    "cta": "Can PENGU sustain this trend while others fall? Tell me what you think and follow for more.",
+    "title": "PENGU rises 4.55% to $0.0098 while total market cap drops 🐧 #Shorts",
+    "description": "Pudgy Penguins (PENGU) rose 4.55% to $0.009882 today. The coin is showing a strong uptrend and trading near its 4-hour high of $0.0101.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pudgy penguins",
+      "pengu",
+      "crypto",
+      "whale market pulse",
+      "price update",
+      "altcoins",
+      "nft coin",
+      "crypto news",
+      "trading",
+      "market trend"
+    ]
+  },
+  "hashtags": [
+    "#PudgyPenguins",
+    "#PENGU",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Solana",
+    "#Ethereum"
+  ],
+  "videoId": "ttKrYxEOKrI",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1831,
+    "output_tokens": 272
+  }
+}
