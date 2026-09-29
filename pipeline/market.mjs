@@ -7,6 +7,78 @@ const cgHeaders = () =>
 
 const cg = (path) => fetchJson(`${BASE}${path}`, { headers: cgHeaders() });
 
+// Since 09-29 keyless CoinGecko answers /coins/markets (and /simple/price) with 403, while
+// /global, /search/trending, /coins/list and /coins/{id}/ohlc still work. So only the market rows
+// come from CoinPaprika (keyless), re-keyed to CoinGecko ids so trending and candles still line up.
+const PAPRIKA = "https://api.coinpaprika.com/v1";
+const norm = (s) => String(s ?? "").toLowerCase().replace(/[^a-z0-9]/g, "");
+let paprikaRows;
+
+async function paprikaMarkets() {
+  if (paprikaRows) return paprikaRows;
+  const [tickers, cgList] = await Promise.all([
+    fetchJson(`${PAPRIKA}/tickers`, { timeoutMs: 60000 }),
+    fetchJson(`${BASE}/coins/list`, { headers: cgHeaders(), timeoutMs: 60000 }),
+  ]);
+  const bySymbol = new Map();
+  for (const c of cgList) {
+    const k = c.symbol.toLowerCase();
+    if (!bySymbol.has(k)) bySymbol.set(k, []);
+    bySymbol.get(k).push(c);
+  }
+  const used = new Set();
+  paprikaRows = [];
+  for (const t of [...tickers].sort((a, b) => (a.rank || 1e9) - (b.rank || 1e9))) {
+    const q = t.quotes?.USD;
+    const cands = bySymbol.get(t.symbol.toLowerCase()) ?? [];
+    const slug = t.id.slice(t.id.indexOf("-") + 1);
+    const match =
+      cands.find((c) => norm(c.name) === norm(t.name)) ??
+      cands.find((c) => c.id === slug) ??
+      (cands.length === 1 ? cands[0] : null);
+    if (!q || !match || used.has(match.id)) continue;
+    used.add(match.id);
+    paprikaRows.push({
+      id: match.id,
+      symbol: t.symbol.toLowerCase(),
+      name: t.name,
+      image: null, // CoinPaprika logos refuse hotlinking; ensureImage fills it for the picked coins
+      current_price: q.price,
+      market_cap: q.market_cap,
+      market_cap_rank: t.rank,
+      total_volume: q.volume_24h,
+      price_change_percentage_24h: q.percent_change_24h,
+      price_change_percentage_7d_in_currency: q.percent_change_7d,
+    });
+  }
+  return paprikaRows;
+}
+
+// Only coins that end up in a video need a logo, so it is looked up per coin (keyless /coins/{id}).
+async function ensureImage(coin) {
+  if (coin.image) return;
+  try {
+    const j = await cg(
+      `/coins/${coin.id}?localization=false&tickers=false&market_data=false&community_data=false&developer_data=false`,
+    );
+    coin.image = j.image?.large ?? j.image?.small ?? null;
+  } catch {
+    // no logo is fine: downloadLogo skips it
+  }
+}
+
+// CoinGecko first; on 403/429 fall back to CoinPaprika rows (top `limit`, or the given ids).
+async function marketRows(query, { ids, limit } = {}) {
+  try {
+    return await cg(`/coins/markets?${query}`);
+  } catch (err) {
+    if (!/HTTP (403|429)/.test(err.message)) throw err;
+    console.warn(`  CoinGecko markets unavailable (${err.message.split(" from ")[0]}), using CoinPaprika`);
+    const rows = await paprikaMarkets();
+    return ids ? rows.filter((r) => ids.includes(r.id)) : rows.slice(0, limit);
+  }
+}
+
 // Pegged or derivative assets: they mirror another coin, so "analysing" them is noise.
 const EXCLUDED = new Set([
   "usdt", "usdc", "dai", "fdusd", "usde", "tusd", "busd", "usds", "pyusd", "usd1", "rlusd", "usdd",
@@ -17,7 +89,7 @@ const EXCLUDED = new Set([
 export async function fetchMarketContext() {
   const [global, markets, trending] = await Promise.all([
     cg("/global"),
-    cg("/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h"),
+    marketRows("vs_currency=usd&order=market_cap_desc&per_page=100&page=1&price_change_percentage=24h", { limit: 100 }),
     cg("/search/trending"),
   ]);
 
@@ -39,7 +111,7 @@ export async function fetchMarketContext() {
 const CORE = new Set(["bitcoin", "ethereum"]);
 
 const marketsByIds = (ids) =>
-  cg(`/coins/markets?vs_currency=usd&ids=${ids.join(",")}&price_change_percentage=24h`);
+  marketRows(`vs_currency=usd&ids=${ids.join(",")}&price_change_percentage=24h`, { ids });
 
 function dedupeById(list) {
   const seen = new Set();
@@ -119,7 +191,7 @@ export async function fetchWeeklyCandles(coinId) {
 export async function fetchWeeklyMarketContext() {
   const [global, markets] = await Promise.all([
     cg("/global"),
-    cg("/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=150&page=1&price_change_percentage=24h,7d"),
+    marketRows("vs_currency=usd&order=market_cap_desc&per_page=150&page=1&price_change_percentage=24h,7d", { limit: 150 }),
   ]);
   const g = global.data;
   return {
@@ -171,6 +243,7 @@ export async function selectWeeklySegments(context, excludeIds = [], count = 8) 
       console.log(`  ${coin.id} has only ${candles.length} weekly candles, skipping`);
     }
   }
+  for (const r of result) await ensureImage(r.coin);
   return result.slice(0, count);
 }
 
@@ -198,6 +271,7 @@ export async function selectSegments(slot, context, excludeIds = [], count = 3) 
       if (candles.length >= 16) result.push({ coin, candles });
     }
   }
+  for (const r of result) await ensureImage(r.coin);
   return result.slice(0, count);
 }
 
