@@ -1,0 +1,91 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1391.5784972653264,
+      "priceText": "1,392",
+      "change24hPct": -8.91,
+      "high24h": 1544.18,
+      "low24h": 1360.35,
+      "high24hText": "1,544",
+      "low24hText": "1,360",
+      "support": 1385.08,
+      "resistance": 1456.86,
+      "supportText": "1,385",
+      "resistanceText": "1,457",
+      "distToResistancePct": 4.69,
+      "distToSupportPct": 0.47,
+      "rangePositionPct": 17,
+      "rsi14": 38.7,
+      "rsiZone": "neutral",
+      "sma20": 1422.9199999999998,
+      "sma20Text": "1,423",
+      "aboveSma20": false,
+      "volatility24hPct": 1.22,
+      "volume24hUsd": 1570577341.764514,
+      "volume24hText": "1.57B",
+      "marketCapUsd": 22722068037,
+      "marketCapText": "22.72B",
+      "marketCapRank": 10,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Zcash slid almost 9% today, but look where it is sitting now.",
+    "hook": "Zcash Just Took a Hit",
+    "segmentLines": [
+      [
+        "Zcash dropped 8.91% to $1,392 today while sitting in a strong downtrend.",
+        "The chart shows the price resting just above the 4-hour low and near the 24-hour low.",
+        "CoinDesk reports that Zcash developers began moving Tachyon code into faster private-payment software."
+      ]
+    ],
+    "takeaway": "Heavy drop puts price right near the 24-hour low",
+    "cta": "Real reversal or just a temporary dip? Tell me below and follow for the next update.",
+    "title": "Why did Zcash drop 8.91% to $1,392 today? 📉 #Shorts",
+    "description": "Zcash dropped 8.91% to $1,392 today amid a strong downtrend, sitting near its 24-hour low alongside developer updates.\n\nMarket data: CoinGecko\nNews: \"Zcash developers begin moving Tachyon code into faster private-payment software\" (CoinDesk) https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+      "published": 1790680530000,
+      "age_hours": 6
+    },
+    "tags": [
+      "zcash",
+      "zec",
+      "zcash price",
+      "crypto news",
+      "zcash drop",
+      "zcash analysis",
+      "privacy coins",
+      "market pulse",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Zcash",
+    "#ZEC",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Altcoins",
+    "#Bitcoin"
+  ],
+  "videoId": "A3fkKtLUc28",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1894,
+    "output_tokens": 244
+  }
+}
