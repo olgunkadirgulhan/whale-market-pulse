@@ -1,0 +1,332 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+      "id": "midnight-3",
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080"
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "image": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048"
+    },
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    },
+    {
+      "id": "worldcoin-wld",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903"
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83710,
+      "priceText": "83,710",
+      "change7dPct": -1.04,
+      "change24hPct": 0.39,
+      "weekHigh": 85518,
+      "weekLow": 82581,
+      "weekHighText": "85,518",
+      "weekLowText": "82,581",
+      "rangePositionPct": 38,
+      "rsi14": 47.8,
+      "rsiZone": "neutral",
+      "sma20": 83643.45,
+      "sma20Text": "83,643",
+      "aboveSma20": true,
+      "volume24hUsd": 34836391349,
+      "volume24hText": "34.84B",
+      "marketCapUsd": 1681822627005,
+      "marketCapText": "1.68T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2682.98,
+      "priceText": "2,683",
+      "change7dPct": 0.09,
+      "change24hPct": 0.18,
+      "weekHigh": 2742.68,
+      "weekLow": 2634.74,
+      "weekHighText": "2,743",
+      "weekLowText": "2,635",
+      "rangePositionPct": 45,
+      "rsi14": 46.7,
+      "rsiZone": "neutral",
+      "sma20": 2680.4894999999997,
+      "sma20Text": "2,680",
+      "aboveSma20": true,
+      "volume24hUsd": 13940513550,
+      "volume24hText": "13.94B",
+      "marketCapUsd": 327576536902,
+      "marketCapText": "327.58B",
+      "marketCapRank": 2,
+      "trend": "range-bound"
+    },
+    {
+      "price": 290.9,
+      "priceText": "290.90",
+      "change7dPct": 299.73,
+      "change24hPct": 8.43,
+      "weekHigh": 358.2,
+      "weekLow": 69.78,
+      "weekHighText": "358.20",
+      "weekLowText": "69.78",
+      "rangePositionPct": 77,
+      "rsi14": 66.6,
+      "rsiZone": "neutral",
+      "sma20": 257.005,
+      "sma20Text": "257.01",
+      "aboveSma20": true,
+      "volume24hUsd": 896592911,
+      "volume24hText": "896.59M",
+      "marketCapUsd": 4231422966,
+      "marketCapText": "4.23B",
+      "marketCapRank": 33,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.03843962,
+      "priceText": "0.0384",
+      "change7dPct": 63.47,
+      "change24hPct": 18.88,
+      "weekHigh": 0.0390906,
+      "weekLow": 0.02280849,
+      "weekHighText": "0.0391",
+      "weekLowText": "0.0228",
+      "rangePositionPct": 96,
+      "rsi14": 84.8,
+      "rsiZone": "overbought",
+      "sma20": 0.030317560999999993,
+      "sma20Text": "0.0303",
+      "aboveSma20": true,
+      "volume24hUsd": 75988439,
+      "volume24hText": "75.99M",
+      "marketCapUsd": 638057767,
+      "marketCapText": "638.06M",
+      "marketCapRank": 101,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.686238,
+      "priceText": "0.6862",
+      "change7dPct": 48.74,
+      "change24hPct": -9.05,
+      "weekHigh": 0.809061,
+      "weekLow": 0.425955,
+      "weekHighText": "0.8091",
+      "weekLowText": "0.4260",
+      "rangePositionPct": 68,
+      "rsi14": 58.9,
+      "rsiZone": "neutral",
+      "sma20": 0.6612609999999999,
+      "sma20Text": "0.6613",
+      "aboveSma20": true,
+      "volume24hUsd": 70006812,
+      "volume24hText": "70.01M",
+      "marketCapUsd": 480157478,
+      "marketCapText": "480.16M",
+      "marketCapRank": 119,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.00586602,
+      "priceText": "0.005866",
+      "change7dPct": 45.75,
+      "change24hPct": 1.24,
+      "weekHigh": 0.00600583,
+      "weekLow": 0.0037575,
+      "weekHighText": "0.006006",
+      "weekLowText": "0.003758",
+      "rangePositionPct": 94,
+      "rsi14": 69.5,
+      "rsiZone": "neutral",
+      "sma20": 0.005331501999999998,
+      "sma20Text": "0.005332",
+      "aboveSma20": true,
+      "volume24hUsd": 411739244,
+      "volume24hText": "411.74M",
+      "marketCapUsd": 2728129140,
+      "marketCapText": "2.73B",
+      "marketCapRank": 41,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.532061,
+      "priceText": "0.5321",
+      "change7dPct": 31,
+      "change24hPct": 8.7,
+      "weekHigh": 0.586331,
+      "weekLow": 0.400932,
+      "weekHighText": "0.5863",
+      "weekLowText": "0.4009",
+      "rangePositionPct": 71,
+      "rsi14": 59.6,
+      "rsiZone": "neutral",
+      "sma20": 0.5109306,
+      "sma20Text": "0.5109",
+      "aboveSma20": true,
+      "volume24hUsd": 581074641,
+      "volume24hText": "581.07M",
+      "marketCapUsd": 2102738693,
+      "marketCapText": "2.1B",
+      "marketCapRank": 52,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 3.87,
+      "priceText": "3.870",
+      "change7dPct": -29.95,
+      "change24hPct": -13.38,
+      "weekHigh": 5.54,
+      "weekLow": 3.65,
+      "weekHighText": "5.540",
+      "weekLowText": "3.650",
+      "rangePositionPct": 12,
+      "rsi14": 34,
+      "rsiZone": "neutral",
+      "sma20": 4.291500000000001,
+      "sma20Text": "4.292",
+      "aboveSma20": false,
+      "volume24hUsd": 321929426,
+      "volume24hText": "321.93M",
+      "marketCapUsd": 963688687,
+      "marketCapText": "963.69M",
+      "marketCapRank": 82,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto Markets",
+    "overviewLines": [
+      "The total cryptocurrency market capitalization sits at two point eight seven trillion dollars this week.",
+      "Bitcoin dominance remains steady at fifty eight point four percent of the total market.",
+      "Market sentiment shows mixed risk appetite with some assets experiencing notable volatility.",
+      "Today we analyze the latest weekly performance data for eight major digital assets."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin fell one point zero four percent to eighty three thousand seven hundred and ten dollars.",
+        "This week's low was eighty two thousand five hundred and eighty one dollars.",
+        "Daily trading volume reached thirty four point eight four billion dollars as the trend remains range-bound.",
+        "Market participants continue to watch these consolidated levels closely as the week concludes."
+      ],
+      [
+        "Ethereum rose zero point zero nine percent to two thousand six hundred and eighty three dollars.",
+        "This week's high reached two thousand seven hundred and forty three dollars during active trading.",
+        "The fourteen day relative strength index sits at a neutral forty six point seven.",
+        "Price action remains generally steady within its established range over the past seven days."
+      ],
+      [
+        "Quant is up two hundred ninety nine point seven three percent to two hundred ninety dollars.",
+        "The asset reached a week high of three hundred and fifty eight dollars and twenty cents.",
+        "Trading volume climbed to eight hundred and ninety six point five nine million dollars.",
+        "This strong uptrend has pushed the asset to rank thirty three by market capitalization."
+      ],
+      [
+        "Midnight rose sixty three point forty seven percent to zero point zero three eight four dollars.",
+        "This week's high reached zero point zero three nine one dollars during the surge.",
+        "The relative strength index indicates an overbought condition at eighty four point eight.",
+        "Strong upward momentum has characterized the trading activity for this asset all week."
+      ],
+      [
+        "Grass gained forty eight point seven four percent to zero point six eight six two dollars.",
+        "The weekly low was recorded at zero point four two six zero dollars.",
+        "Trading volume reached seventy point zero one million dollars despite a recent daily decline.",
+        "The asset maintained a strong uptrend over the course of the week."
+      ],
+      [
+        "Pump rose forty five point seven five percent to zero point zero zero five eight six dollars.",
+        "This week's high reached zero point zero zero six zero zero six dollars.",
+        "The fourteen day relative strength index currently sits at a neutral sixty nine point five.",
+        "The asset continues to exhibit a strong uptrend with solid daily volume."
+      ],
+      [
+        "Worldcoin is up thirty one percent to zero point five three two one dollars.",
+        "This week's low was established at zero point four zero zero nine dollars.",
+        "Trading volume reached five hundred and eighty one point zero seven million dollars.",
+        "Positive momentum has kept the asset in a strong uptrend this week."
+      ],
+      [
+        "Lighter fell twenty nine point nine five percent to three point eight seven dollars.",
+        "The price dropped near this week's low of three point six five dollars.",
+        "Daily volume for the asset reached three hundred and twenty one point nine three million dollars.",
+        "This downward movement has established a strong downtrend over the past seven days."
+      ]
+    ],
+    "takeaway": "Mixed performance as major gainers offset downward trends",
+    "cta": "If you found this weekly breakdown helpful, please subscribe and like the video.",
+    "title": "Quant Gained 299% This Week: Weekly Crypto Market Recap",
+    "description": "In this episode of Weekly Market Pulse, we analyze the latest price data for Bitcoin, Ethereum, Quant, Midnight, Grass, Pump.fun, Worldcoin, and Lighter.\n\nWe break down the seven-day performance, weekly highs and lows, relative strength index levels, and trading volumes to give you a clear picture of the market's trajectory.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "crypto recap",
+      "weekly market pulse",
+      "bitcoin",
+      "ethereum",
+      "quant",
+      "midnight",
+      "grass",
+      "pump.fun",
+      "worldcoin",
+      "lighter",
+      "crypto news",
+      "market analysis",
+      "btc",
+      "eth",
+      "qnt",
+      "night",
+      "pump",
+      "wld",
+      "lit",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Quant",
+    "#QNT",
+    "#Midnight",
+    "#NIGHT"
+  ],
+  "videoId": "GK2I4_gy9kk",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2403,
+    "output_tokens": 874
+  }
+}
