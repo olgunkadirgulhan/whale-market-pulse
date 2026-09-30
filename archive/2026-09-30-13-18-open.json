@@ -1,0 +1,83 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "figure-heloc",
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "image": "https://coin-images.coingecko.com/coins/images/68480/large/figure.png?1755863954"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.03,
+      "priceText": "1.030",
+      "change24hPct": 2.71,
+      "high24h": 1.03,
+      "low24h": 1.001,
+      "high24hText": "1.030",
+      "low24hText": "1.001",
+      "support": 1.03,
+      "resistance": 1.03,
+      "supportText": "1.030",
+      "resistanceText": "1.030",
+      "distToResistancePct": 0,
+      "distToSupportPct": 0,
+      "rangePositionPct": 100,
+      "rsi14": 94.4,
+      "rsiZone": "overbought",
+      "sma20": 1.03,
+      "sma20Text": "1.030",
+      "aboveSma20": false,
+      "volatility24hPct": 0,
+      "volume24hUsd": 545432343,
+      "volume24hText": "545.43M",
+      "marketCapUsd": 23955474630,
+      "marketCapText": "23.96B",
+      "marketCapRank": 10,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Figure Heloc climbed today, but check out where the RSI is sitting right now.",
+    "hook": "Figure Heloc Hits Peak",
+    "segmentLines": [
+      [
+        "Figure Heloc moved up 2.71% today to reach $1.030.",
+        "The token is sitting at the four-hour high and the 24-hour high with an RSI of 94.4 in the overbought zone.",
+        "Trading activity showed $545.43M in volume over the last 24 hours."
+      ]
+    ],
+    "takeaway": "Hitting extreme overbought levels at the daily high",
+    "cta": "Real breakout or a bull trap? Tell me below, and follow for the next move.",
+    "title": "Why did Figure Heloc jump 2.71% to $1.030 today? #Shorts",
+    "description": "Figure Heloc gained 2.71% today to trade at $1.030, reaching the 24-hour high with an RSI of 94.4.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "figure heloc",
+      "figr_heloc",
+      "crypto price",
+      "altcoins",
+      "market pulse",
+      "top ten coin",
+      "crypto updates",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#FigureHeloc",
+    "#FIGRHELOC",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts"
+  ],
+  "videoId": "nOk4eixVeZk",
+  "thumbnailSet": false,
+  "usage": {
+    "input_tokens": 1830,
+    "output_tokens": 249
+  }
+}
