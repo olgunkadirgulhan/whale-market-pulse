@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "blockstack",
+      "name": "Stacks",
+      "symbol": "STX",
+      "image": "https://coin-images.coingecko.com/coins/images/2069/large/Stacks_Logo_png.png?1709979332"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.363008,
+      "priceText": "0.3630",
+      "change24hPct": 14.41,
+      "high24h": 0.358962,
+      "low24h": 0.310835,
+      "high24hText": "0.3590",
+      "low24hText": "0.3108",
+      "support": 0.324984,
+      "resistance": 0.358962,
+      "supportText": "0.3250",
+      "resistanceText": "0.3590",
+      "distToResistancePct": -1.11,
+      "distToSupportPct": 10.47,
+      "rangePositionPct": 108,
+      "rsi14": 80.5,
+      "rsiZone": "overbought",
+      "sma20": 0.32900585,
+      "sma20Text": "0.3290",
+      "aboveSma20": true,
+      "volatility24hPct": 1.8,
+      "volume24hUsd": 53376268,
+      "volume24hText": "53.38M",
+      "marketCapUsd": 679059083,
+      "marketCapText": "679.06M",
+      "marketCapRank": 99,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Stacks jumped almost 15% today, but look where the RSI is sitting right now.",
+    "hook": "Stacks Just Surged",
+    "segmentLines": [
+      [
+        "Stacks climbed 14.41% to $0.3630, reaching the 24-hour high of $0.3590 and pushing higher.",
+        "The 14-period RSI sits at 80.5 in the overbought zone during this strong uptrend.",
+        "Trading activity hit $53.38M with a market cap of $679.06M across the day."
+      ]
+    ],
+    "takeaway": "Hitting overbought territory after a double digit move.",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "Why did Stacks jump 14.41% to $0.3630 today? #Shorts",
+    "description": "Stacks jumped 14.41% to $0.3630 today, pushing into the overbought zone with an RSI of 80.5 and $53.38M in daily volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "stacks",
+      "stx",
+      "stacks crypto",
+      "stx price",
+      "crypto news",
+      "altcoins",
+      "market pulse",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Stacks",
+    "#STX",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#altcoins",
+    "#COTI"
+  ],
+  "videoId": "C0VS7VRcL3Q",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1839,
+    "output_tokens": 268
+  }
+}
