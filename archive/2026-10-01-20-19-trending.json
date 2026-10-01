@@ -1,0 +1,92 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 4.83,
+      "priceText": "4.830",
+      "change24hPct": -9.04,
+      "high24h": 5.52,
+      "low24h": 4.78,
+      "high24hText": "5.520",
+      "low24hText": "4.780",
+      "support": 4.78,
+      "resistance": 4.95,
+      "supportText": "4.780",
+      "resistanceText": "4.950",
+      "distToResistancePct": 2.48,
+      "distToSupportPct": 1.04,
+      "rangePositionPct": 7,
+      "rsi14": 38.5,
+      "rsiZone": "neutral",
+      "sma20": 4.9545,
+      "sma20Text": "4.955",
+      "aboveSma20": false,
+      "volatility24hPct": 2.07,
+      "volume24hUsd": 1391496081,
+      "volume24hText": "1.39B",
+      "marketCapUsd": 6326797944,
+      "marketCapText": "6.33B",
+      "marketCapRank": 21,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Everyone is searching NEAR Protocol today, but the chart shows a painful reality.",
+    "hook": "Everyone Is Searching This Coin",
+    "segmentLines": [
+      [
+        "The token dropped over 9% to $4.83, wiping out millions in market value.",
+        "It is hovering just 1% above its 24-hour low of $4.78 amidst a strong downtrend.",
+        "This slide comes as CoinDesk reports a $3.8 million exploit on NEAR Intents."
+      ]
+    ],
+    "takeaway": "Trading near daily lows after exploit news",
+    "cta": "Is this exploit a temporary setback or a long term trend change? Tell me below and follow for more updates.",
+    "title": "NEAR Protocol falls 9.04% as exploit news shakes holders #Shorts",
+    "description": "NEAR Protocol (NEAR) fell 9.04% to $4.830, trading just 1.04% above its 24-hour low of $4.780. The drop comes alongside news of a $3.8 million exploit on NEAR Intents.\n\nMarket data: CoinGecko\nNews: \"NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues\" (CoinDesk) https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "published": 1790864294000,
+      "age_hours": 6
+    },
+    "tags": [
+      "near protocol",
+      "near",
+      "near crypto",
+      "near protocol news",
+      "near exploit",
+      "crypto exploit",
+      "near price drop",
+      "near analysis",
+      "whale market pulse",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#NEARProtocol",
+    "#NEAR",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#cryptotrading",
+    "#bitcoin"
+  ],
+  "videoId": "XESCNrLI4HA",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1900,
+    "output_tokens": 257
+  }
+}
