@@ -1,0 +1,94 @@
+{
+  "slot": "open",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "solana",
+      "name": "Solana",
+      "symbol": "SOL",
+      "image": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 116.88,
+      "priceText": "116.88",
+      "change24hPct": -4.55,
+      "high24h": 122.6,
+      "low24h": 117.08,
+      "high24hText": "122.60",
+      "low24hText": "117.08",
+      "support": 117.08,
+      "resistance": 118.15,
+      "supportText": "117.08",
+      "resistanceText": "118.15",
+      "distToResistancePct": 1.09,
+      "distToSupportPct": -0.17,
+      "rangePositionPct": -4,
+      "rsi14": 38.7,
+      "rsiZone": "neutral",
+      "sma20": 118.16399999999999,
+      "sma20Text": "118.16",
+      "aboveSma20": false,
+      "volatility24hPct": 0.51,
+      "volume24hUsd": 3693397993,
+      "volume24hText": "3.69B",
+      "marketCapUsd": 68727394684,
+      "marketCapText": "68.73B",
+      "marketCapRank": 7,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Solana dropped almost 5% today, pushing it right against its daily floor.",
+    "hook": "Solana Breached Its Daily Low",
+    "segmentLines": [
+      [
+        "Solana fell almost 5% to about $117 as the total crypto market dropped over 4%.",
+        "The price is now trading just below its 24-hour low of $117.08, with its RSI at 38.7.",
+        "This drop comes as Decrypt reports a new information exchange launching on the Solana network."
+      ]
+    ],
+    "takeaway": "Solana slips below daily low as market slides",
+    "cta": "Will Solana reclaim $117 or drop further? Tell me below and subscribe for the next update.",
+    "title": "What pushed Solana below its $117.08 daily low? 📉 #Shorts",
+    "description": "Solana (SOL) fell -4.55% to $116.88 today, breaking below its 24-hour low of $117.08. The drop occurred alongside a broader market decline of -4.56%, leaving the token's RSI at 38.7.\n\nMarket data: CoinGecko\nNews: \"Introducing The Information Exchange on Solana, Powered by Decrypt and MYR\" (Decrypt) https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Decrypt",
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+      "published": 1790786170000,
+      "age_hours": 21
+    },
+    "tags": [
+      "solana",
+      "sol",
+      "solana crypto",
+      "solana price",
+      "solana analysis",
+      "solana news",
+      "sol price drop",
+      "crypto market crash",
+      "solana rsi",
+      "solana update",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Solana",
+    "#SOL",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#bitcoin",
+    "#ethereum"
+  ],
+  "videoId": "zhbKG5vfaiQ",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1880,
+    "output_tokens": 366
+  }
+}
