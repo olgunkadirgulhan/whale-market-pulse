@@ -320,5 +320,15 @@
     "title": "What pushed Solana below its $117.08 daily low? 📉 #Shorts",
     "videoId": "zhbKG5vfaiQ",
     "durationSec": 37.584
+  },
+  {
+    "at": "2026-10-01T17:21:49.056Z",
+    "slot": "mover",
+    "coinIds": [
+      "quant-network"
+    ],
+    "title": "Why did Quant drop 12.41% to $263.76 today? 📉 #Shorts",
+    "videoId": "Gl94ebvKfWA",
+    "durationSec": 36.432
   }
 ]

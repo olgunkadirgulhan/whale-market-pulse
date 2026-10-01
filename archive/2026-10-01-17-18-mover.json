@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 263.76,
+      "priceText": "263.76",
+      "change24hPct": -12.41,
+      "high24h": 305.88,
+      "low24h": 256.12,
+      "high24hText": "305.88",
+      "low24hText": "256.12",
+      "support": 256.12,
+      "resistance": 279.48,
+      "supportText": "256.12",
+      "resistanceText": "279.48",
+      "distToResistancePct": 5.96,
+      "distToSupportPct": 2.9,
+      "rangePositionPct": 15,
+      "rsi14": 33.8,
+      "rsiZone": "neutral",
+      "sma20": 277.5745,
+      "sma20Text": "277.57",
+      "aboveSma20": false,
+      "volatility24hPct": 3.08,
+      "volume24hUsd": 508972652,
+      "volume24hText": "508.97M",
+      "marketCapUsd": 3836002625,
+      "marketCapText": "3.84B",
+      "marketCapRank": 34,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Quant dropped over 12% today, but where is it sitting right now?",
+    "hook": "Quant Slide Deepens",
+    "segmentLines": [
+      [
+        "Quant fell 12.41% to $263.76 over the last day amidst a strong downtrend.",
+        "The price sits at the 15% mark of its 24-hour range, right near the 24-hour low of $256.12.",
+        "Trading volume reached $508.97 million with a turnover of 13.3 percent of its market cap."
+      ]
+    ],
+    "takeaway": "Sitting near daily lows in a strong downtrend",
+    "cta": "Continuation or reversal ahead? Tell me below and follow for the next move.",
+    "title": "Why did Quant drop 12.41% to $263.76 today? 📉 #Shorts",
+    "description": "Quant dropped 12.41% to $263.76 today while trading in a strong downtrend, sitting near its 24-hour low of $256.12 with $508.97M in volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "quant",
+      "qnt",
+      "quant token",
+      "crypto price update",
+      "quant drop",
+      "crypto market",
+      "altcoins",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Quant",
+    "#QNT",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#CryptoAnalysis",
+    "#QuantNetwork"
+  ],
+  "videoId": "Gl94ebvKfWA",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1836,
+    "output_tokens": 277
+  }
+}
