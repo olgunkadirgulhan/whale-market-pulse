@@ -1,0 +1,333 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "monad",
+      "name": "Monad",
+      "symbol": "MON",
+      "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057"
+    },
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    },
+    {
+      "id": "bitway",
+      "name": "Bitway",
+      "symbol": "BTW",
+      "image": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907"
+    },
+    {
+      "id": "sei-network",
+      "name": "Sei",
+      "symbol": "SEI",
+      "image": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207"
+    },
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    },
+    {
+      "id": "aerodrome-finance",
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "image": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83446,
+      "priceText": "83,446",
+      "change7dPct": -1.18,
+      "change24hPct": -0.03,
+      "weekHigh": 85518,
+      "weekLow": 82581,
+      "weekHighText": "85,518",
+      "weekLowText": "82,581",
+      "rangePositionPct": 29,
+      "rsi14": 48.5,
+      "rsiZone": "neutral",
+      "sma20": 83600.3,
+      "sma20Text": "83,600",
+      "aboveSma20": false,
+      "volume24hUsd": 35696076394,
+      "volume24hText": "35.7B",
+      "marketCapUsd": 1676499850266,
+      "marketCapText": "1.68T",
+      "marketCapRank": 1,
+      "trend": "downtrend"
+    },
+    {
+      "price": 2680.96,
+      "priceText": "2,681",
+      "change7dPct": -0.2,
+      "change24hPct": 0.43,
+      "weekHigh": 2742.68,
+      "weekLow": 2634.74,
+      "weekHighText": "2,743",
+      "weekLowText": "2,635",
+      "rangePositionPct": 43,
+      "rsi14": 50.5,
+      "rsiZone": "neutral",
+      "sma20": 2680.2414999999996,
+      "sma20Text": "2,680",
+      "aboveSma20": true,
+      "volume24hUsd": 13819267118,
+      "volume24hText": "13.82B",
+      "marketCapUsd": 327325902006,
+      "marketCapText": "327.33B",
+      "marketCapRank": 2,
+      "trend": "range-bound"
+    },
+    {
+      "price": 0.03250907,
+      "priceText": "0.0325",
+      "change7dPct": 32.81,
+      "change24hPct": 22.22,
+      "weekHigh": 0.0318122,
+      "weekLow": 0.02353726,
+      "weekHighText": "0.0318",
+      "weekLowText": "0.0235",
+      "rangePositionPct": 108,
+      "rsi14": 70.6,
+      "rsiZone": "overbought",
+      "sma20": 0.028160212999999996,
+      "sma20Text": "0.0282",
+      "aboveSma20": true,
+      "volume24hUsd": 101435254,
+      "volume24hText": "101.44M",
+      "marketCapUsd": 384425097,
+      "marketCapText": "384.43M",
+      "marketCapRank": 131,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.26636,
+      "priceText": "0.2664",
+      "change7dPct": 28.6,
+      "change24hPct": 7.69,
+      "weekHigh": 0.294013,
+      "weekLow": 0.199436,
+      "weekHighText": "0.2940",
+      "weekLowText": "0.1994",
+      "rangePositionPct": 71,
+      "rsi14": 59.4,
+      "rsiZone": "neutral",
+      "sma20": 0.25915574999999996,
+      "sma20Text": "0.2592",
+      "aboveSma20": true,
+      "volume24hUsd": 814571607,
+      "volume24hText": "814.57M",
+      "marketCapUsd": 2688989274,
+      "marketCapText": "2.69B",
+      "marketCapRank": 42,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 1.32,
+      "priceText": "1.320",
+      "change7dPct": 28.26,
+      "change24hPct": -3.8,
+      "weekHigh": 1.43,
+      "weekLow": 0.763491,
+      "weekHighText": "1.430",
+      "weekLowText": "0.7635",
+      "rangePositionPct": 83,
+      "rsi14": 54.9,
+      "rsiZone": "neutral",
+      "sma20": 1.23628515,
+      "sma20Text": "1.236",
+      "aboveSma20": true,
+      "volume24hUsd": 50460984,
+      "volume24hText": "50.46M",
+      "marketCapUsd": 3585846722,
+      "marketCapText": "3.59B",
+      "marketCapRank": 34,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.073413,
+      "priceText": "0.0734",
+      "change7dPct": 24.9,
+      "change24hPct": -0.4,
+      "weekHigh": 0.08639,
+      "weekLow": 0.05695,
+      "weekHighText": "0.0864",
+      "weekLowText": "0.0570",
+      "rangePositionPct": 56,
+      "rsi14": 52.6,
+      "rsiZone": "neutral",
+      "sma20": 0.07566170000000001,
+      "sma20Text": "0.0757",
+      "aboveSma20": false,
+      "volume24hUsd": 84479465,
+      "volume24hText": "84.48M",
+      "marketCapUsd": 494313827,
+      "marketCapText": "494.31M",
+      "marketCapRank": 117,
+      "trend": "range-bound"
+    },
+    {
+      "price": 5.3,
+      "priceText": "5.300",
+      "change7dPct": 23.29,
+      "change24hPct": 5.07,
+      "weekHigh": 5.57,
+      "weekLow": 4.12,
+      "weekHighText": "5.570",
+      "weekLowText": "4.120",
+      "rangePositionPct": 81,
+      "rsi14": 63.4,
+      "rsiZone": "neutral",
+      "sma20": 5.0535000000000005,
+      "sma20Text": "5.054",
+      "aboveSma20": true,
+      "volume24hUsd": 1477657588,
+      "volume24hText": "1.48B",
+      "marketCapUsd": 6924569369,
+      "marketCapText": "6.92B",
+      "marketCapRank": 21,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.819597,
+      "priceText": "0.8196",
+      "change7dPct": 22.54,
+      "change24hPct": 0.62,
+      "weekHigh": 0.928633,
+      "weekLow": 0.656085,
+      "weekHighText": "0.9286",
+      "weekLowText": "0.6561",
+      "rangePositionPct": 60,
+      "rsi14": 55.7,
+      "rsiZone": "neutral",
+      "sma20": 0.8139701,
+      "sma20Text": "0.8140",
+      "aboveSma20": true,
+      "volume24hUsd": 55969700,
+      "volume24hText": "55.97M",
+      "marketCapUsd": 815918929,
+      "marketCapText": "815.92M",
+      "marketCapRank": 87,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto Market Pulse",
+    "overviewLines": [
+      "Total crypto market cap shifted down by two point seven six percent over the last week.",
+      "Bitcoin dominance sits at fifty eight point three percent while Ethereum dominance holds at eleven point four percent.",
+      "Risk sentiment shifted across multiple tokens with varied momentum and trading ranges this week.",
+      "We review the biggest weekly price movements across eight major crypto assets right now."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is down one point one eight percent this week and trades at eighty three thousand four hundred and forty six dollars.",
+        "The seven day range recorded a high of eighty five thousand five hundred and eighteen dollars and a low of eighty two thousand five hundred and eighty one dollars.",
+        "Volume reached thirty five point seven billion dollars with the fourteen day relative strength index resting at forty eight point five.",
+        "Bitcoin remains in a downtrend and sits below its twenty period moving average currently."
+      ],
+      [
+        "Ethereum is down zero point two percent this week and trades at two thousand six hundred and eighty one dollars.",
+        "The seven day range recorded a high of two thousand seven hundred and forty three dollars and a low of two thousand six hundred and thirty five dollars.",
+        "Volume reached thirteen point eight two billion dollars with the fourteen day relative strength index resting at fifty point five.",
+        "Ethereum trades above its twenty period moving average and exhibits a range bound trend."
+      ],
+      [
+        "Monad is up thirty two point eight one percent this week and trades at zero point zero three two five dollars.",
+        "The seven day range recorded a high of zero point zero three one eight dollars and a low of zero point zero two three five dollars.",
+        "Volume reached one hundred and one point four four million dollars with the fourteen day relative strength index resting at seventy point six.",
+        "Monad trades above its twenty period moving average and shows a strong uptrend momentum."
+      ],
+      [
+        "Ethena is up twenty eight point six percent this week and trades at zero point two six six four dollars.",
+        "The seven day range recorded a high of zero point two nine four zero dollars and a low of zero point one nine nine four dollars.",
+        "Volume reached eight hundred and fourteen point five seven million dollars with the fourteen day relative strength index resting at fifty nine point four.",
+        "Ethena trades above its twenty period moving average and maintains a strong uptrend."
+      ],
+      [
+        "Bitway is up twenty eight point two six percent this week and trades at one point three two zero dollars.",
+        "The seven day range recorded a high of one point four three zero dollars and a low of zero point seven six three five dollars.",
+        "Volume reached fifty point four six million dollars with the fourteen day relative strength index resting at fifty four point nine.",
+        "Bitway trades above its twenty period moving average and exhibits a strong uptrend structure."
+      ],
+      [
+        "Sei is up twenty four point nine percent this week and trades at zero point zero seven three four dollars.",
+        "The seven day range recorded a high of zero point zero eight six four dollars and a low of zero point zero five seven zero dollars.",
+        "Volume reached eighty four point four eight million dollars with the fourteen day relative strength index resting at fifty two point six.",
+        "Sei currently trades below its twenty period moving average with a range bound pattern."
+      ],
+      [
+        "NEAR Protocol is up twenty three point two nine percent this week and trades at five point three zero zero dollars.",
+        "The seven day range recorded a high of five point five seven zero dollars and a low of four point one two zero dollars.",
+        "Volume reached one point four eight billion dollars with the fourteen day relative strength index resting at sixty three point four.",
+        "NEAR Protocol trades above its twenty period moving average and displays a strong uptrend."
+      ],
+      [
+        "Aerodrome Finance is up twenty two point five four percent this week and trades at zero point eight one nine six dollars.",
+        "The seven day range recorded a high of zero point nine two eight six dollars and a low of zero point six five six one dollars.",
+        "Volume reached fifty five point nine seven million dollars with the fourteen day relative strength index resting at fifty five point seven.",
+        "Aerodrome Finance trades above its twenty period moving average and follows a strong uptrend."
+      ]
+    ],
+    "takeaway": "Mixed crypto market action featured strong altcoin gains alongside minor leader ",
+    "cta": "Please consider hitting the like button and subscribing to the channel for more market recaps.",
+    "title": "MON +32% This Week: What Moved Crypto Markets and What Didn't",
+    "description": "In this weekly market pulse, we cover Bitcoin, Ethereum, Monad, Ethena, Bitway, Sei, NEAR Protocol, and Aerodrome Finance to examine weekly price changes and key metrics.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "ethereum",
+      "monad",
+      "ethena",
+      "bitway",
+      "sei",
+      "near protocol",
+      "aerodrome finance",
+      "crypto market recap",
+      "weekly crypto",
+      "crypto news",
+      "altcoins",
+      "market pulse",
+      "btc",
+      "eth",
+      "mon",
+      "ena",
+      "btw",
+      "near",
+      "aero",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Monad",
+    "#MON",
+    "#Ethena",
+    "#ENA"
+  ],
+  "videoId": "Hwf8SshsVkQ",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2429,
+    "output_tokens": 1058
+  }
+}
