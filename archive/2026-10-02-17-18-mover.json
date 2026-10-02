@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "midnight-3",
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "image": "https://coin-images.coingecko.com/coins/images/71015/large/midnight.png?1765193080"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.04786905,
+      "priceText": "0.0479",
+      "change24hPct": 21.6,
+      "high24h": 0.04999794,
+      "low24h": 0.03740713,
+      "high24hText": "0.0500",
+      "low24hText": "0.0374",
+      "support": 0.04597277,
+      "resistance": 0.04999794,
+      "supportText": "0.0460",
+      "resistanceText": "0.0500",
+      "distToResistancePct": 4.45,
+      "distToSupportPct": 3.96,
+      "rangePositionPct": 83,
+      "rsi14": 64.4,
+      "rsiZone": "neutral",
+      "sma20": 0.0459114895,
+      "sma20Text": "0.0459",
+      "aboveSma20": true,
+      "volatility24hPct": 3.22,
+      "volume24hUsd": 94587769,
+      "volume24hText": "94.59M",
+      "marketCapUsd": 794980388,
+      "marketCapText": "794.98M",
+      "marketCapRank": 87,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Midnight jumped over 21% today, but look where it is sitting right now.",
+    "hook": "Midnight Leads the Market",
+    "segmentLines": [
+      [
+        "The token climbed 21.6% to $0.0479, pushing it into a strong uptrend today.",
+        "It is trading just under the four-hour high of $0.0500 with a neutral RSI of 64.",
+        "Almost 12% of its total market cap changed hands with over $94 million in volume."
+      ]
+    ],
+    "takeaway": "Trading near the daily high on rising volume",
+    "cta": "Can Midnight sustain this momentum or is a pullback coming? Follow for the next move.",
+    "title": "Midnight surges 21.6% to $0.0479 on high turnover 📈 #Shorts",
+    "description": "Midnight (NIGHT) surged 21.6% today to $0.0479, trading near its 24-hour high of $0.0500. The token saw over $94.59 million in 24-hour volume, representing an 11.9% turnover rate.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "midnight",
+      "night crypto",
+      "midnight token",
+      "crypto news",
+      "altcoins",
+      "whale market pulse",
+      "midnight analysis",
+      "night price",
+      "midnight price today",
+      "night"
+    ]
+  },
+  "hashtags": [
+    "#Midnight",
+    "#NIGHT",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#bitcoin",
+    "#livetrading"
+  ],
+  "videoId": "FZV-QafQVrM",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1819,
+    "output_tokens": 280
+  }
+}
