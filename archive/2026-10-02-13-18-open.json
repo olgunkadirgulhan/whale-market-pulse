@@ -1,0 +1,92 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "ripple",
+      "name": "XRP",
+      "symbol": "XRP",
+      "image": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.54,
+      "priceText": "1.540",
+      "change24hPct": 4.15,
+      "high24h": 1.55,
+      "low24h": 1.48,
+      "high24hText": "1.550",
+      "low24hText": "1.480",
+      "support": 1.53,
+      "resistance": 1.55,
+      "supportText": "1.530",
+      "resistanceText": "1.550",
+      "distToResistancePct": 0.65,
+      "distToSupportPct": 0.65,
+      "rangePositionPct": 86,
+      "rsi14": 67.3,
+      "rsiZone": "neutral",
+      "sma20": 1.5294999999999996,
+      "sma20Text": "1.529",
+      "aboveSma20": true,
+      "volatility24hPct": 0.51,
+      "volume24hUsd": 3204420584,
+      "volume24hText": "3.2B",
+      "marketCapUsd": 97098365671,
+      "marketCapText": "97.1B",
+      "marketCapRank": 5,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "The market is flat, but XRP is currently pushing its daily high.",
+    "hook": "XRP Leading The Top Ten",
+    "segmentLines": [
+      [
+        "The price rose over 4% today to reach $1.54, leading the top ten coins in gains.",
+        "It is currently trading at 86% of its daily range, just below the 24-hour high of $1.55.",
+        "This move comes as Cointelegraph reports a shareholder vote cleared the way for a public XRP treasury."
+      ]
+    ],
+    "takeaway": "Trading near the daily high on treasury news",
+    "cta": "Is this a real breakout or just a local top? Tell me below and follow for the next move.",
+    "title": "XRP hits $1.540 while market stalls on public treasury news 📈 #Shorts",
+    "description": "XRP gained 4.15% today to reach $1.540, outperforming the broader market which saw a 0.05% decline. The coin is trading near its 24-hour high of $1.550 following news of a public treasury debut.\n\nMarket data: CoinGecko\nNews: \"Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury\" (Cointelegraph) https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Cointelegraph",
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": 1790888865000,
+      "age_hours": 16
+    },
+    "tags": [
+      "xrp",
+      "ripple",
+      "xrp price",
+      "xrp news",
+      "crypto news",
+      "large cap",
+      "evernorth",
+      "nasdaq",
+      "xrp treasury",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#XRP",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#bitcoin",
+    "#cryptocurrency",
+    "#cryptotrading"
+  ],
+  "videoId": "1NjqKGtPbxg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1899,
+    "output_tokens": 274
+  }
+}
