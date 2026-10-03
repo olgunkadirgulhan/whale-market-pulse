@@ -1,0 +1,87 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1305.02,
+      "priceText": "1,305",
+      "change24hPct": -5.88,
+      "high24h": 1408,
+      "low24h": 1276.55,
+      "high24hText": "1,408",
+      "low24hText": "1,277",
+      "support": 1302.88,
+      "resistance": 1321.01,
+      "supportText": "1,303",
+      "resistanceText": "1,321",
+      "distToResistancePct": 1.23,
+      "distToSupportPct": 0.16,
+      "rangePositionPct": 22,
+      "rsi14": 37.6,
+      "rsiZone": "neutral",
+      "sma20": 1315.7109999999998,
+      "sma20Text": "1,316",
+      "aboveSma20": false,
+      "volatility24hPct": 0.4,
+      "volume24hUsd": 698565303,
+      "volume24hText": "698.57M",
+      "marketCapUsd": 22133534918,
+      "marketCapText": "22.13B",
+      "marketCapRank": 10,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Zcash dropped almost 6% today, but the real story is where it just stopped.",
+    "hook": "Zcash Hovers Near Floor",
+    "segmentLines": [
+      [
+        "Zcash slid nearly 6% over the last 24 hours, landing at $1305.",
+        "The price is sitting just 0.16% above its last 4-hour low of $1303.",
+        "This movement occurred during a strong downtrend, with $698 million traded in the last 24 hours."
+      ]
+    ],
+    "takeaway": "Sitting just above the four-hour low",
+    "cta": "Will Zcash hold this level or slip even further? Let me know below and follow for more.",
+    "title": "Zcash slides 5.88% to $1,305 while testing its low range #Shorts",
+    "description": "Zcash declined -5.88% today to $1,305, trading just 0.16% above its 4-hour low of $1,303. The privacy coin remains in a strong downtrend with $698.57M in 24-hour volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "zcash",
+      "zec",
+      "crypto",
+      "privacy coin",
+      "altcoin",
+      "zcash price",
+      "zec price",
+      "crypto analysis",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Zcash",
+    "#ZEC",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#btc",
+    "#bitcoin"
+  ],
+  "videoId": "z4j-v7ovDVM",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1825,
+    "output_tokens": 279
+  }
+}
