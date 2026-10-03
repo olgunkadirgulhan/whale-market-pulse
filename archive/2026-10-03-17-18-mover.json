@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "layerzero",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "image": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 2.08,
+      "priceText": "2.080",
+      "change24hPct": 7.79,
+      "high24h": 2.12,
+      "low24h": 1.73,
+      "high24hText": "2.120",
+      "low24hText": "1.730",
+      "support": 2.03,
+      "resistance": 2.12,
+      "supportText": "2.030",
+      "resistanceText": "2.120",
+      "distToResistancePct": 1.92,
+      "distToSupportPct": 2.4,
+      "rangePositionPct": 90,
+      "rsi14": 66.8,
+      "rsiZone": "neutral",
+      "sma20": 1.9659999999999997,
+      "sma20Text": "1.966",
+      "aboveSma20": true,
+      "volatility24hPct": 2.3,
+      "volume24hUsd": 236848156,
+      "volume24hText": "236.85M",
+      "marketCapUsd": 732999223,
+      "marketCapText": "733M",
+      "marketCapRank": 94,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "LayerZero climbed today, but a third of its market value just traded.",
+    "hook": "LayerZero Defies Market Pullback",
+    "segmentLines": [
+      [
+        "LayerZero climbed almost 8% today, pushing its price up to about $2.08.",
+        "It is sitting near the 24-hour high of $2.12 with RSI remaining in neutral territory.",
+        "Over $236 million changed hands today, marking a notable 32% turnover against its market cap."
+      ]
+    ],
+    "takeaway": "Heavy turnover keeps price near the daily highs",
+    "cta": "Do you think LayerZero holds these daily highs, and will you follow to catch the next move?",
+    "title": "LayerZero adds 7.79% to $2.080 as trading volume spikes 📊 #Shorts",
+    "description": "LayerZero (ZRO) gained +7.79% to $2.080 over the last 24 hours while testing a high of $2.120. Daily volume reached $236.85M, accounting for 32.3% of its total market cap.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "layerzero",
+      "zro",
+      "zro crypto",
+      "layerzero token",
+      "crypto volume",
+      "crypto market",
+      "altcoin news",
+      "whale market pulse",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#LayerZero",
+    "#ZRO",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#CryptoAnalysis",
+    "#altcoins"
+  ],
+  "videoId": "Y7T1hs96j3c",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1809,
+    "output_tokens": 272
+  }
+}
