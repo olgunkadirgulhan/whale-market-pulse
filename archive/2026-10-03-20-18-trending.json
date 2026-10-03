@@ -1,0 +1,88 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.05106,
+      "priceText": "0.0511",
+      "change24hPct": 23.86,
+      "high24h": 0.053239,
+      "low24h": 0.04116983,
+      "high24hText": "0.0532",
+      "low24hText": "0.0412",
+      "support": 0.04833869,
+      "resistance": 0.053239,
+      "supportText": "0.0483",
+      "resistanceText": "0.0532",
+      "distToResistancePct": 4.27,
+      "distToSupportPct": 5.33,
+      "rangePositionPct": 82,
+      "rsi14": 74.1,
+      "rsiZone": "overbought",
+      "sma20": 0.047211435499999996,
+      "sma20Text": "0.0472",
+      "aboveSma20": true,
+      "volatility24hPct": 2.81,
+      "volume24hUsd": 104198586,
+      "volume24hText": "104.2M",
+      "marketCapUsd": 379065257,
+      "marketCapText": "379.07M",
+      "marketCapRank": 132,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Starknet is suddenly trending everywhere today, and the trading volume shows why.",
+    "hook": "Starknet Is Trending Fast",
+    "segmentLines": [
+      [
+        "The token surged over 23% today to reach $0.0511 in a strong uptrend.",
+        "It is trading near the 24-hour high of $0.0532, pushing its RSI to an overbought 74.",
+        "More than 27% of its entire market cap changed hands today, totaling over $104 million."
+      ]
+    ],
+    "takeaway": "High volume pushes Starknet into overbought territory",
+    "cta": "Is this the start of a major rally or just temporary hype? Let me know below and follow for more.",
+    "title": "Starknet surges 23.86% to $0.0511 on high market turnover 📊 #Shorts",
+    "description": "Starknet (STRK) climbed +23.86% today to reach $0.0511, trading close to its 24-hour high of $0.0532. The move was backed by $104.2M in trading volume, representing a 27.5% daily turnover.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "starknet",
+      "strk",
+      "crypto",
+      "altcoin",
+      "starknet crypto",
+      "strk token",
+      "crypto volume",
+      "rsi",
+      "blockchain",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Starknet",
+    "#STRK",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#starknet2026",
+    "#Bitcoin"
+  ],
+  "videoId": "ZnkFLj5Fleo",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1821,
+    "output_tokens": 298
+  }
+}
