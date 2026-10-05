@@ -1,0 +1,92 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "image": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.264845,
+      "priceText": "0.2648",
+      "change24hPct": 7.01,
+      "high24h": 0.276329,
+      "low24h": 0.246794,
+      "high24hText": "0.2763",
+      "low24hText": "0.2468",
+      "support": 0.261873,
+      "resistance": 0.276329,
+      "supportText": "0.2619",
+      "resistanceText": "0.2763",
+      "distToResistancePct": 4.34,
+      "distToSupportPct": 1.12,
+      "rangePositionPct": 61,
+      "rsi14": 44.1,
+      "rsiZone": "neutral",
+      "sma20": 0.27078384999999994,
+      "sma20Text": "0.2708",
+      "aboveSma20": false,
+      "volatility24hPct": 1.11,
+      "volume24hUsd": 1200627472,
+      "volume24hText": "1.2B",
+      "marketCapUsd": 9942629864,
+      "marketCapText": "9.94B",
+      "marketCapRank": 17,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Cardano jumped over 7% today, but look where it is sitting now.",
+    "hook": "Cardano Just Made a Move",
+    "segmentLines": [
+      [
+        "Cardano climbed 7.01% to reach $0.2648 across active trading sessions.",
+        "The price sits below the four-hour high of $0.2763 with a neutral RSI of 44.1.",
+        "CoinDesk reports Cardano leads gains in a narrow range-bound market today."
+      ]
+    ],
+    "takeaway": "Trading below the recent high despite the daily green numbers.",
+    "cta": "Real breakout or a bull trap? Tell me below, and follow for the next move.",
+    "title": "Why did Cardano gain 7.01% to $0.2648 today? 📈 #Shorts",
+    "description": "Cardano rose +7.01% to $0.2648 today, holding below its four-hour high of $0.2763 in neutral momentum.\n\nMarket data: CoinGecko\nNews: \"Cardano's ADA leads gains in narrow range-bound market\" (CoinDesk) https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Cardano's ADA leads gains in narrow range-bound market",
+      "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+      "published": 1791196650000,
+      "age_hours": 7
+    },
+    "tags": [
+      "cardano",
+      "ada",
+      "cardano price",
+      "ada token",
+      "crypto market",
+      "crypto movers",
+      "altcoins",
+      "cardano news",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Cardano",
+    "#ADA",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Bitcoin",
+    "#cryptocurrency"
+  ],
+  "videoId": "09NtTZSGsZM",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1851,
+    "output_tokens": 260
+  }
+}
