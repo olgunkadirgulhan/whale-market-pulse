@@ -1,0 +1,330 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    },
+    {
+      "id": "curve-dao-token",
+      "name": "Curve DAO",
+      "symbol": "CRV",
+      "image": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+    },
+    {
+      "id": "ondo-finance",
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+    },
+    {
+      "id": "algorand",
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "image": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978"
+    },
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "symbol": "ADA",
+      "image": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090"
+    },
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 86190,
+      "priceText": "86,190",
+      "change7dPct": 3.66,
+      "change24hPct": 1.47,
+      "weekHigh": 87086,
+      "weekLow": 82581,
+      "weekHighText": "87,086",
+      "weekLowText": "82,581",
+      "rangePositionPct": 80,
+      "rsi14": 63.9,
+      "rsiZone": "neutral",
+      "sma20": 85185.75,
+      "sma20Text": "85,186",
+      "aboveSma20": true,
+      "volume24hUsd": 23867216519,
+      "volume24hText": "23.87B",
+      "marketCapUsd": 1731728510828,
+      "marketCapText": "1.73T",
+      "marketCapRank": 1,
+      "trend": "uptrend"
+    },
+    {
+      "price": 2722.7,
+      "priceText": "2,723",
+      "change7dPct": 2.7,
+      "change24hPct": 1.09,
+      "weekHigh": 2768.44,
+      "weekLow": 2636.99,
+      "weekHighText": "2,768",
+      "weekLowText": "2,637",
+      "rangePositionPct": 65,
+      "rsi14": 57.9,
+      "rsiZone": "neutral",
+      "sma20": 2699.108,
+      "sma20Text": "2,699",
+      "aboveSma20": true,
+      "volume24hUsd": 8848474832,
+      "volume24hText": "8.85B",
+      "marketCapUsd": 332390661001,
+      "marketCapText": "332.39B",
+      "marketCapRank": 2,
+      "trend": "uptrend"
+    },
+    {
+      "price": 1321.78,
+      "priceText": "1,322",
+      "change7dPct": -14.37,
+      "change24hPct": -0.89,
+      "weekHigh": 1597.81,
+      "weekLow": 1276.55,
+      "weekHighText": "1,598",
+      "weekLowText": "1,277",
+      "rangePositionPct": 14,
+      "rsi14": 44,
+      "rsiZone": "neutral",
+      "sma20": 1328.587,
+      "sma20Text": "1,329",
+      "aboveSma20": false,
+      "volume24hUsd": 457808898,
+      "volume24hText": "457.81M",
+      "marketCapUsd": 22426719446,
+      "marketCapText": "22.43B",
+      "marketCapRank": 10,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.380909,
+      "priceText": "0.3809",
+      "change7dPct": 14.19,
+      "change24hPct": 1.9,
+      "weekHigh": 0.414011,
+      "weekLow": 0.322799,
+      "weekHighText": "0.4140",
+      "weekLowText": "0.3228",
+      "rangePositionPct": 64,
+      "rsi14": 58.2,
+      "rsiZone": "neutral",
+      "sma20": 0.37564709999999996,
+      "sma20Text": "0.3756",
+      "aboveSma20": true,
+      "volume24hUsd": 61731348,
+      "volume24hText": "61.73M",
+      "marketCapUsd": 598364547,
+      "marketCapText": "598.36M",
+      "marketCapRank": 106,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.505209,
+      "priceText": "0.5052",
+      "change7dPct": -13.48,
+      "change24hPct": 2.38,
+      "weekHigh": 0.606332,
+      "weekLow": 0.472893,
+      "weekHighText": "0.6063",
+      "weekLowText": "0.4729",
+      "rangePositionPct": 24,
+      "rsi14": 51,
+      "rsiZone": "neutral",
+      "sma20": 0.49509035,
+      "sma20Text": "0.4951",
+      "aboveSma20": true,
+      "volume24hUsd": 144299730,
+      "volume24hText": "144.3M",
+      "marketCapUsd": 2459029576,
+      "marketCapText": "2.46B",
+      "marketCapRank": 46,
+      "trend": "range-bound"
+    },
+    {
+      "price": 0.131929,
+      "priceText": "0.1319",
+      "change7dPct": 12.55,
+      "change24hPct": 1.9,
+      "weekHigh": 0.140195,
+      "weekLow": 0.115069,
+      "weekHighText": "0.1402",
+      "weekLowText": "0.1151",
+      "rangePositionPct": 67,
+      "rsi14": 58.1,
+      "rsiZone": "neutral",
+      "sma20": 0.12951864999999999,
+      "sma20Text": "0.1295",
+      "aboveSma20": true,
+      "volume24hUsd": 72240906,
+      "volume24hText": "72.24M",
+      "marketCapUsd": 1195575376,
+      "marketCapText": "1.2B",
+      "marketCapRank": 74,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.271284,
+      "priceText": "0.2713",
+      "change7dPct": 9.91,
+      "change24hPct": 10.72,
+      "weekHigh": 0.271851,
+      "weekLow": 0.237332,
+      "weekHighText": "0.2719",
+      "weekLowText": "0.2373",
+      "rangePositionPct": 98,
+      "rsi14": 71.8,
+      "rsiZone": "overbought",
+      "sma20": 0.24884330000000002,
+      "sma20Text": "0.2488",
+      "aboveSma20": true,
+      "volume24hUsd": 986551644,
+      "volume24hText": "986.55M",
+      "marketCapUsd": 10175733204,
+      "marketCapText": "10.18B",
+      "marketCapRank": 16,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.247847,
+      "priceText": "0.2478",
+      "change7dPct": -9.85,
+      "change24hPct": 4.32,
+      "weekHigh": 0.280325,
+      "weekLow": 0.228075,
+      "weekHighText": "0.2803",
+      "weekLowText": "0.2281",
+      "rangePositionPct": 38,
+      "rsi14": 44.4,
+      "rsiZone": "neutral",
+      "sma20": 0.23867259999999998,
+      "sma20Text": "0.2387",
+      "aboveSma20": true,
+      "volume24hUsd": 342818053,
+      "volume24hText": "342.82M",
+      "marketCapUsd": 2565926009,
+      "marketCapText": "2.57B",
+      "marketCapRank": 43,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "hook": "Weekly Market Pulse",
+    "overviewLines": [
+      "Total crypto market capitalization rests near two trillion nine hundred billion dollars today.",
+      "Bitcoin dominance holds firm at fifty nine point two percent right now.",
+      "Risk appetite remains mixed across major networks and lesser known altcoins.",
+      "This comprehensive weekly recap covers the most significant price movements and metrics."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is up three point six six percent this week, currently trading at eighty six thousand one hundred and ninety dollars.",
+        "This week brought a high of eighty seven thousand and eighty six and a low of eighty two thousand five hundred and eighty one dollars.",
+        "The relative strength index sits at sixty three point nine in neutral territory.",
+        "Trading activity shows an active uptrend with healthy market participation throughout the period."
+      ],
+      [
+        "Ethereum recorded a two point seven percent increase this week, reaching a price of two thousand seven hundred and twenty three dollars.",
+        "Prices reached a weekly high of two thousand seven68 and a low of two thousand six hundred and thirty seven dollars.",
+        "Market capitalization stands at three hundred and thirty two point three nine billion dollars.",
+        "The asset maintains a steady uptrend while holding above its twenty period moving average."
+      ],
+      [
+        "Zcash declined by fourteen point three seven percent over the week, trading down to one thousand three hundred and twenty two dollars.",
+        "The coin reached a weekly high of one thousand five hundred and ninety eight and a low of one thousand two hundred and seventy seven dollars.",
+        "Volume metrics recorded four hundred and fifty seven point eight one million dollars during this span.",
+        "Price action currently reflects a strong downtrend below the twenty period moving average."
+      ],
+      [
+        "Curve DAO gained fourteen point one nine percent this week, moving to zero point three eight zero nine dollars.",
+        "Data shows a weekly high of zero point four one four zero and a low of zero point three two two eight dollars.",
+        "The relative strength index is registered at fifty eight point two inside neutral zones.",
+        "The market displays a strong uptrend backed by consistent trading volume over the week."
+      ],
+      [
+        "Ondo moved down thirteen point four eight percent across the week to trade at zero point five zero five two dollars.",
+        "The asset saw a weekly high of zero point six zero six three and a low of zero point four seven two nine dollars.",
+        "Trading volume reached one hundred and forty four point three million dollars for the period.",
+        "Price movement remains range bound while continuing to trade above its twenty period average."
+      ],
+      [
+        "Algorand rose twelve point five five percent this week, landing at zero point one three one nine dollars.",
+        "The weekly range spanned from a high of zero point one four zero two down to zero point one one five one dollars.",
+        "Market capitalization sits at one point two billion dollars with a relative strength index of fifty eight point one.",
+        "The token continues a strong uptrend while holding above its twenty period moving average."
+      ],
+      [
+        "Cardano advanced nine point nine one percent this week, bringing its current price to zero point two seven one three dollars.",
+        "The asset registered a weekly high of zero point two seven one nine and a low of zero point two three seven three dollars.",
+        "The relative strength index reached seventy one point eight, placing the asset into overbought territory.",
+        "Volume reached nine hundred and eighty six point five five million dollars during the strong uptrend."
+      ],
+      [
+        "Ethena decreased by nine point eight five percent over the week, settling at zero point two four seven eight dollars.",
+        "Trading ranged between a high of zero point two eight zero three and a low of zero point two two eight one dollars.",
+        "Market capitalization is recorded at two point five seven billion dollars with neutral relative strength readings.",
+        "The broader trend remains range bound while trading above the twenty period moving average."
+      ]
+    ],
+    "takeaway": "Mixed crypto performance with selective altcoin strength and steady bitcoin domi",
+    "cta": "If you enjoyed this breakdown, please consider subscribing to the channel and liking this video.",
+    "title": "Bitcoin Up 3.66% This Week: Weekly Crypto Market Recap and Altcoin Trends",
+    "description": "This weekly market recap covers price action and metrics for Bitcoin, Ethereum, Zcash, Curve DAO, Ondo, Algorand, Cardano, and Ethena. We analyze weekly ranges, volume figures, and trend directions across major digital assets. Data: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "zcash",
+      "zec",
+      "curve dao",
+      "crv",
+      "ondo",
+      "algorand",
+      "algo",
+      "cardano",
+      "ada",
+      "ethena",
+      "ena",
+      "crypto recap",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Zcash",
+    "#ZEC",
+    "#CurveDAO",
+    "#CRV"
+  ],
+  "videoId": "PKfFKhciQ5E",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2430,
+    "output_tokens": 984
+  }
+}
