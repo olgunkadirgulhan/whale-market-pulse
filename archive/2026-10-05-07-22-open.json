@@ -1,0 +1,93 @@
+{
+  "slot": "open",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 86298,
+      "priceText": "86,298",
+      "change24hPct": 1.6,
+      "high24h": 86949,
+      "low24h": 84916,
+      "high24hText": "86,949",
+      "low24hText": "84,916",
+      "support": 85428,
+      "resistance": 86510,
+      "supportText": "85,428",
+      "resistanceText": "86,510",
+      "distToResistancePct": 0.25,
+      "distToSupportPct": 1.01,
+      "rangePositionPct": 68,
+      "rsi14": 56.5,
+      "rsiZone": "neutral",
+      "sma20": 86204.95,
+      "sma20Text": "86,205",
+      "aboveSma20": true,
+      "volatility24hPct": 0.36,
+      "volume24hUsd": 23717818076,
+      "volume24hText": "23.72B",
+      "marketCapUsd": 1734037760250,
+      "marketCapText": "1.73T",
+      "marketCapRank": 1,
+      "trend": "uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Bitcoin approached a major milestone today, but the momentum suddenly shifted.",
+    "hook": "Bitcoin Faces Resistance",
+    "segmentLines": [
+      [
+        "Bitcoin gained 1.6% over the last day, bringing the price to $86,298.",
+        "It is in an uptrend above its simple moving average, with a neutral RSI of 56.5.",
+        "This comes as CoinDesk reports Bitcoin zoomed toward $87,000 before reversing just below that level."
+      ]
+    ],
+    "takeaway": "Uptrend remains intact despite the brief pullback",
+    "cta": "Will Bitcoin break past $87,000 or pull back? Tell me below and follow for the next move.",
+    "title": "Bitcoin rises 1.6% to $86,298 but faces a sudden reversal 📉 #Shorts",
+    "description": "Bitcoin rose 1.6% over the last 24 hours to $86,298. The cryptocurrency approached a 24-hour high of $86,949 before pulling back slightly.\n\nMarket data: CoinGecko\nNews: \"Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses\" (CoinDesk) https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "published": 1791174205000,
+      "age_hours": 3
+    },
+    "tags": [
+      "bitcoin",
+      "btc",
+      "crypto",
+      "bitcoin price",
+      "bitcoin news",
+      "btc analysis",
+      "crypto market",
+      "bitcoin trend",
+      "coindesk",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#cryptotrading",
+    "#goldtrading"
+  ],
+  "videoId": "Wa3KXCSGjIo",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1935,
+    "output_tokens": 252
+  }
+}
