@@ -110,5 +110,21 @@
     "title": "MON +32% This Week: What Moved Crypto Markets and What Didn't",
     "videoId": "Hwf8SshsVkQ",
     "durationSec": 278.568
+  },
+  {
+    "at": "2026-10-05T07:21:00.673Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "starknet",
+      "pump-fun",
+      "layerzero",
+      "aave",
+      "bonk",
+      "lighter"
+    ],
+    "title": "Starknet +45% This Week: What Moved Crypto Markets and What Didn't",
+    "videoId": null,
+    "durationSec": 292.632
   }
 ]

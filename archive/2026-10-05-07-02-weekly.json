@@ -1,0 +1,321 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    },
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    },
+    {
+      "id": "layerzero",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "image": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208"
+    },
+    {
+      "id": "aave",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "image": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354"
+    },
+    {
+      "id": "bonk",
+      "name": "Bonk",
+      "symbol": "BONK",
+      "image": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587"
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 86211,
+      "priceText": "86,211",
+      "change7dPct": 3.66,
+      "change24hPct": 1.41,
+      "weekHigh": 87086,
+      "weekLow": 82581,
+      "weekHighText": "87,086",
+      "weekLowText": "82,581",
+      "rangePositionPct": 81,
+      "rsi14": 63.9,
+      "rsiZone": "neutral",
+      "sma20": 85185.75,
+      "sma20Text": "85,186",
+      "aboveSma20": true,
+      "volume24hUsd": 23027856237,
+      "volume24hText": "23.03B",
+      "marketCapUsd": 1732392644184,
+      "marketCapText": "1.73T",
+      "marketCapRank": 1,
+      "trend": "uptrend"
+    },
+    {
+      "price": 2724.62,
+      "priceText": "2,725",
+      "change7dPct": 2.7,
+      "change24hPct": 1.07,
+      "weekHigh": 2768.44,
+      "weekLow": 2636.99,
+      "weekHighText": "2,768",
+      "weekLowText": "2,637",
+      "rangePositionPct": 67,
+      "rsi14": 57.9,
+      "rsiZone": "neutral",
+      "sma20": 2699.108,
+      "sma20Text": "2,699",
+      "aboveSma20": true,
+      "volume24hUsd": 8613157933,
+      "volume24hText": "8.61B",
+      "marketCapUsd": 332693535048,
+      "marketCapText": "332.69B",
+      "marketCapRank": 2,
+      "trend": "uptrend"
+    },
+    {
+      "price": 0.057289,
+      "priceText": "0.0573",
+      "change7dPct": 45.34,
+      "change24hPct": 6.44,
+      "weekHigh": 0.060708,
+      "weekLow": 0.03871791,
+      "weekHighText": "0.0607",
+      "weekLowText": "0.0387",
+      "rangePositionPct": 84,
+      "rsi14": 73.1,
+      "rsiZone": "overbought",
+      "sma20": 0.0489499825,
+      "sma20Text": "0.0489",
+      "aboveSma20": true,
+      "volume24hUsd": 167555193,
+      "volume24hText": "167.56M",
+      "marketCapUsd": 425142499,
+      "marketCapText": "425.14M",
+      "marketCapRank": 126,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.00643592,
+      "priceText": "0.006436",
+      "change7dPct": 24.57,
+      "change24hPct": 0.34,
+      "weekHigh": 0.00678867,
+      "weekLow": 0.0046822,
+      "weekHighText": "0.006789",
+      "weekLowText": "0.004682",
+      "rangePositionPct": 83,
+      "rsi14": 61.8,
+      "rsiZone": "neutral",
+      "sma20": 0.005996918000000001,
+      "sma20Text": "0.005997",
+      "aboveSma20": true,
+      "volume24hUsd": 331725813,
+      "volume24hText": "331.73M",
+      "marketCapUsd": 2987742543,
+      "marketCapText": "2.99B",
+      "marketCapRank": 39,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 1.9,
+      "priceText": "1.900",
+      "change7dPct": 23.71,
+      "change24hPct": -4.96,
+      "weekHigh": 2.14,
+      "weekLow": 1.43,
+      "weekHighText": "2.140",
+      "weekLowText": "1.430",
+      "rangePositionPct": 66,
+      "rsi14": 54.1,
+      "rsiZone": "neutral",
+      "sma20": 1.9139999999999993,
+      "sma20Text": "1.914",
+      "aboveSma20": false,
+      "volume24hUsd": 105777394,
+      "volume24hText": "105.78M",
+      "marketCapUsd": 672374091,
+      "marketCapText": "672.37M",
+      "marketCapRank": 99,
+      "trend": "range-bound"
+    },
+    {
+      "price": 180.83,
+      "priceText": "180.83",
+      "change7dPct": 20.4,
+      "change24hPct": -0.91,
+      "weekHigh": 187,
+      "weekLow": 144.24,
+      "weekHighText": "187.00",
+      "weekLowText": "144.24",
+      "rangePositionPct": 86,
+      "rsi14": 62,
+      "rsiZone": "neutral",
+      "sma20": 180.21999999999997,
+      "sma20Text": "180.22",
+      "aboveSma20": true,
+      "volume24hUsd": 287337428,
+      "volume24hText": "287.34M",
+      "marketCapUsd": 2791322500,
+      "marketCapText": "2.79B",
+      "marketCapRank": 41,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.00000403,
+      "priceText": "0.00000403",
+      "change7dPct": 15.38,
+      "change24hPct": 4.32,
+      "weekHigh": 0.00000403,
+      "weekLow": 0.00000336,
+      "weekHighText": "0.00000403",
+      "weekLowText": "0.00000336",
+      "rangePositionPct": 100,
+      "rsi14": 66.5,
+      "rsiZone": "neutral",
+      "sma20": 0.0000037869999999999995,
+      "sma20Text": "0.00000379",
+      "aboveSma20": true,
+      "volume24hUsd": 50795216,
+      "volume24hText": "50.8M",
+      "marketCapUsd": 354526506,
+      "marketCapText": "354.53M",
+      "marketCapRank": 137,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 3.79,
+      "priceText": "3.790",
+      "change7dPct": -14.38,
+      "change24hPct": 4.45,
+      "weekHigh": 4.6,
+      "weekLow": 3.42,
+      "weekHighText": "4.600",
+      "weekLowText": "3.420",
+      "rangePositionPct": 31,
+      "rsi14": 43.9,
+      "rsiZone": "neutral",
+      "sma20": 3.6295,
+      "sma20Text": "3.630",
+      "aboveSma20": true,
+      "volume24hUsd": 95017748,
+      "volume24hText": "95.02M",
+      "marketCapUsd": 948608288,
+      "marketCapText": "948.61M",
+      "marketCapRank": 82,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto",
+    "overviewLines": [
+      "Total crypto market capitalization rests at two trillion nine hundred billion dollars.",
+      "Bitcoin dominance stands at fifty nine point three percent across exchanges today.",
+      "Risk appetite remains varied as markets navigate recent price shifts and trends.",
+      "This weekly recap covers the major movements across eight prominent digital assets."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is up three point six six percent this week at eighty six thousand two hundred and eleven dollars.",
+        "This week reached a high of eighty seven thousand and eighty six dollars with a low of eighty two thousand five hundred and eighty one dollars.",
+        "Trading volume reached twenty three point zero three billion dollars with market capitalization at one point seven three trillion dollars.",
+        "The asset maintains an uptrend with the relative strength index sitting at sixty three point nine."
+      ],
+      [
+        "Ethereum is up two point seven percent this week at two thousand seven hundred and twenty five dollars.",
+        "This week recorded a high of two thousand seven hundred and sixty eight dollars and a low of two thousand six hundred and thirty seven dollars.",
+        "Trading volume reached eight point six one billion dollars alongside a total market capitalization of three hundred and thirty two point six nine billion dollars.",
+        "The asset shows an uptrend with the relative strength index measured at fifty seven point nine."
+      ],
+      [
+        "Starknet is up forty five point three four percent this week at zero point zero five seven three dollars.",
+        "Price action recorded a week high of zero point zero six zero seven dollars and a week low of zero point zero three eight seven dollars.",
+        "Trading volume measured one hundred and sixty seven point five six million dollars with a market capitalization of four hundred and twenty five point one four million dollars.",
+        "The asset displays a strong uptrend while the relative strength index reaches seventy three point one in overbought territory."
+      ],
+      [
+        "Pump.fun is up twenty four point five seven percent this week at zero point zero zero six four three six dollars.",
+        "The asset reached a week high of zero point zero zero...",
+        "The asset reached a week high of zero point zero zero six seven eight nine dollars and a week low of zero point zero zero four six eight two dollars.",
+        "Trading volume totaled three hundred and thirty one point seven three million dollars with a market cap of two point nine nine billion dollars."
+      ],
+      [
+        "LayerZero is up twenty three point seven one percent this week at one point nine dollars.",
+        "The asset recorded a week high of two point one four dollars and a week low of one point four three dollars.",
+        "Trading volume reached one hundred and five point seven eight million dollars with a market cap of six hundred and seventy two point three seven million dollars.",
+        "The asset trades in a range-bound trend with the relative strength index registered at fifty four point one."
+      ],
+      [
+        "Aave is up twenty point four percent this week at one hundred and eighty dollars and eighty three cents.",
+        "The asset logged a week high of one hundred and eighty seven dollars and a week low of one hundred and forty four dollars and twenty four cents.",
+        "Trading volume registered two hundred and eighty seven point three four million dollars alongside a market cap of two point seven nine billion dollars.",
+        "The asset maintains a strong uptrend with the relative strength index recorded at sixty two."
+      ],
+      [
+        "Bonk is up fifteen point three eight percent this week at zero point zero zero zero zero zero four zero three dollars.",
+        "The asset reached a week high of zero point zero zero zero zero zero four zero three dollars and a week low of zero point zero zero zero zero zero three three six dollars.",
+        "Trading volume tallied fifty point eight million dollars while market capitalization reached three hundred and fifty four point five three million dollars.",
+        "The asset exhibits a strong uptrend alongside a relative strength index reading of sixty six point five."
+      ],
+      [
+        "Lighter is down fourteen point three eight percent this week at three point seven nine dollars.",
+        "This week saw a high of four point six dollars and a low of three point four two dollars.",
+        "Trading volume reached ninety five point zero two million dollars with a total market capitalization of nine hundred and forty eight point six one million dollars.",
+        "The asset moves in a range-bound trend while the relative strength index sits at forty three point nine."
+      ]
+    ],
+    "takeaway": "Mixed momentum defined the week as major assets navigated varied trading ranges.",
+    "cta": "Please support the channel by hitting the like button and subscribing for more weekly recaps.",
+    "title": "Starknet +45% This Week: What Moved Crypto Markets and What Didn't",
+    "description": "This week's recap covers Bitcoin, Ethereum, Starknet, Pump.fun, LayerZero, Aave, Bonk, and Lighter, reviewing their recent price moves, volume data, and market trends.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "starknet",
+      "strk",
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "pump",
+      "layerzero",
+      "zro",
+      "aave",
+      "bonk",
+      "lighter",
+      "lit",
+      "crypto recap",
+      "market pulse",
+      "pump.fun",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [],
+  "videoId": null,
+  "thumbnailSet": false,
+  "usage": {
+    "input_tokens": 2455,
+    "output_tokens": 1145
+  }
+}
