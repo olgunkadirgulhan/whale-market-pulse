@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-22T10:54:40.174Z",
-    "slot": "open",
-    "coinIds": [
-      "bitcoin",
-      "ethereum",
-      "pepe"
-    ],
-    "title": "BTC / ETH / PEPE Market Brief: Prices, Ranges and RSI #Shorts",
-    "videoId": null,
-    "durationSec": 46.488
-  },
-  {
     "at": "2026-09-22T11:07:37.785Z",
     "slot": "open",
     "coinIds": [
@@ -420,5 +408,15 @@
     "title": "Why did Cardano gain 7.01% to $0.2648 today? 📈 #Shorts",
     "videoId": "09NtTZSGsZM",
     "durationSec": 32.328
+  },
+  {
+    "at": "2026-10-05T20:21:16.725Z",
+    "slot": "trending",
+    "coinIds": [
+      "quant-network"
+    ],
+    "title": "Quant slips -2.44% to $251.00 as search interest rises 🔍 #Shorts",
+    "videoId": "tqdChzvPPzY",
+    "durationSec": 31.296
   }
 ]

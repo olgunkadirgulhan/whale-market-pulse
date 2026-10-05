@@ -1,0 +1,86 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 251,
+      "priceText": "251.00",
+      "change24hPct": -2.44,
+      "high24h": 263.48,
+      "low24h": 245.64,
+      "high24hText": "263.48",
+      "low24hText": "245.64",
+      "support": 251.41,
+      "resistance": 256.91,
+      "supportText": "251.41",
+      "resistanceText": "256.91",
+      "distToResistancePct": 2.35,
+      "distToSupportPct": -0.16,
+      "rangePositionPct": 30,
+      "rsi14": 44.4,
+      "rsiZone": "neutral",
+      "sma20": 254.871,
+      "sma20Text": "254.87",
+      "aboveSma20": false,
+      "volatility24hPct": 1.39,
+      "volume24hUsd": 219085419,
+      "volume24hText": "219.09M",
+      "marketCapUsd": 3650493002,
+      "marketCapText": "3.65B",
+      "marketCapRank": 33,
+      "trend": "downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Quant is trending hard today, but the chart shows a different story.",
+    "hook": "Quant Is Trending Today",
+    "segmentLines": [
+      [
+        "Quant slipped over 2% today to $251, continuing its recent downtrend.",
+        "The price is now trading below its last four-hour low of about $251.",
+        "Still, over $219 million in volume moved today as the token sits in a neutral RSI zone."
+      ]
+    ],
+    "takeaway": "Trading below the four-hour low on steady volume",
+    "cta": "Will Quant bounce from this level or slide further? Let me know your thoughts and follow for more updates.",
+    "title": "Quant slips -2.44% to $251.00 as search interest rises 🔍 #Shorts",
+    "description": "Quant (QNT) fell -2.44% to $251.00 today, trading below its last 4-hour low of $251.41. Despite the downtrend, 24-hour trading volume reached $219.09M with a neutral 14-day RSI of 44.4.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "quant",
+      "qnt",
+      "quant crypto",
+      "qnt price",
+      "quant news",
+      "crypto volume",
+      "rsi neutral",
+      "downtrend",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Quant",
+    "#QNT",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#CryptoAnalysis",
+    "#QuantNetwork"
+  ],
+  "videoId": "tqdChzvPPzY",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1824,
+    "output_tokens": 272
+  }
+}
