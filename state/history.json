@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-22T11:28:50.578Z",
-    "slot": "open",
-    "coinIds": [
-      "bitcoin",
-      "ethereum",
-      "near"
-    ],
-    "title": "BTC / ETH / NEAR Market Brief: Prices, Ranges and RSI #Shorts",
-    "videoId": "A3-wl4fyTdw",
-    "durationSec": 42.096
-  },
-  {
     "at": "2026-09-22T18:07:35.548Z",
     "slot": "trending",
     "coinIds": [
@@ -416,5 +404,15 @@
     "title": "BNB consolidates at $784.21 as daily volume reaches $670.74M 📊 #Shorts",
     "videoId": "FZEgjLva98s",
     "durationSec": 35.496
+  },
+  {
+    "at": "2026-10-06T17:21:14.184Z",
+    "slot": "mover",
+    "coinIds": [
+      "render-token"
+    ],
+    "title": "Render gains 8.69% to $2.150 while testing the four-hour high 📈 #Shorts",
+    "videoId": "0G_ZCbE7F9M",
+    "durationSec": 34.752
   }
 ]

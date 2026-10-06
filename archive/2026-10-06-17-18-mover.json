@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "render-token",
+      "name": "Render",
+      "symbol": "RENDER",
+      "image": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 2.15,
+      "priceText": "2.150",
+      "change24hPct": 8.69,
+      "high24h": 2.19,
+      "low24h": 1.98,
+      "high24hText": "2.190",
+      "low24hText": "1.980",
+      "support": 2.13,
+      "resistance": 2.19,
+      "supportText": "2.130",
+      "resistanceText": "2.190",
+      "distToResistancePct": 1.86,
+      "distToSupportPct": 0.93,
+      "rangePositionPct": 81,
+      "rsi14": 58.8,
+      "rsiZone": "neutral",
+      "sma20": 2.131,
+      "sma20Text": "2.131",
+      "aboveSma20": true,
+      "volatility24hPct": 1.1,
+      "volume24hUsd": 117246963,
+      "volume24hText": "117.25M",
+      "marketCapUsd": 1117298216,
+      "marketCapText": "1.12B",
+      "marketCapRank": 78,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Render jumped almost 9% today, but where is it sitting right now?",
+    "hook": "Render Just Surged",
+    "segmentLines": [
+      [
+        "Render climbed 8.69% today to reach $2.150 amid an active trading session.",
+        "The coin sits just under the four-hour high of $2.190 with the RSI at 58.8.",
+        "A total of $117.25M in volume moved as the asset maintains a strong uptrend."
+      ]
+    ],
+    "takeaway": "Holding near the highs in a strong uptrend",
+    "cta": "Real momentum or just pausing near the top? Tell me below and follow for the next move.",
+    "title": "Render gains 8.69% to $2.150 while testing the four-hour high 📈 #Shorts",
+    "description": "Render rose +8.69% to $2.150 today, trading near its four-hour high of $2.190 with a 24-hour volume of $117.25M.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "render",
+      "rndr",
+      "render price",
+      "crypto news",
+      "crypto market",
+      "altcoins",
+      "market pulse",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Render",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#Altcoins",
+    "#CryptoTrading",
+    "#CryptoAnalysis"
+  ],
+  "videoId": "0G_ZCbE7F9M",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1831,
+    "output_tokens": 321
+  }
+}
