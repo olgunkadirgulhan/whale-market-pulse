@@ -59,9 +59,26 @@ SPOKEN TEXT (also shown word for word as captions, so write numbers as digits: "
 ON-SCREEN / METADATA
 - hook: opening card text, max 45 characters, no digits and no number words, no final period. The coin's % change is shown right under it. Good: "Quant Just Woke Up", "Nobody Saw This Coming".
 - takeaway: closing card headline, max 55 characters: the insight in one line, not a repeat of the price move (e.g. "Big day, but it's already off the highs").
-- title: max 70 characters plus " #Shorts". Earns the click with the story, not a data list: the coin's name or symbol, the move, and a curiosity angle. At most one emoji, never 🚀 🌕 💎 🤑 (they read as hype). Every number from the input. Never reuse the structure of a title in "recent_titles". Never use "Market Brief", "Price Analysis", "Prices, Ranges and RSI", "Trading Activity", "Movers of the Day".
+- title: max 70 characters plus " #Shorts". Earns the click with the story, not a data list: the coin's name or symbol, the move, and a curiosity angle. At most one emoji, never 🚀 🌕 💎 🤑 (they read as hype). Every number from the input. Never reuse the structure of a title in "recent_titles". Never use "Market Brief", "Price Analysis", "Prices, Ranges and RSI", "Trading Activity", "Movers of the Day". Write the title in the "title_style" given in the input (it rotates so the channel never looks templated); the classic "X jumps Y% to $Z" pattern is only allowed when title_style says so.
 - summary: 1-2 plain sentences for the top of the description saying what happened to this coin today, with exact figures as digits ("+18.63% to $94.41").
 - tags: 8 to 14 lowercase search phrases, 2 to 25 characters, no "#". Include the coin's name and symbol.`;
+
+// Title angles rotate per video: the July 2026 YouTube rules treat channels whose titles all share one
+// pattern ("X jumps Y% to $Z") as templated / mass-produced content.
+const TITLE_STYLES = [
+  "question: ask what is behind the move (e.g. 'What just happened to <coin>?')",
+  "contrast: the coin vs the rest of the market (e.g. '<coin> green while everything bleeds')",
+  "number-first: lead with the single most surprising number from the input",
+  "plain-English: explain the move like to a friend, no ticker jargon",
+  "story: the coin's day as a mini story with a turn ('<coin> fell, then this happened')",
+  "classic: name, move and price (the 'X jumps Y% to $Z' pattern)",
+];
+
+function pickTitleStyle(recentTitles = []) {
+  const classicRecent = recentTitles.slice(-3).some((t) => /\b(jumps|climbs|gains|drops|falls|slides)\b.*\d+(\.\d+)?%/i.test(t));
+  const pool = classicRecent ? TITLE_STYLES.filter((s) => !s.startsWith("classic")) : TITLE_STYLES;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
 
 export async function generateScript({ slot, segments, global, avoidTitles, headlines = [] }) {
   const { coin, metrics, sentiment } = segments[0];
@@ -96,6 +113,7 @@ export async function generateScript({ slot, segments, global, avoidTitles, head
     },
     headlines: headlines.map((h, i) => ({ index: i, source: h.source, title: h.title, age_hours: h.age_hours })),
     recent_titles: avoidTitles,
+    title_style: pickTitleStyle(avoidTitles),
   };
 
   // Free LLMs first (Gemini -> Groq); the original Claude call below is only a last resort.
