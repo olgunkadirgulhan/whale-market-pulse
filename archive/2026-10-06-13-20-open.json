@@ -1,0 +1,87 @@
+{
+  "slot": "open",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "binancecoin",
+      "name": "BNB",
+      "symbol": "BNB",
+      "image": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 784.21,
+      "priceText": "784.21",
+      "change24hPct": -0.8,
+      "high24h": 793.04,
+      "low24h": 778.04,
+      "high24hText": "793.04",
+      "low24hText": "778.04",
+      "support": 781.54,
+      "resistance": 785.93,
+      "supportText": "781.54",
+      "resistanceText": "785.93",
+      "distToResistancePct": 0.22,
+      "distToSupportPct": 0.34,
+      "rangePositionPct": 41,
+      "rsi14": 59.6,
+      "rsiZone": "neutral",
+      "sma20": 781.8615,
+      "sma20Text": "781.86",
+      "aboveSma20": true,
+      "volatility24hPct": 0.22,
+      "volume24hUsd": 670742991,
+      "volume24hText": "670.74M",
+      "marketCapUsd": 104417385786,
+      "marketCapText": "104.42B",
+      "marketCapRank": 4,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "BNB is holding steady today, but look where it sits on the chart.",
+    "hook": "BNB Holding Its Ground",
+    "segmentLines": [
+      [
+        "The fourth-largest coin dipped less than one percent today, trading at about $784.",
+        "It sits just point two percent below its four-hour high of about $786, showing tight consolidation.",
+        "With a neutral RSI of nearly 60, trading remains range-bound on over $670 million in daily volume."
+      ]
+    ],
+    "takeaway": "Tight consolidation near the four-hour high",
+    "cta": "Is BNB preparing for a breakout, or is this range-bound action a trap? Let me know below and follow for the next move.",
+    "title": "BNB consolidates at $784.21 as daily volume reaches $670.74M 📊 #Shorts",
+    "description": "BNB dipped -0.8% to $784.21 today, trading in a range-bound trend. The coin remains just 0.22% below its four-hour high of $785.93 on $670.74M in daily volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "bnb",
+      "binance coin",
+      "bnb price",
+      "bnb analysis",
+      "crypto",
+      "binance",
+      "bnb volume",
+      "crypto market",
+      "altcoins",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#BNB",
+    "#crypto",
+    "#cryptonews",
+    "#trading",
+    "#Shorts",
+    "#cryptocurrency",
+    "#bitcoin",
+    "#altcoin"
+  ],
+  "videoId": "FZEgjLva98s",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1835,
+    "output_tokens": 280
+  }
+}
