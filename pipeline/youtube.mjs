@@ -14,51 +14,12 @@ export function youtubeClient() {
 const toHashtag = (s) =>
   "#" + s.replace(/[^a-zA-Z0-9]/g, "").replace(/^[0-9]+/, "").slice(0, 24);
 
-// Pulls the tags actually used by recent high-view videos on these coins, so the
-// hashtags track what is trending on YouTube now instead of a hardcoded list.
-// One search call covers all coins in the video - same YouTube quota as a
-// single-coin lookup, since search.list (100 units) dominates the cost.
-export async function discoverTrendingHashtags(yt, coins) {
-  const baseline = [...coins.flatMap((c) => [c.name, c.symbol]), "crypto", "cryptonews", "trading", "Shorts"];
-  try {
-    const search = await yt.search.list({
-      part: ["snippet"],
-      q: `${coins.map((c) => c.symbol).join(" ")} crypto price analysis`,
-      type: ["video"],
-      order: "viewCount",
-      publishedAfter: new Date(Date.now() - 14 * 86400000).toISOString(),
-      maxResults: 20,
-      regionCode: "US",
-      relevanceLanguage: "en",
-    });
+// Hashtags come from a fixed, on-topic list plus the coins in the video. We do NOT copy tags from
+// other creators' videos: those can carry channel names or unrelated tags (misleading metadata / spam policy).
+const SAFE_TAGS = ["crypto", "cryptonews", "altcoins", "bitcoin", "cryptomarket", "Shorts"];
 
-    const ids = (search.data.items ?? []).map((i) => i.id?.videoId).filter(Boolean);
-    if (!ids.length) return dedupeHashtags(baseline);
-
-    const videos = await yt.videos.list({ part: ["snippet"], id: ids });
-    const counts = new Map();
-    for (const v of videos.data.items ?? []) {
-      const found = [
-        ...(v.snippet?.tags ?? []),
-        ...`${v.snippet?.title ?? ""} ${v.snippet?.description ?? ""}`.match(/#[\p{L}\p{N}_]+/gu)?.map((h) => h.slice(1)) ?? [],
-      ];
-      for (const raw of found) {
-        const tag = toHashtag(raw);
-        if (tag.length < 4 || tag.length > 25) continue;
-        counts.set(tag, (counts.get(tag) ?? 0) + 1);
-      }
-    }
-
-    const ranked = [...counts.entries()]
-      .filter(([, n]) => n >= 2)
-      .sort((a, b) => b[1] - a[1])
-      .map(([tag]) => tag);
-
-    return dedupeHashtags([...baseline, ...ranked]);
-  } catch (err) {
-    console.warn(`  hashtag discovery failed, using baseline: ${err.message}`);
-    return dedupeHashtags(baseline);
-  }
+export async function discoverTrendingHashtags(_yt, coins) {
+  return dedupeHashtags([...coins.flatMap((c) => [c.name, c.symbol]), ...SAFE_TAGS]);
 }
 
 // YouTube ignores every hashtag in a description once there are more than 15,
