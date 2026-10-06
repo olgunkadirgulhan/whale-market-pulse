@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-22T18:07:35.548Z",
-    "slot": "trending",
-    "coinIds": [
-      "astronaut-2",
-      "pudgy-penguins",
-      "aurora-near"
-    ],
-    "title": "ASTRO / PENGU / AURORA Trending Coins: Prices, Ranges and RSI #Shorts",
-    "videoId": "Em2G_P3yr0Q",
-    "durationSec": 46.92
-  },
-  {
     "at": "2026-09-22T21:57:40.671Z",
     "slot": "trending",
     "coinIds": [
@@ -414,5 +402,15 @@
     "title": "Render gains 8.69% to $2.150 while testing the four-hour high 📈 #Shorts",
     "videoId": "0G_ZCbE7F9M",
     "durationSec": 34.752
+  },
+  {
+    "at": "2026-10-06T20:39:57.001Z",
+    "slot": "trending",
+    "coinIds": [
+      "pudgy-penguins"
+    ],
+    "title": "PENGU fell 6.37% to $0.009205 then Abstract shut down 🐧 #Shorts",
+    "videoId": "alMQTN0K14k",
+    "durationSec": 33.792
   }
 ]

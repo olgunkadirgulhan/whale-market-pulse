@@ -1,0 +1,92 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.00920545,
+      "priceText": "0.009205",
+      "change24hPct": -6.37,
+      "high24h": 0.00986404,
+      "low24h": 0.00901095,
+      "high24hText": "0.009864",
+      "low24hText": "0.009011",
+      "support": 0.00901095,
+      "resistance": 0.00946914,
+      "supportText": "0.009011",
+      "resistanceText": "0.009469",
+      "distToResistancePct": 2.86,
+      "distToSupportPct": 2.11,
+      "rangePositionPct": 23,
+      "rsi14": 26.4,
+      "rsiZone": "oversold",
+      "sma20": 0.009490840499999998,
+      "sma20Text": "0.009491",
+      "aboveSma20": false,
+      "volatility24hPct": 1.14,
+      "volume24hUsd": 209865221,
+      "volume24hText": "209.87M",
+      "marketCapUsd": 578472550,
+      "marketCapText": "578.47M",
+      "marketCapRank": 108,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Search interest for Pudgy Penguins is spiking yet the price just hit a new low.",
+    "hook": "Pudgy Penguins Trending For The Wrong Reason",
+    "segmentLines": [
+      [
+        "The token dropped over 6% to about $0.0092 while over a third of the supply changed hands.",
+        "It is currently sitting in the oversold zone with an RSI of 26 after testing the 24-hour low.",
+        "This comes as Decrypt reports that the Pudgy Penguins Ethereum Layer-2 project Abstract is shutting down."
+      ]
+    ],
+    "takeaway": "Oversold RSI after Layer-2 project shutdown news",
+    "cta": "Is this a temporary dip or the start of a longer trend? Tell me below and follow for the next move.",
+    "title": "PENGU fell 6.37% to $0.009205 then Abstract shut down 🐧 #Shorts",
+    "description": "Pudgy Penguins (PENGU) declined -6.37% to $0.009205 while trading volume reached $209.87 million. The move follows news from Decrypt that the Abstract Layer-2 project is shutting down.\n\nMarket data: CoinGecko\nNews: \"Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down\" (Decrypt) https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Decrypt",
+      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+      "link": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+      "published": 1791318533000,
+      "age_hours": 0
+    },
+    "tags": [
+      "pudgy penguins",
+      "pengu",
+      "crypto news",
+      "rsi",
+      "trading volume",
+      "abstract layer 2",
+      "ethereum",
+      "nft",
+      "market analysis",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#PudgyPenguins",
+    "#PENGU",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "alMQTN0K14k",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1967,
+    "output_tokens": 282
+  }
+}
