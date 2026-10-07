@@ -1,0 +1,85 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "official-trump",
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.86,
+      "priceText": "1.860",
+      "change24hPct": -7.23,
+      "high24h": 2.02,
+      "low24h": 1.83,
+      "high24hText": "2.020",
+      "low24hText": "1.830",
+      "support": 1.83,
+      "resistance": 1.86,
+      "supportText": "1.830",
+      "resistanceText": "1.860",
+      "distToResistancePct": 0,
+      "distToSupportPct": 1.61,
+      "rangePositionPct": 16,
+      "rsi14": 46.3,
+      "rsiZone": "neutral",
+      "sma20": 1.8485000000000003,
+      "sma20Text": "1.849",
+      "aboveSma20": true,
+      "volatility24hPct": 0.5,
+      "volume24hUsd": 209233157,
+      "volume24hText": "209.23M",
+      "marketCapUsd": 524110399,
+      "marketCapText": "524.11M",
+      "marketCapRank": 113,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Official Trump is trending everywhere today, but look at how much changed hands.",
+    "hook": "Official Trump Trending Today",
+    "segmentLines": [
+      [
+        "The token fell over 7% today to sit at about $1.86.",
+        "It is currently trading right at the four-hour high after bouncing off its 24-hour low.",
+        "Despite the range-bound trend, almost 40% of the market cap was traded in 24 hours."
+      ]
+    ],
+    "takeaway": "Heavy volume but the price remains range-bound",
+    "cta": "Is this drop a temporary pullback or the start of a trend? Tell me below and follow for the next move.",
+    "title": "Official Trump drops 7.23% to $1.860 as volume spikes 📉 #Shorts",
+    "description": "Official Trump (TRUMP) fell -7.23% to $1.860 today. The coin remains range-bound but saw high trading activity with a 24-hour turnover rate of 39.9%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "official trump",
+      "trump",
+      "trump crypto",
+      "trump token",
+      "crypto trading",
+      "whale market pulse",
+      "trump rsi",
+      "trump volume",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#OfficialTrump",
+    "#TRUMP",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "pKmJsJpJBHE",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1912,
+    "output_tokens": 252
+  }
+}

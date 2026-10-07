@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-23T14:14:10.718Z",
-    "slot": "mover",
-    "coinIds": [
-      "lighter",
-      "pudgy-penguins",
-      "dash"
-    ],
-    "title": "LIT / PENGU / DASH Movers of the Day: Price Analysis #Shorts",
-    "videoId": "txK9P4EcAy0",
-    "durationSec": 38.808
-  },
-  {
     "at": "2026-09-23T22:12:32.756Z",
     "slot": "trending",
     "coinIds": [
@@ -408,5 +396,15 @@
     "title": "What just happened to Filecoin dropping 11.26% to $1.030? 📉 #Shorts",
     "videoId": "1oO_0grvW18",
     "durationSec": 36.576
+  },
+  {
+    "at": "2026-10-07T21:26:10.028Z",
+    "slot": "trending",
+    "coinIds": [
+      "official-trump"
+    ],
+    "title": "Official Trump drops 7.23% to $1.860 as volume spikes 📉 #Shorts",
+    "videoId": "pKmJsJpJBHE",
+    "durationSec": 30.936
   }
 ]
