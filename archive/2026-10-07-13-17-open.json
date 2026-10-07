@@ -1,0 +1,91 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 2561.63,
+      "priceText": "2,562",
+      "change24hPct": -5.55,
+      "high24h": 2723.16,
+      "low24h": 2567.33,
+      "high24hText": "2,723",
+      "low24hText": "2,567",
+      "support": 2567.33,
+      "resistance": 2610.84,
+      "supportText": "2,567",
+      "resistanceText": "2,611",
+      "distToResistancePct": 1.92,
+      "distToSupportPct": -0.22,
+      "rangePositionPct": -4,
+      "rsi14": 15.6,
+      "rsiZone": "oversold",
+      "sma20": 2601.694,
+      "sma20Text": "2,602",
+      "aboveSma20": false,
+      "volatility24hPct": 0.32,
+      "volume24hUsd": 18114982890,
+      "volume24hText": "18.11B",
+      "marketCapUsd": 312771662279,
+      "marketCapText": "312.77B",
+      "marketCapRank": 2,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Ethereum is sliding fast today, and its chart just hit a very rare level.",
+    "hook": "Ethereum Triggers Rare Signal",
+    "segmentLines": [
+      [
+        "The second largest crypto fell over 5% today to about $2,562.",
+        "This drop pushed its RSI down to 15.6, which is deep in oversold territory.",
+        "This slide comes as CoinDesk reports another Ethereum layer 2 network is shutting down."
+      ]
+    ],
+    "takeaway": "Oversold but facing ecosystem headwinds",
+    "cta": "Is Ethereum deeply oversold here or is there more pain ahead? Tell me below and follow for more.",
+    "title": "Ethereum just slipped 5.55% to $2,562 and its chart looks wiped out #Shorts",
+    "description": "Ethereum dropped -5.55% to $2,562 today, pushing its daily RSI down to an oversold 15.6. This downward movement comes as another layer two network prepares to shut down.\n\nMarket data: CoinGecko\nNews: \"Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week\" (CoinDesk) https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+      "published": 1791347474000,
+      "age_hours": 9
+    },
+    "tags": [
+      "ethereum",
+      "eth",
+      "ethereum price",
+      "eth crash",
+      "ethereum analysis",
+      "oversold rsi",
+      "crypto news",
+      "ethereum layer 2",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Ethereum",
+    "#ETH",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "2AV1Z1oZKLg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2026,
+    "output_tokens": 238
+  }
+}

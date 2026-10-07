@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-22T21:57:40.671Z",
-    "slot": "trending",
-    "coinIds": [
-      "stonk-3",
-      "fetch-ai",
-      "hyperliquid"
-    ],
-    "title": "STONK / FET / HYPE Trending Coins: Prices, Ranges and RSI #Shorts",
-    "videoId": "ZeApO6y4Uh0",
-    "durationSec": 47.856
-  },
-  {
     "at": "2026-09-23T12:17:18.716Z",
     "slot": "mover",
     "coinIds": [
@@ -412,5 +400,15 @@
     "title": "PENGU fell 6.37% to $0.009205 then Abstract shut down 🐧 #Shorts",
     "videoId": "alMQTN0K14k",
     "durationSec": 33.792
+  },
+  {
+    "at": "2026-10-07T13:19:39.520Z",
+    "slot": "open",
+    "coinIds": [
+      "ethereum"
+    ],
+    "title": "Ethereum just slipped 5.55% to $2,562 and its chart looks wiped out #Shorts",
+    "videoId": "2AV1Z1oZKLg",
+    "durationSec": 32.376
   }
 ]
