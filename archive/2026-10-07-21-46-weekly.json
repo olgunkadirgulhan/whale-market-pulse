@@ -1,0 +1,333 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "layerzero",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "image": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208"
+    },
+    {
+      "id": "raydium",
+      "name": "Raydium",
+      "symbol": "RAY",
+      "image": "https://coin-images.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1696513668"
+    },
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    },
+    {
+      "id": "hedera-hashgraph",
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "image": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364"
+    },
+    {
+      "id": "pancakeswap-token",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "image": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
+    },
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83224,
+      "priceText": "83,224",
+      "change7dPct": -0.22,
+      "change24hPct": -2.76,
+      "weekHigh": 87086,
+      "weekLow": 82823,
+      "weekHighText": "87,086",
+      "weekLowText": "82,823",
+      "rangePositionPct": 9,
+      "rsi14": 34.5,
+      "rsiZone": "neutral",
+      "sma20": 85267.3,
+      "sma20Text": "85,267",
+      "aboveSma20": false,
+      "volume24hUsd": 37899033450,
+      "volume24hText": "37.9B",
+      "marketCapUsd": 1672221918235,
+      "marketCapText": "1.67T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2567.12,
+      "priceText": "2,567",
+      "change7dPct": -3.58,
+      "change24hPct": -4.82,
+      "weekHigh": 2768.44,
+      "weekLow": 2542.75,
+      "weekHighText": "2,768",
+      "weekLowText": "2,543",
+      "rangePositionPct": 11,
+      "rsi14": 25.5,
+      "rsiZone": "oversold",
+      "sma20": 2677.823000000001,
+      "sma20Text": "2,678",
+      "aboveSma20": false,
+      "volume24hUsd": 19034292277,
+      "volume24hText": "19.03B",
+      "marketCapUsd": 313442729006,
+      "marketCapText": "313.44B",
+      "marketCapRank": 2,
+      "trend": "downtrend"
+    },
+    {
+      "price": 2.16,
+      "priceText": "2.160",
+      "change7dPct": 30.47,
+      "change24hPct": -4.26,
+      "weekHigh": 2.29,
+      "weekLow": 1.62,
+      "weekHighText": "2.290",
+      "weekLowText": "1.620",
+      "rangePositionPct": 81,
+      "rsi14": 58.4,
+      "rsiZone": "neutral",
+      "sma20": 2.1049999999999995,
+      "sma20Text": "2.105",
+      "aboveSma20": true,
+      "volume24hUsd": 113477761,
+      "volume24hText": "113.48M",
+      "marketCapUsd": 858364862,
+      "marketCapText": "858.36M",
+      "marketCapRank": 85,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 2.47,
+      "priceText": "2.470",
+      "change7dPct": 28.02,
+      "change24hPct": 10.91,
+      "weekHigh": 2.55,
+      "weekLow": 1.85,
+      "weekHighText": "2.550",
+      "weekLowText": "1.850",
+      "rangePositionPct": 89,
+      "rsi14": 77.9,
+      "rsiZone": "overbought",
+      "sma20": 2.1879999999999997,
+      "sma20Text": "2.188",
+      "aboveSma20": true,
+      "volume24hUsd": 222946733,
+      "volume24hText": "222.95M",
+      "marketCapUsd": 667640373,
+      "marketCapText": "667.64M",
+      "marketCapRank": 99,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.04863251,
+      "priceText": "0.0486",
+      "change7dPct": 14.85,
+      "change24hPct": -4.92,
+      "weekHigh": 0.060708,
+      "weekLow": 0.04085692,
+      "weekHighText": "0.0607",
+      "weekLowText": "0.0409",
+      "rangePositionPct": 39,
+      "rsi14": 41.7,
+      "rsiZone": "neutral",
+      "sma20": 0.053160516000000005,
+      "sma20Text": "0.0532",
+      "aboveSma20": false,
+      "volume24hUsd": 55915732,
+      "volume24hText": "55.92M",
+      "marketCapUsd": 360966111,
+      "marketCapText": "360.97M",
+      "marketCapRank": 131,
+      "trend": "range-bound"
+    },
+    {
+      "price": 0.092291,
+      "priceText": "0.0923",
+      "change7dPct": -14.35,
+      "change24hPct": -7.64,
+      "weekHigh": 0.109969,
+      "weekLow": 0.091804,
+      "weekHighText": "0.1100",
+      "weekLowText": "0.0918",
+      "rangePositionPct": 3,
+      "rsi14": 23.7,
+      "rsiZone": "oversold",
+      "sma20": 0.09999850000000002,
+      "sma20Text": "0.1000",
+      "aboveSma20": false,
+      "volume24hUsd": 128108829,
+      "volume24hText": "128.11M",
+      "marketCapUsd": 4060781724,
+      "marketCapText": "4.06B",
+      "marketCapRank": 31,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 2.22,
+      "priceText": "2.220",
+      "change7dPct": -13.94,
+      "change24hPct": -6.77,
+      "weekHigh": 2.64,
+      "weekLow": 2.18,
+      "weekHighText": "2.640",
+      "weekLowText": "2.180",
+      "rangePositionPct": 9,
+      "rsi14": 18.4,
+      "rsiZone": "oversold",
+      "sma20": 2.412,
+      "sma20Text": "2.412",
+      "aboveSma20": false,
+      "volume24hUsd": 81062167,
+      "volume24hText": "81.06M",
+      "marketCapUsd": 705635411,
+      "marketCapText": "705.64M",
+      "marketCapRank": 93,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 251.04,
+      "priceText": "251.04",
+      "change7dPct": -13.48,
+      "change24hPct": -3.9,
+      "weekHigh": 305.07,
+      "weekLow": 224.8,
+      "weekHighText": "305.07",
+      "weekLowText": "224.80",
+      "rangePositionPct": 33,
+      "rsi14": 45.7,
+      "rsiZone": "neutral",
+      "sma20": 255.39849999999996,
+      "sma20Text": "255.40",
+      "aboveSma20": false,
+      "volume24hUsd": 250608916,
+      "volume24hText": "250.61M",
+      "marketCapUsd": 3648414142,
+      "marketCapText": "3.65B",
+      "marketCapRank": 33,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto",
+    "overviewLines": [
+      "Total crypto market capitalization stands at two point eight four trillion dollars after recent selling pressure.",
+      "Bitcoin dominance holds firm across digital asset exchanges at fifty eight point eight percent this week.",
+      "Cautious market conditions dominated trading activity as general risk sentiment softened over the past seven days.",
+      "In this weekly recap we break down seven day performances and key price range data."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin sits at eighty three thousand two hundred twenty four dollars down zero point two two percent.",
+        "The weekly low was established at eighty two thousand eight hundred twenty three dollars during trading.",
+        "Fourteen day R S I registers at thirty four point five indicating neutral market momentum.",
+        "Price remains range bound while hovering near the lower end of its weekly trading corridor."
+      ],
+      [
+        "Ethereum is trading at two thousand five hundred sixty seven dollars down three point five eight percent.",
+        "Price recorded a weekly high of two thousand seven hundred sixty eight dollars before pulling lower.",
+        "The fourteen day R S I reads at twenty five point five putting it in oversold territory.",
+        "Trading volume reached nineteen point zero three billion dollars as the downward trend continued this week."
+      ],
+      [
+        "LayerZero trades at two point one six dollars gaining thirty point four seven percent this week.",
+        "The asset reached a seven day high of two point two nine dollars during strong momentum.",
+        "Fourteen day R S I stands at fifty eight point four with twenty four hour volume exceeding one hundred thirteen million dollars.",
+        "The token remains in a strong uptrend holding rank eighty five by market capitalization."
+      ],
+      [
+        "Raydium gained twenty eight point zero two percent over seven days trading at two point four seven dollars.",
+        "The weekly high reached two point five five dollars reflecting sustained upward trading momentum across markets.",
+        "Fourteen day R S I measures seventy seven point nine placing the token in overbought territory.",
+        "Twenty four hour trading volume reached two hundred twenty two point nine five million dollars this week."
+      ],
+      [
+        "Starknet advanced fourteen point eight five percent over seven days to zero point zero four eight six dollars.",
+        "The seven day peak touched zero point zero six zero seven dollars earlier in the week.",
+        "Trading volume totaled fifty five point nine two million dollars with an R S I of forty one point seven.",
+        "Price action remains range bound while holding market capitalization rank one hundred thirty one."
+      ],
+      [
+        "Hedera trades at zero point zero nine two three dollars after dropping fourteen point three five percent.",
+        "The weekly high printed at zero point eleven dollars before sellers pushed prices toward recent lows.",
+        "Fourteen day R S I sits at twenty three point seven placing the token in oversold territory.",
+        "Market capitalization stands at four point zero six billion dollars following heavy seven day selling."
+      ],
+      [
+        "PancakeSwap fell thirteen point nine four percent over seven days to two point two two dollars.",
+        "Trading marked a weekly low of two point one eight dollars during extended downward movement.",
+        "The fourteen day R S I dropped to eighteen point four reflecting deeply oversold market levels.",
+        "Trading volume reached eighty one point zero six million dollars amidst a strong downward trend."
+      ],
+      [
+        "Quant declined thirteen point four eight percent across the past week to two hundred fifty one point zero four dollars.",
+        "The seven day range spanned from two hundred twenty four point eight zero dollars to three hundred five point zero seven dollars.",
+        "Trading volume reached two hundred fifty point six one million dollars with R S I at forty five point seven.",
+        "The token currently holds rank thirty three by market capitalization within a strong downtrend."
+      ]
+    ],
+    "takeaway": "Selective altcoin gains emerge amid broader weekly market declines",
+    "cta": "If you found this recap helpful, please like the video and subscribe to the channel for more updates.",
+    "title": "ZRO +30% This Week: What Moved Crypto (and What Didn't)",
+    "description": "This week's recap covers price action across Bitcoin, Ethereum, LayerZero, Raydium, Starknet, Hedera, PancakeSwap, and Quant. We examine seven-day percentage moves, weekly high and low ranges, volume activity, and momentum indicators across top digital assets.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "ethereum",
+      "layerzero",
+      "raydium",
+      "starknet",
+      "hedera",
+      "pancakeswap",
+      "quant",
+      "crypto recap",
+      "weekly market pulse",
+      "crypto market",
+      "altcoins",
+      "btc",
+      "eth",
+      "zro",
+      "ray",
+      "strk",
+      "hbar",
+      "cake",
+      "qnt",
+      "crypto news",
+      "weekly recap"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#LayerZero",
+    "#ZRO",
+    "#Raydium",
+    "#RAY"
+  ],
+  "videoId": "Ay3CWNGAFHM",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2403,
+    "output_tokens": 961
+  }
+}

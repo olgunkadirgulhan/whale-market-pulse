@@ -142,5 +142,21 @@
     "title": "Bitcoin Up 3.66% This Week: Weekly Crypto Market Recap and Altcoin Trends",
     "videoId": "PKfFKhciQ5E",
     "durationSec": 264.168
+  },
+  {
+    "at": "2026-10-07T21:59:12.480Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "layerzero",
+      "raydium",
+      "starknet",
+      "hedera-hashgraph",
+      "pancakeswap-token",
+      "quant-network"
+    ],
+    "title": "ZRO +30% This Week: What Moved Crypto (and What Didn't)",
+    "videoId": "Ay3CWNGAFHM",
+    "durationSec": 267.048
   }
 ]
