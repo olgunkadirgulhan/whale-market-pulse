@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-23T12:17:18.716Z",
-    "slot": "mover",
-    "coinIds": [
-      "bitcoin-cash",
-      "uniswap",
-      "aptos"
-    ],
-    "title": "BCH / UNI / APT Movers of the Day: Price Analysis #Shorts",
-    "videoId": null,
-    "durationSec": 38.976
-  },
-  {
     "at": "2026-09-23T14:14:10.718Z",
     "slot": "mover",
     "coinIds": [
@@ -410,5 +398,15 @@
     "title": "Ethereum just slipped 5.55% to $2,562 and its chart looks wiped out #Shorts",
     "videoId": "2AV1Z1oZKLg",
     "durationSec": 32.376
+  },
+  {
+    "at": "2026-10-07T17:21:03.885Z",
+    "slot": "mover",
+    "coinIds": [
+      "filecoin"
+    ],
+    "title": "What just happened to Filecoin dropping 11.26% to $1.030? 📉 #Shorts",
+    "videoId": "1oO_0grvW18",
+    "durationSec": 36.576
   }
 ]

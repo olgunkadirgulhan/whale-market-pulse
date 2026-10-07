@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "filecoin",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "image": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.03,
+      "priceText": "1.030",
+      "change24hPct": -11.26,
+      "high24h": 1.17,
+      "low24h": 1.032,
+      "high24hText": "1.170",
+      "low24hText": "1.032",
+      "support": 1.032,
+      "resistance": 1.063,
+      "supportText": "1.032",
+      "resistanceText": "1.063",
+      "distToResistancePct": 3.2,
+      "distToSupportPct": -0.19,
+      "rangePositionPct": -1,
+      "rsi14": 21.7,
+      "rsiZone": "oversold",
+      "sma20": 1.0629000000000002,
+      "sma20Text": "1.063",
+      "aboveSma20": false,
+      "volatility24hPct": 0.78,
+      "volume24hUsd": 151439583,
+      "volume24hText": "151.44M",
+      "marketCapUsd": 859678427,
+      "marketCapText": "859.68M",
+      "marketCapRank": 84,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Filecoin dropped over 11 percent today, but look at where it is sitting now.",
+    "hook": "Filecoin Just Lost Its Grip",
+    "segmentLines": [
+      [
+        "Filecoin dropped 11.26 percent to $1.030 after heavy selling pressure across the broader market.",
+        "The coin is sitting right at the 24-hour low and well below the four-hour high of $1.063.",
+        "With the RSI at 21.7, the asset remains oversold while nearly 18 percent of the supply changed hands."
+      ]
+    ],
+    "takeaway": "Oversold conditions as price hits the 24-hour low.",
+    "cta": "Is this drop a buying opportunity or a deeper trap? Tell me below and follow for the next move.",
+    "title": "What just happened to Filecoin dropping 11.26% to $1.030? 📉 #Shorts",
+    "description": "Filecoin dropped -11.26% to $1.030 today, hitting the 24-hour low with an RSI of 21.7 and heavy turnover.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "filecoin",
+      "fil",
+      "fil crypto",
+      "crypto market",
+      "crypto drop",
+      "oversold",
+      "filecoin news",
+      "crypto analysis",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Filecoin",
+    "#FIL",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "1oO_0grvW18",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1918,
+    "output_tokens": 288
+  }
+}
