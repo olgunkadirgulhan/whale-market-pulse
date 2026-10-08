@@ -1,0 +1,92 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 4.34,
+      "priceText": "4.340",
+      "change24hPct": -16.62,
+      "high24h": 5.56,
+      "low24h": 4.4,
+      "high24hText": "5.560",
+      "low24hText": "4.400",
+      "support": 4.4,
+      "resistance": 5.03,
+      "supportText": "4.400",
+      "resistanceText": "5.030",
+      "distToResistancePct": 15.9,
+      "distToSupportPct": -1.38,
+      "rangePositionPct": -5,
+      "rsi14": 20.6,
+      "rsiZone": "oversold",
+      "sma20": 4.975500000000001,
+      "sma20Text": "4.976",
+      "aboveSma20": false,
+      "volatility24hPct": 2.34,
+      "volume24hUsd": 1483583697,
+      "volume24hText": "1.48B",
+      "marketCapUsd": 5681050181,
+      "marketCapText": "5.68B",
+      "marketCapRank": 21,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "NEAR dropped over 16% today, but a quarter of its supply just moved.",
+    "hook": "NEAR Protocol Plummets",
+    "segmentLines": [
+      [
+        "The price fell to about $4.34, pushing the asset deep into a strong downtrend.",
+        "It is now trading below its four-hour low of $4.40 with an oversold RSI of 20.6.",
+        "This slide comes alongside Cointelegraph reporting that NEAR entered the top 20 after a monthly surge."
+      ]
+    ],
+    "takeaway": "Heavy volume accompanies the drop below the four-hour low",
+    "cta": "Is this deep dip a buying opportunity or is there more pain ahead? Let me know below and follow for the next move.",
+    "title": "NEAR Protocol drops 16.62% to $4.340 while the total market sheds 6.34% #Shorts",
+    "description": "NEAR Protocol dropped -16.62% to $4.340 today, falling below its 24-hour low of $4.400. This sharp decline comes with a high 24-hour turnover of 26.1% and an oversold RSI of 20.6, even as Cointelegraph reports its recent entry into the top 20 coins.\n\nMarket data: CoinGecko\nNews: \"NEAR enters crypto’s top 20 after 140% surge in 30 days\" (Cointelegraph) https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Cointelegraph",
+      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
+      "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": 1791447434000,
+      "age_hours": 10
+    },
+    "tags": [
+      "near protocol",
+      "near",
+      "crypto",
+      "altcoins",
+      "rsi",
+      "cointelegraph",
+      "crypto news",
+      "market cap",
+      "trading volume",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#NEARProtocol",
+    "#NEAR",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "GC7364kEKwo",
+  "thumbnailSet": false,
+  "usage": {
+    "input_tokens": 1953,
+    "output_tokens": 309
+  }
+}

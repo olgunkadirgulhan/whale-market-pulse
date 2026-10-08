@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-24T14:11:02.229Z",
-    "slot": "open",
-    "coinIds": [
-      "bitcoin",
-      "ethereum",
-      "ondo-finance"
-    ],
-    "title": "BTC / ETH / ONDO Market Brief: Prices, Ranges and RSI #Shorts",
-    "videoId": "JnU0QPUyYAo",
-    "durationSec": 41.688
-  },
-  {
     "at": "2026-09-24T18:25:09.411Z",
     "slot": "mover",
     "coinIds": [
@@ -404,5 +392,15 @@
     "title": "Zcash just lost almost 14% and is sitting at its daily low #Shorts",
     "videoId": "-RGCJ2-JiTY",
     "durationSec": 32.976
+  },
+  {
+    "at": "2026-10-08T18:20:42.422Z",
+    "slot": "mover",
+    "coinIds": [
+      "near"
+    ],
+    "title": "NEAR Protocol drops 16.62% to $4.340 while the total market sheds 6.34% #Shorts",
+    "videoId": "GC7364kEKwo",
+    "durationSec": 36.024
   }
 ]
