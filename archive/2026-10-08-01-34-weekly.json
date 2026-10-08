@@ -1,0 +1,330 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "monad",
+      "name": "Monad",
+      "symbol": "MON",
+      "image": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057"
+    },
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    },
+    {
+      "id": "jupiter-exchange-solana",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "image": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489"
+    },
+    {
+      "id": "stellar",
+      "name": "Stellar",
+      "symbol": "XLM",
+      "image": "https://coin-images.coingecko.com/coins/images/100/large/fmpFRHHQ_400x400.jpg?1735231350"
+    },
+    {
+      "id": "dash",
+      "name": "Dash",
+      "symbol": "DASH",
+      "image": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423"
+    },
+    {
+      "id": "uniswap",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "image": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83214,
+      "priceText": "83,214",
+      "change7dPct": -0.25,
+      "change24hPct": -2.48,
+      "weekHigh": 87086,
+      "weekLow": 82823,
+      "weekHighText": "87,086",
+      "weekLowText": "82,823",
+      "rangePositionPct": 9,
+      "rsi14": 33.8,
+      "rsiZone": "neutral",
+      "sma20": 85168.05,
+      "sma20Text": "85,168",
+      "aboveSma20": false,
+      "volume24hUsd": 39417669646,
+      "volume24hText": "39.42B",
+      "marketCapUsd": 1672047534238,
+      "marketCapText": "1.67T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2579.63,
+      "priceText": "2,580",
+      "change7dPct": -4.06,
+      "change24hPct": -4.06,
+      "weekHigh": 2768.44,
+      "weekLow": 2542.75,
+      "weekHighText": "2,768",
+      "weekLowText": "2,543",
+      "rangePositionPct": 16,
+      "rsi14": 26.6,
+      "rsiZone": "oversold",
+      "sma20": 2671.544500000001,
+      "sma20Text": "2,672",
+      "aboveSma20": false,
+      "volume24hUsd": 18985318912,
+      "volume24hText": "18.99B",
+      "marketCapUsd": 314931199392,
+      "marketCapText": "314.93B",
+      "marketCapRank": 2,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.02555873,
+      "priceText": "0.0256",
+      "change7dPct": -19.64,
+      "change24hPct": -9.36,
+      "weekHigh": 0.03580259,
+      "weekLow": 0.02533314,
+      "weekHighText": "0.0358",
+      "weekLowText": "0.0253",
+      "rangePositionPct": 2,
+      "rsi14": 22.6,
+      "rsiZone": "oversold",
+      "sma20": 0.0294570595,
+      "sma20Text": "0.0295",
+      "aboveSma20": false,
+      "volume24hUsd": 56253367,
+      "volume24hText": "56.25M",
+      "marketCapUsd": 302272860,
+      "marketCapText": "302.27M",
+      "marketCapRank": 150,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.225689,
+      "priceText": "0.2257",
+      "change7dPct": -14.2,
+      "change24hPct": -5.1,
+      "weekHigh": 0.277681,
+      "weekLow": 0.223338,
+      "weekHighText": "0.2777",
+      "weekLowText": "0.2233",
+      "rangePositionPct": 4,
+      "rsi14": 37.4,
+      "rsiZone": "neutral",
+      "sma20": 0.23992904999999998,
+      "sma20Text": "0.2399",
+      "aboveSma20": false,
+      "volume24hUsd": 404526064,
+      "volume24hText": "404.53M",
+      "marketCapUsd": 3024949401,
+      "marketCapText": "3.02B",
+      "marketCapRank": 40,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.369431,
+      "priceText": "0.3694",
+      "change7dPct": 11.46,
+      "change24hPct": 5.93,
+      "weekHigh": 0.359716,
+      "weekLow": 0.3059,
+      "weekHighText": "0.3597",
+      "weekLowText": "0.3059",
+      "rangePositionPct": 118,
+      "rsi14": 60.9,
+      "rsiZone": "neutral",
+      "sma20": 0.33952069999999995,
+      "sma20Text": "0.3395",
+      "aboveSma20": true,
+      "volume24hUsd": 139437296,
+      "volume24hText": "139.44M",
+      "marketCapUsd": 1226132560,
+      "marketCapText": "1.23B",
+      "marketCapRank": 72,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.200654,
+      "priceText": "0.2007",
+      "change7dPct": -11.38,
+      "change24hPct": -5.11,
+      "weekHigh": 0.230817,
+      "weekLow": 0.198482,
+      "weekHighText": "0.2308",
+      "weekLowText": "0.1985",
+      "rangePositionPct": 7,
+      "rsi14": 28.4,
+      "rsiZone": "oversold",
+      "sma20": 0.2127522,
+      "sma20Text": "0.2128",
+      "aboveSma20": false,
+      "volume24hUsd": 195170728,
+      "volume24hText": "195.17M",
+      "marketCapUsd": 7029509758,
+      "marketCapText": "7.03B",
+      "marketCapRank": 21,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 54.16,
+      "priceText": "54.16",
+      "change7dPct": -10.56,
+      "change24hPct": -2.53,
+      "weekHigh": 60.89,
+      "weekLow": 52.84,
+      "weekHighText": "60.89",
+      "weekLowText": "52.84",
+      "rangePositionPct": 16,
+      "rsi14": 32.3,
+      "rsiZone": "neutral",
+      "sma20": 56.798500000000004,
+      "sma20Text": "56.80",
+      "aboveSma20": false,
+      "volume24hUsd": 76111432,
+      "volume24hText": "76.11M",
+      "marketCapUsd": 696026345,
+      "marketCapText": "696.03M",
+      "marketCapRank": 96,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 7.97,
+      "priceText": "7.970",
+      "change7dPct": -10.4,
+      "change24hPct": -5.42,
+      "weekHigh": 9.32,
+      "weekLow": 7.71,
+      "weekHighText": "9.320",
+      "weekLowText": "7.710",
+      "rangePositionPct": 16,
+      "rsi14": 27.4,
+      "rsiZone": "oversold",
+      "sma20": 8.6375,
+      "sma20Text": "8.638",
+      "aboveSma20": false,
+      "volume24hUsd": 806492812,
+      "volume24hText": "806.49M",
+      "marketCapUsd": 4978662760,
+      "marketCapText": "4.98B",
+      "marketCapRank": 24,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto",
+    "overviewLines": [
+      "The total crypto market cap changed by minus five point three five percent this week.",
+      "Bitcoin dominance sits at fifty eight point seven percent across global crypto exchanges.",
+      "The general risk mood across digital asset markets leans toward cautious bearish sentiment.",
+      "This recap covers the biggest weekly price movements and market trends for major coins."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is down zero point two five percent this week at eighty three thousand two hundred and fourteen dollars.",
+        "This week's high reached eighty seven thousand and eighty six dollars with a low of eighty two thousand eight hundred and twenty three dollars.",
+        "The fourteen period relative strength index stands at thirty three point eight in neutral territory.",
+        "Trading volume reached thirty nine point four two billion dollars as price action remained range-bound."
+      ],
+      [
+        "Ethereum is down four point zero six percent this week at two thousand five hundred and eighty dollars.",
+        "This week's high reached two thousand seven hundred and sixty eight dollars with a low of two thousand five hundred and forty three dollars.",
+        "The fourteen period relative strength index registered at twenty six point six in the oversold zone.",
+        "Trading volume totaled eighteen point nine nine billion dollars while moving in a strong downtrend."
+      ],
+      [
+        "Monad is down nineteen point six four percent this week at zero point zero two five six dollars.",
+        "This week's high reached zero point zero three five eight dollars with a low of zero point zero two five three dollars.",
+        "The fourteen period relative strength index registered at twenty two point six in the oversold zone.",
+        "Trading volume recorded fifty six point two five million dollars as the token experienced a strong downtrend."
+      ],
+      [
+        "Ethena is down fourteen point two percent this week at zero point two two five seven dollars.",
+        "This week's high reached zero point two seven seven seven dollars with a low of zero point two two three three dollars.",
+        "The fourteen period relative strength index stands at thirty seven point four in neutral territory.",
+        "Trading volume reached four hundred and four point five three million dollars during a strong downtrend."
+      ],
+      [
+        "Jupiter is up eleven point four six percent this week at zero point three six nine four dollars.",
+        "This week's high reached zero point three five nine seven dollars with a low of zero point three zero five nine dollars.",
+        "The fourteen period relative strength index stands at sixty point nine in neutral territory.",
+        "Trading volume recorded one hundred and thirty nine point four four million dollars in a strong uptrend."
+      ],
+      [
+        "Stellar is down eleven point three eight percent this week at zero point two zero zero seven dollars.",
+        "This week's high reached zero point two three zero eight dollars with a low of zero point one nine eight five dollars.",
+        "The fourteen period relative strength index registered at twenty eight point four in the oversold zone.",
+        "Trading volume reached one hundred and ninety five point one seven million dollars within a strong downtrend."
+      ],
+      [
+        "Dash is down ten point five six percent this week at fifty four point one six dollars.",
+        "This week's high reached sixty point eight nine dollars with a low of fifty two point eight four dollars.",
+        "The fourteen period relative strength index stands at thirty two point three in neutral territory.",
+        "Trading volume totaled seventy six point one one million dollars while maintaining a strong downtrend."
+      ],
+      [
+        "Uniswap is down ten point four percent this week at seven point nine seven zero dollars.",
+        "This week's high reached nine point three two zero dollars with a low of seven point seven one zero dollars.",
+        "The fourteen period relative strength index registered at twenty seven point four in the oversold zone.",
+        "Trading volume reached eight hundred and six point four nine million dollars amid a strong downtrend."
+      ]
+    ],
+    "takeaway": "Altcoins faced widespread downward pressure while selective tokens showed indepe",
+    "cta": "Please like this video and follow the channel for more weekly market updates.",
+    "title": "Jupiter +11% This Week: What Moved Crypto (and What Didn't)",
+    "description": "This weekly recap covers price movements and market data for Bitcoin, Ethereum, Monad, Ethena, Jupiter, Stellar, Dash, and Uniswap. We examine weekly highs and lows, trading volumes, and relative strength index levels across major digital assets. Data: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "ethereum",
+      "monad",
+      "ethena",
+      "jupiter",
+      "stellar",
+      "dash",
+      "uniswap",
+      "btc",
+      "eth",
+      "mon",
+      "ena",
+      "jup",
+      "xlm",
+      "uni",
+      "crypto recap",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Monad",
+    "#MON",
+    "#Ethena",
+    "#ENA"
+  ],
+  "videoId": "dr5V59lvAqk",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2448,
+    "output_tokens": 981
+  }
+}
