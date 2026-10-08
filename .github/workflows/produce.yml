@@ -5,7 +5,7 @@ on:
     # Three videos a day, UTC: open (from 13:00 = 09 ET, US market open), mover (from 17:00 = 13 ET),
     # trending (from 20:00 = 16 ET). ET afternoon did best on 09-22..26; the 05 ET open got ~40 views.
     # GitHub often fires crons hours late or drops them, so there are backup triggers. The "Pick slot"
-    # step produces the earliest slot that is due and not yet in archive/ today, or skips: never more than 3/day.
+    # step produces the earliest slot that is due and not yet in archive/ today, or skips: never more than 2/day.
     # Hourly and off the :00 mark, where GitHub drops the most runs (09:00/11:00 never fired).
     - cron: "17 13-23 * * *"
   workflow_dispatch:
@@ -47,7 +47,7 @@ jobs:
           git fetch -q origin master
           today=$(date -u +%F); hour=$((10#$(date -u +%H)))
           done_today=$(git ls-tree --name-only origin/master archive/ | grep "archive/$today-" || true)
-          for pair in open:13 mover:17 trending:20; do
+          for pair in mover:17 trending:20; do  # 2026-10-08: hacim 3→2, genel "open" özeti kaldırıldı (en zayıf)
             s=${pair%%:*}; h=${pair##*:}
             if [ "$hour" -ge "$h" ] && ! printf '%s\n' "$done_today" | grep -q -- "-$s.json"; then
               echo "slot=$s" >> "$GITHUB_OUTPUT"; echo "producing slot: $s"; exit 0
