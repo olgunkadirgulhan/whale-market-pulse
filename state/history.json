@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-23T22:12:32.756Z",
-    "slot": "trending",
-    "coinIds": [
-      "raydium",
-      "near",
-      "pons"
-    ],
-    "title": "RAY / NEAR / PONS Trading Activity and Key Levels #Shorts",
-    "videoId": "ToLW_Ssd6P8",
-    "durationSec": 37.392
-  },
-  {
     "at": "2026-09-24T14:11:02.229Z",
     "slot": "open",
     "coinIds": [
@@ -406,5 +394,15 @@
     "title": "Official Trump drops 7.23% to $1.860 as volume spikes 📉 #Shorts",
     "videoId": "pKmJsJpJBHE",
     "durationSec": 30.936
+  },
+  {
+    "at": "2026-10-08T17:21:07.537Z",
+    "slot": "open",
+    "coinIds": [
+      "zcash"
+    ],
+    "title": "Zcash just lost almost 14% and is sitting at its daily low #Shorts",
+    "videoId": "-RGCJ2-JiTY",
+    "durationSec": 32.976
   }
 ]

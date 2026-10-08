@@ -1,0 +1,85 @@
+{
+  "slot": "open",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1137.6,
+      "priceText": "1,138",
+      "change24hPct": -13.79,
+      "high24h": 1342.46,
+      "low24h": 1114.07,
+      "high24hText": "1,342",
+      "low24hText": "1,114",
+      "support": 1114.07,
+      "resistance": 1220,
+      "supportText": "1,114",
+      "resistanceText": "1,220",
+      "distToResistancePct": 7.24,
+      "distToSupportPct": 2.07,
+      "rangePositionPct": 10,
+      "rsi14": 25.6,
+      "rsiZone": "oversold",
+      "sma20": 1202.4324999999997,
+      "sma20Text": "1,202",
+      "aboveSma20": false,
+      "volatility24hPct": 1.72,
+      "volume24hUsd": 1268388682,
+      "volume24hText": "1.27B",
+      "marketCapUsd": 19336986494,
+      "marketCapText": "19.34B",
+      "marketCapRank": 10,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Zcash is a top ten coin but it just saw a heavy drop.",
+    "hook": "Zcash Is Falling Fast",
+    "segmentLines": [
+      [
+        "The price fell almost 14% today to $1,138, leading the losses among the biggest coins.",
+        "It is currently sitting just 2% above the 24-hour low with a very low RSI of 25.",
+        "Even with $1.27 billion changing hands, the trend remains pointed sharply down."
+      ]
+    ],
+    "takeaway": "Deeply oversold but still testing the lows",
+    "cta": "Is this a dip worth buying or is there more pain coming? Tell me below and follow for more.",
+    "title": "Zcash just lost almost 14% and is sitting at its daily low #Shorts",
+    "description": "Zcash dropped -13.79% to $1,138 today, making it the largest decliner in the top 10. The asset is now in oversold territory with an RSI of 25.6 and sits near its 24-hour low of $1,114.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "zcash",
+      "zec",
+      "top 10 crypto",
+      "price analysis",
+      "crypto news",
+      "trading",
+      "rsi",
+      "volume",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Zcash",
+    "#ZEC",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "-RGCJ2-JiTY",
+  "thumbnailSet": false,
+  "usage": {
+    "input_tokens": 1920,
+    "output_tokens": 264
+  }
+}
