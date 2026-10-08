@@ -1,17 +1,5 @@
 [
   {
-    "at": "2026-09-24T18:25:09.411Z",
-    "slot": "mover",
-    "coinIds": [
-      "litecoin",
-      "ethereum-classic",
-      "morpho"
-    ],
-    "title": "LTC / ETC / MORPHO Movers of the Day: Price Analysis #Shorts",
-    "videoId": "rOZJBlaMx6w",
-    "durationSec": 37.44
-  },
-  {
     "at": "2026-09-24T19:55:58.869Z",
     "slot": "trending",
     "coinIds": [
@@ -402,5 +390,15 @@
     "title": "NEAR Protocol drops 16.62% to $4.340 while the total market sheds 6.34% #Shorts",
     "videoId": "GC7364kEKwo",
     "durationSec": 36.024
+  },
+  {
+    "at": "2026-10-08T21:20:53.403Z",
+    "slot": "trending",
+    "coinIds": [
+      "derive"
+    ],
+    "title": "18.42% gain for Derive while the total market drops 5.23% #Shorts",
+    "videoId": "vX08EzxzT0o",
+    "durationSec": 33.696
   }
 ]

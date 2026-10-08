@@ -1,0 +1,87 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "derive",
+      "name": "Derive",
+      "symbol": "DRV",
+      "image": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.440935,
+      "priceText": "0.4409",
+      "change24hPct": 18.42,
+      "high24h": 0.450323,
+      "low24h": 0.360246,
+      "high24hText": "0.4503",
+      "low24hText": "0.3602",
+      "support": 0.377027,
+      "resistance": 0.441922,
+      "supportText": "0.3770",
+      "resistanceText": "0.4419",
+      "distToResistancePct": 0.22,
+      "distToSupportPct": 14.49,
+      "rangePositionPct": 90,
+      "rsi14": 67,
+      "rsiZone": "neutral",
+      "sma20": 0.40312305000000004,
+      "sma20Text": "0.4031",
+      "aboveSma20": true,
+      "volatility24hPct": 4.43,
+      "volume24hUsd": 50844762,
+      "volume24hText": "50.84M",
+      "marketCapUsd": 440781707,
+      "marketCapText": "440.78M",
+      "marketCapRank": 124,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "While the whole market dropped today, Derive did something completely unexpected.",
+    "hook": "Derive Defies the Market",
+    "segmentLines": [
+      [
+        "Derive jumped over 18% today to reach about $0.44 while the broader market shed over 5%.",
+        "The token is now in a strong uptrend, trading at 90% of its 24-hour range.",
+        "This move comes as over $50 million in volume changed hands, representing over 11% daily turnover."
+      ]
+    ],
+    "takeaway": "Strong uptrend but testing the daily highs",
+    "cta": "Can Derive maintain this momentum against the market trend? Tell me below and follow for the next move.",
+    "title": "18.42% gain for Derive while the total market drops 5.23% #Shorts",
+    "description": "Derive (DRV) jumped 18.42% to $0.4409 today, bucking the trend as the total crypto market dropped 5.23%. The token is in a strong uptrend with $50.84M in 24-hour volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "derive",
+      "drv",
+      "crypto",
+      "cryptocurrency",
+      "altcoin",
+      "derive crypto",
+      "drv token",
+      "crypto gainers",
+      "crypto market",
+      "whale market pulse",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Derive",
+    "#DRV",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "vX08EzxzT0o",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1911,
+    "output_tokens": 273
+  }
+}
