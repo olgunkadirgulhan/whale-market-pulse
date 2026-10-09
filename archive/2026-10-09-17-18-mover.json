@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "cosmos",
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "image": "https://coin-images.coingecko.com/coins/images/1481/large/cosmos_hub.png?1696502525"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 2.01,
+      "priceText": "2.010",
+      "change24hPct": 20.3,
+      "high24h": 2.05,
+      "low24h": 1.65,
+      "high24hText": "2.050",
+      "low24hText": "1.650",
+      "support": 1.93,
+      "resistance": 2.05,
+      "supportText": "1.930",
+      "resistanceText": "2.050",
+      "distToResistancePct": 1.99,
+      "distToSupportPct": 3.98,
+      "rangePositionPct": 90,
+      "rsi14": 69.6,
+      "rsiZone": "neutral",
+      "sma20": 1.9584999999999997,
+      "sma20Text": "1.958",
+      "aboveSma20": true,
+      "volatility24hPct": 1.53,
+      "volume24hUsd": 164577929,
+      "volume24hText": "164.58M",
+      "marketCapUsd": 1074489054,
+      "marketCapText": "1.07B",
+      "marketCapRank": 75,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Cosmos Hub surged over 20% today, but it is hitting a major wall.",
+    "hook": "Cosmos Hub Is On Fire",
+    "segmentLines": [
+      [
+        "The coin climbed more than 20% to reach $2.01, pushing its daily gain to the limit.",
+        "It is now trading just under the four-hour high of $2.05 in a strong uptrend.",
+        "Over 15% of all Cosmos Hub changed hands today with volume crossing $164 million."
+      ]
+    ],
+    "takeaway": "Trading near the high but volume is heavy",
+    "cta": "Can Cosmos Hub hold this strong uptrend or is a pullback next? Subscribe for the next move.",
+    "title": "Cosmos Hub just surged 20.3% to $2.010 as trading volume spikes 📈 #Shorts",
+    "description": "Cosmos Hub surged +20.3% to $2.010 today, trading near its 24-hour high of $2.050. Over 15.3% of the coin's market cap changed hands with $164.58M in daily volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "cosmos hub",
+      "atom",
+      "cosmos crypto",
+      "atom token",
+      "cosmos hub price",
+      "atom analysis",
+      "cosmos hub news",
+      "crypto volume",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#CosmosHub",
+    "#ATOM",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "f5nHm1Xc5_Y",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1905,
+    "output_tokens": 275
+  }
+}
