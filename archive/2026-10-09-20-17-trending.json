@@ -1,0 +1,85 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.00802618,
+      "priceText": "0.008026",
+      "change24hPct": 0.69,
+      "high24h": 0.00820665,
+      "low24h": 0.00788906,
+      "high24hText": "0.008207",
+      "low24hText": "0.007889",
+      "support": 0.00798436,
+      "resistance": 0.0081112,
+      "supportText": "0.007984",
+      "resistanceText": "0.008111",
+      "distToResistancePct": 1.06,
+      "distToSupportPct": 0.52,
+      "rangePositionPct": 43,
+      "rsi14": 44.8,
+      "rsiZone": "neutral",
+      "sma20": 0.008033627499999998,
+      "sma20Text": "0.008034",
+      "aboveSma20": false,
+      "volatility24hPct": 0.81,
+      "volume24hUsd": 160668982,
+      "volume24hText": "160.67M",
+      "marketCapUsd": 504707037,
+      "marketCapText": "504.71M",
+      "marketCapRank": 114,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "The crypto market fell today, but almost a third of Pudgy Penguins changed hands.",
+    "hook": "PENGU Holds While Market Slides",
+    "segmentLines": [
+      [
+        "PENGU stayed slightly green at $0.0080, up 0.69% over the past 24 hours.",
+        "The token sits 43% into its 24-hour range with a neutral RSI of 45.",
+        "Trading volume reached $161 million, turning over nearly 32% of its total market cap."
+      ]
+    ],
+    "takeaway": "Heavy turnover despite tight price action",
+    "cta": "Is PENGU building strength or just stalling out? Share your take below and follow for the next move.",
+    "title": "PENGU stays green while the crypto market drops 2.18% #Shorts",
+    "description": "PENGU gained 0.69% to $0.008026 while the wider crypto market fell 2.18%. Trading volume reached $160.67M, representing a 31.8% turnover of its market cap.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pengu",
+      "pudgy penguins",
+      "crypto market",
+      "altcoins",
+      "pengu price",
+      "pengu coin",
+      "crypto volume",
+      "whale market pulse",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#PudgyPenguins",
+    "#PENGU",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "MEsFSQBTlHE",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1934,
+    "output_tokens": 270
+  }
+}

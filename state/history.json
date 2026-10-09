@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-25T15:18:11.088Z",
-    "slot": "open",
-    "coinIds": [
-      "ripple"
-    ],
-    "title": "XRP climbs 5.98% while the total market cap falls -1.81% #Shorts",
-    "videoId": "yJbiJNv2gmM",
-    "durationSec": 38.568
-  },
-  {
     "at": "2026-09-25T19:18:54.794Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Cosmos Hub just surged 20.3% to $2.010 as trading volume spikes 📈 #Shorts",
     "videoId": "f5nHm1Xc5_Y",
     "durationSec": 33.144
+  },
+  {
+    "at": "2026-10-09T20:22:27.709Z",
+    "slot": "trending",
+    "coinIds": [
+      "pudgy-penguins"
+    ],
+    "title": "PENGU stays green while the crypto market drops 2.18% #Shorts",
+    "videoId": "MEsFSQBTlHE",
+    "durationSec": 36.432
   }
 ]
