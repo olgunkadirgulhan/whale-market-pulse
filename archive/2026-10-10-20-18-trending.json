@@ -1,0 +1,85 @@
+{
+  "slot": "trending",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "official-trump",
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.89,
+      "priceText": "1.890",
+      "change24hPct": 2.44,
+      "high24h": 1.93,
+      "low24h": 1.84,
+      "high24hText": "1.930",
+      "low24hText": "1.840",
+      "support": 1.89,
+      "resistance": 1.9,
+      "supportText": "1.890",
+      "resistanceText": "1.900",
+      "distToResistancePct": 0.53,
+      "distToSupportPct": 0,
+      "rangePositionPct": 56,
+      "rsi14": 64.4,
+      "rsiZone": "neutral",
+      "sma20": 1.8924999999999996,
+      "sma20Text": "1.892",
+      "aboveSma20": false,
+      "volatility24hPct": 0.26,
+      "volume24hUsd": 95045564,
+      "volume24hText": "95.05M",
+      "marketCapUsd": 534044825,
+      "marketCapText": "534.04M",
+      "marketCapRank": 113,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "While the broader market slipped today, traders quietly rotated into Official Trump.",
+    "hook": "Defying Market Pullback",
+    "segmentLines": [
+      [
+        "The token climbed over 2% to $1.89 while the wider market posted losses.",
+        "Trading remains range-bound, sitting right at its four-hour low with RSI near 64.",
+        "Yet nearly 18% of the coin changed hands on $95 million in volume."
+      ]
+    ],
+    "takeaway": "Heavy turnover keeps it active despite the range",
+    "cta": "Is this volume signaling another run, or just noise? Follow for the next move.",
+    "title": "What is driving Official Trump past $1.89 today? #Shorts",
+    "description": "Official Trump gained 2.44% to reach $1.890 while broader markets slipped. Over $95.05M in volume drove 24-hour turnover to 17.8%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "official trump",
+      "trump crypto",
+      "trump coin",
+      "crypto trading",
+      "whale market pulse",
+      "crypto news",
+      "altcoins",
+      "crypto market",
+      "trump"
+    ]
+  },
+  "hashtags": [
+    "#OfficialTrump",
+    "#TRUMP",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "lnLGvAGh99s",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1898,
+    "output_tokens": 298
+  }
+}
