@@ -4,13 +4,13 @@ on:
   schedule:
     # Sunday and Wednesday, 5pm US Eastern. Cron is fixed UTC and does not
     # follow US daylight saving time - 21:00 UTC = 5pm EDT (Mar-Nov). During
-    # EST (Nov-Mar) this fires at 4pm ET instead; adjust to "0 22 * * 0,3" if
+    # EST (Nov-Mar) this fires at 4pm ET instead; adjust to "0 22 * * 0" if
     # you want it pinned to EST months instead.
     # GitHub delays or drops cron runs: two backup triggers follow, the guard step skips
     # them once a weekly run has succeeded today.
-    - cron: "29 21 * * 0,3"
-    - cron: "29 22 * * 0,3"
-    - cron: "29 23 * * 0,3"
+    - cron: "29 21 * * 0"
+    - cron: "29 22 * * 0"
+    - cron: "29 23 * * 0"
   workflow_dispatch:
     inputs:
       dry_run:
