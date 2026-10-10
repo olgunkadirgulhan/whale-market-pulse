@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-25T19:18:54.794Z",
-    "slot": "mover",
-    "coinIds": [
-      "aerodrome-finance"
-    ],
-    "title": "AERO Jumps 20% While the Market Stumbles #Shorts",
-    "videoId": "BKO71z3zrBs",
-    "durationSec": 35.136
-  },
-  {
     "at": "2026-09-25T22:23:57.907Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "PENGU stays green while the crypto market drops 2.18% #Shorts",
     "videoId": "MEsFSQBTlHE",
     "durationSec": 36.432
+  },
+  {
+    "at": "2026-10-10T17:19:52.171Z",
+    "slot": "mover",
+    "coinIds": [
+      "starknet"
+    ],
+    "title": "Why is Starknet surging 23.69% to $0.0909 today? 🤔 #Shorts",
+    "videoId": "sR5wcZZ3u9A",
+    "durationSec": 34.056
   }
 ]

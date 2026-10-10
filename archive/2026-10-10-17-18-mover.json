@@ -1,0 +1,91 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.0909,
+      "priceText": "0.0909",
+      "change24hPct": 23.69,
+      "high24h": 0.097956,
+      "low24h": 0.068646,
+      "high24hText": "0.0980",
+      "low24hText": "0.0686",
+      "support": 0.071712,
+      "resistance": 0.097956,
+      "supportText": "0.0717",
+      "resistanceText": "0.0980",
+      "distToResistancePct": 7.76,
+      "distToSupportPct": 21.11,
+      "rangePositionPct": 76,
+      "rsi14": 83.2,
+      "rsiZone": "overbought",
+      "sma20": 0.07664569999999998,
+      "sma20Text": "0.0766",
+      "aboveSma20": true,
+      "volatility24hPct": 3.87,
+      "volume24hUsd": 421691267,
+      "volume24hText": "421.69M",
+      "marketCapUsd": 676036897,
+      "marketCapText": "676.04M",
+      "marketCapRank": 98,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Starknet surged almost 24% today, but look at where the chart stands now.",
+    "hook": "Starknet Defies The Market",
+    "segmentLines": [
+      [
+        "STRK gained nearly 24% to reach $0.0909 while the broader market declined.",
+        "It trades 76% up its daily range, pushing the RSI into overbought at 83.",
+        "The move comes as Decrypt reports Starknet plans to transition into an L1."
+      ]
+    ],
+    "takeaway": "Overbought RSI while holding near the daily high",
+    "cta": "Can Starknet keep running or is this move exhausted? Share your thoughts below and subscribe for updates.",
+    "title": "Why is Starknet surging 23.69% to $0.0909 today? 🤔 #Shorts",
+    "description": "Starknet surged +23.69% to $0.0909 amid a 24-hour volume of $421.69M. The token touched a daily high of $0.0980 as turnover reached 62.4%.\n\nMarket data: CoinGecko\nNews: \"Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1\" (Decrypt) https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Decrypt",
+      "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+      "published": 1791563763000,
+      "age_hours": 25
+    },
+    "tags": [
+      "starknet",
+      "strk",
+      "starknet crypto",
+      "strk token",
+      "crypto news",
+      "altcoins",
+      "layer 2",
+      "strk analysis",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Starknet",
+    "#STRK",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "sR5wcZZ3u9A",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1954,
+    "output_tokens": 341
+  }
+}
