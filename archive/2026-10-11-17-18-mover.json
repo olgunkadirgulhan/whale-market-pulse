@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "aptos",
+      "name": "Aptos",
+      "symbol": "APT",
+      "image": "https://coin-images.coingecko.com/coins/images/26455/large/Aptos-Network-Profile-Picture_%281%29.png?1788259511"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.918936,
+      "priceText": "0.9189",
+      "change24hPct": 8.66,
+      "high24h": 0.962482,
+      "low24h": 0.837139,
+      "high24hText": "0.9625",
+      "low24hText": "0.8371",
+      "support": 0.862113,
+      "resistance": 0.962482,
+      "supportText": "0.8621",
+      "resistanceText": "0.9625",
+      "distToResistancePct": 4.74,
+      "distToSupportPct": 6.18,
+      "rangePositionPct": 65,
+      "rsi14": 65.5,
+      "rsiZone": "neutral",
+      "sma20": 0.8721781500000001,
+      "sma20Text": "0.8722",
+      "aboveSma20": true,
+      "volatility24hPct": 1.85,
+      "volume24hUsd": 171258505,
+      "volume24hText": "171.26M",
+      "marketCapUsd": 800788314,
+      "marketCapText": "800.79M",
+      "marketCapRank": 91,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Aptos jumped over 8% today, but where is it sitting right now?",
+    "hook": "Aptos Just Ran",
+    "segmentLines": [
+      [
+        "Aptos gained 8.66% today, currently changing hands at about $0.92",
+        "The coin sits near its 24-hour range at sixty-five percent, holding a neutral RSI of 65.5",
+        "Over twenty-one percent of the total market cap changed hands during this session"
+      ]
+    ],
+    "takeaway": "Strong uptrend today, but sitting well below the four-hour high",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "What just happened to Aptos jumping 8.66% to $0.9189? 🤔 #Shorts",
+    "description": "Aptos rose 8.66% to $0.9189 today with a high of $0.9625 and heavy turnover of 21.4%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "aptos",
+      "apt",
+      "aptos price",
+      "aptos news",
+      "crypto",
+      "altcoins",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Aptos",
+    "#APT",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "2_ktyVxy4HE",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1895,
+    "output_tokens": 241
+  }
+}
