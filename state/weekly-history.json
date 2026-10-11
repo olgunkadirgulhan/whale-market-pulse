@@ -174,5 +174,21 @@
     "title": "Jupiter +11% This Week: What Moved Crypto (and What Didn't)",
     "videoId": "dr5V59lvAqk",
     "durationSec": 255.192
+  },
+  {
+    "at": "2026-10-11T21:51:56.631Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "starknet",
+      "conflux-token",
+      "celestia",
+      "filecoin",
+      "pudgy-penguins",
+      "near"
+    ],
+    "title": "STRK +112% This Week: What Moved Crypto (and What Didn't)",
+    "videoId": "aOL9KZ2qmTg",
+    "durationSec": 252.912
   }
 ]

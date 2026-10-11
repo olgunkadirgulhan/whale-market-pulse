@@ -1,0 +1,332 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    },
+    {
+      "id": "conflux-token",
+      "name": "Conflux",
+      "symbol": "CFX",
+      "image": "https://coin-images.coingecko.com/coins/images/13079/large/3vuYMbjN.png?1696512867"
+    },
+    {
+      "id": "celestia",
+      "name": "Celestia",
+      "symbol": "TIA",
+      "image": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772"
+    },
+    {
+      "id": "filecoin",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "image": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609"
+    },
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "image": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 83346,
+      "priceText": "83,346",
+      "change7dPct": -2.2,
+      "change24hPct": 0.43,
+      "weekHigh": 86949,
+      "weekLow": 80427,
+      "weekHighText": "86,949",
+      "weekLowText": "80,427",
+      "rangePositionPct": 45,
+      "rsi14": 53,
+      "rsiZone": "neutral",
+      "sma20": 82665.1,
+      "sma20Text": "82,665",
+      "aboveSma20": true,
+      "volume24hUsd": 15192830502,
+      "volume24hText": "15.19B",
+      "marketCapUsd": 1674954590564,
+      "marketCapText": "1.67T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2521.9,
+      "priceText": "2,522",
+      "change7dPct": -6.2,
+      "change24hPct": 0.64,
+      "weekHigh": 2736.97,
+      "weekLow": 2409.36,
+      "weekHighText": "2,737",
+      "weekLowText": "2,409",
+      "rangePositionPct": 34,
+      "rsi14": 49.2,
+      "rsiZone": "neutral",
+      "sma20": 2494.295,
+      "sma20Text": "2,494",
+      "aboveSma20": true,
+      "volume24hUsd": 8734563922,
+      "volume24hText": "8.73B",
+      "marketCapUsd": 308012820604,
+      "marketCapText": "308.01B",
+      "marketCapRank": 2,
+      "trend": "range-bound"
+    },
+    {
+      "price": 0.114124,
+      "priceText": "0.1141",
+      "change7dPct": 112.48,
+      "change24hPct": 10.06,
+      "weekHigh": 0.122665,
+      "weekLow": 0.04830085,
+      "weekHighText": "0.1227",
+      "weekLowText": "0.0483",
+      "rangePositionPct": 89,
+      "rsi14": 87.8,
+      "rsiZone": "overbought",
+      "sma20": 0.08413505,
+      "sma20Text": "0.0841",
+      "aboveSma20": true,
+      "volume24hUsd": 706319281,
+      "volume24hText": "706.32M",
+      "marketCapUsd": 846557998,
+      "marketCapText": "846.56M",
+      "marketCapRank": 86,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.066154,
+      "priceText": "0.0662",
+      "change7dPct": 24.11,
+      "change24hPct": 6.13,
+      "weekHigh": 0.072702,
+      "weekLow": 0.04757558,
+      "weekHighText": "0.0727",
+      "weekLowText": "0.0476",
+      "rangePositionPct": 74,
+      "rsi14": 69.7,
+      "rsiZone": "neutral",
+      "sma20": 0.055692303500000005,
+      "sma20Text": "0.0557",
+      "aboveSma20": true,
+      "volume24hUsd": 96191864,
+      "volume24hText": "96.19M",
+      "marketCapUsd": 347042481,
+      "marketCapText": "347.04M",
+      "marketCapRank": 137,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.568419,
+      "priceText": "0.5684",
+      "change7dPct": 19.67,
+      "change24hPct": -2.45,
+      "weekHigh": 0.630182,
+      "weekLow": 0.435438,
+      "weekHighText": "0.6302",
+      "weekLowText": "0.4354",
+      "rangePositionPct": 68,
+      "rsi14": 64.9,
+      "rsiZone": "neutral",
+      "sma20": 0.5243108999999999,
+      "sma20Text": "0.5243",
+      "aboveSma20": true,
+      "volume24hUsd": 176848090,
+      "volume24hText": "176.85M",
+      "marketCapUsd": 556518576,
+      "marketCapText": "556.52M",
+      "marketCapRank": 111,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 1.24,
+      "priceText": "1.240",
+      "change7dPct": 18.57,
+      "change24hPct": 10.58,
+      "weekHigh": 1.21,
+      "weekLow": 0.987648,
+      "weekHighText": "1.210",
+      "weekLowText": "0.9876",
+      "rangePositionPct": 113,
+      "rsi14": 64.1,
+      "rsiZone": "neutral",
+      "sma20": 1.1007000000000002,
+      "sma20Text": "1.101",
+      "aboveSma20": true,
+      "volume24hUsd": 203712443,
+      "volume24hText": "203.71M",
+      "marketCapUsd": 1040212568,
+      "marketCapText": "1.04B",
+      "marketCapRank": 79,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.00810653,
+      "priceText": "0.008107",
+      "change7dPct": -13.52,
+      "change24hPct": -2.53,
+      "weekHigh": 0.01002488,
+      "weekLow": 0.00759936,
+      "weekHighText": "0.0100",
+      "weekLowText": "0.007599",
+      "rangePositionPct": 21,
+      "rsi14": 42.5,
+      "rsiZone": "neutral",
+      "sma20": 0.008154094,
+      "sma20Text": "0.008154",
+      "aboveSma20": false,
+      "volume24hUsd": 102707267,
+      "volume24hText": "102.71M",
+      "marketCapUsd": 509495076,
+      "marketCapText": "509.5M",
+      "marketCapRank": 117,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 5.58,
+      "priceText": "5.580",
+      "change7dPct": 13.48,
+      "change24hPct": 3.87,
+      "weekHigh": 5.86,
+      "weekLow": 4.31,
+      "weekHighText": "5.860",
+      "weekLowText": "4.310",
+      "rangePositionPct": 82,
+      "rsi14": 64.9,
+      "rsiZone": "neutral",
+      "sma20": 5.054,
+      "sma20Text": "5.054",
+      "aboveSma20": true,
+      "volume24hUsd": 898832833,
+      "volume24hText": "898.83M",
+      "marketCapUsd": 7301638931,
+      "marketCapText": "7.3B",
+      "marketCapRank": 20,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "hook": "Weekly Market Pulse",
+    "overviewLines": [
+      "Total cryptocurrency market capitalization contracted slightly over the past twenty four hours.",
+      "Bitcoin dominance holds steady at fifty nine point six percent across the digital asset sector.",
+      "Broad risk appetite remained mixed this week as selective tokens showed sharp independent momentum.",
+      "Today we examine the price data and key levels across eight major market assets."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin declined two point two percent this week to eighty three thousand three hundred forty six dollars.",
+        "The asset traded in a range bound pattern between eighty thousand four hundred twenty seven dollars and eighty six thousand nine hundred forty nine dollars.",
+        "Daily trading volume registered at fifteen point one nine billion dollars with relative strength at fifty three.",
+        "Price action continues holding above its twenty period moving average heading into the weekend."
+      ],
+      [
+        "Ethereum fell six point two percent across seven days to two thousand five hundred twenty two dollars.",
+        "Trading reached a weekly low of two thousand four hundred nine dollars during range bound consolidation.",
+        "Its relative strength index sits in neutral territory at forty nine point two with positive daily movement.",
+        "Market capitalization stands at three hundred eight point zero one billion dollars after steady weekly activity."
+      ],
+      [
+        "Starknet surged one hundred twelve point four eight percent this week to eleven cents.",
+        "The token touched a weekly high of twelve cents amidst a strong upward trend.",
+        "Daily volume reached seven hundred six point three two million dollars with an overbought relative strength index.",
+        "Momentum pushed price positioning to eighty nine percent of its seven day trading range."
+      ],
+      [
+        "Conflux advanced twenty four point one one percent this week to six point six cents.",
+        "Price traded between four point seven cents and seven point two cents during this strong uptrend.",
+        "Relative strength registered at sixty nine point seven alongside ninety six point one nine million in volume.",
+        "The token remains positioned well above its twenty period moving average across recent sessions."
+      ],
+      [
+        "Celestia gained nineteen point six seven percent over seven days to fifty six cents.",
+        "The asset reached a weekly high of sixty three cents before pulling back slightly today.",
+        "Daily trading volume totaled one hundred seventy six point eight five million dollars with neutral relative strength.",
+        "Price maintains an established uptrend while trading above its twenty period moving average."
+      ],
+      [
+        "Filecoin climbed eighteen point five seven percent over the week to one dollar and twenty four cents.",
+        "The token moved out of its weekly low of ninety eight cents into a strong uptrend.",
+        "Volume reached two hundred three point seven one million dollars with relative strength reading sixty four point one.",
+        "Current levels reflect positive daily gains of ten point five eight percent across active exchanges."
+      ],
+      [
+        "Pudgy Penguins declined thirteen point five two percent this week to zero point zero zero eight one dollars.",
+        "The asset traded down from its weekly high of one cent into a strong downtrend.",
+        "Daily volume held at one hundred two point seven one million dollars with relative strength at forty two point five.",
+        "Price currently sits below its twenty period moving average near the weekly low."
+      ],
+      [
+        "NEAR Protocol rose thirteen point four eight percent across seven days to five dollars and fifty eight cents.",
+        "Trading ranged from four dollars and thirty one cents to five dollars and eighty six cents this week.",
+        "Daily trading volume reached eight hundred ninety eight point eight three million dollars during this strong uptrend.",
+        "The asset sits at rank twenty by market capitalization with neutral relative strength."
+      ]
+    ],
+    "takeaway": "Selective Token Momentum Amid Broader Market Consolidation",
+    "cta": "Subscribe to the channel and like the video for your weekly market breakdown.",
+    "title": "STRK +112% This Week: What Moved Crypto (and What Didn't)",
+    "description": "In this edition of Weekly Market Pulse, we break down the price action, trading volumes, and weekly ranges for Bitcoin, Ethereum, Starknet, Conflux, Celestia, Filecoin, Pudgy Penguins, and NEAR Protocol.\n\nWe review the data behind this week's major movers, tracking shifts in market capitalization and key indicators across the digital asset space.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "crypto recap",
+      "weekly market pulse",
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "starknet",
+      "strk",
+      "conflux",
+      "cfx",
+      "celestia",
+      "tia",
+      "filecoin",
+      "fil",
+      "pudgy penguins",
+      "near protocol",
+      "pengu",
+      "near",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Starknet",
+    "#STRK",
+    "#Conflux",
+    "#CFX"
+  ],
+  "videoId": "aOL9KZ2qmTg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2404,
+    "output_tokens": 1165
+  }
+}
