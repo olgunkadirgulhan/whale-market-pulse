@@ -1,0 +1,87 @@
+{
+  "slot": "trending",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "sonic-3",
+      "name": "Sonic",
+      "symbol": "S",
+      "image": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.06499,
+      "priceText": "0.0650",
+      "change24hPct": 39.7,
+      "high24h": 0.068522,
+      "low24h": 0.04605549,
+      "high24hText": "0.0685",
+      "low24hText": "0.0461",
+      "support": 0.055055,
+      "resistance": 0.068522,
+      "supportText": "0.0551",
+      "resistanceText": "0.0685",
+      "distToResistancePct": 5.43,
+      "distToSupportPct": 15.29,
+      "rangePositionPct": 84,
+      "rsi14": 80.8,
+      "rsiZone": "overbought",
+      "sma20": 0.055902755000000005,
+      "sma20Text": "0.0559",
+      "aboveSma20": true,
+      "volatility24hPct": 3.78,
+      "volume24hUsd": 247904330,
+      "volume24hText": "247.9M",
+      "marketCapUsd": 252519822,
+      "marketCapText": "252.52M",
+      "marketCapRank": 167,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Everyone is searching for Sonic today, and its trading volume explains why.",
+    "hook": "Everyone Is Watching Sonic",
+    "segmentLines": [
+      [
+        "Sonic pushed up nearly 40% over the past 24 hours to trade around $0.065.",
+        "The token sits near the 24-hour high, though its RSI crossed 80 into overbought territory.",
+        "Trading volume topped $247 million, meaning about 98% of its market cap changed hands."
+      ]
+    ],
+    "takeaway": "Trading volume matched nearly its whole market cap",
+    "cta": "Is this run just getting started or due for a cooldown? Share your take and follow for more.",
+    "title": "Sonic jumps 39.7% to $0.0650 ⚡ #Shorts",
+    "description": "Sonic rose +39.7% to $0.0650 over the last 24 hours. Daily trading volume reached $247.9M, representing 98.2% turnover of its market cap.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "sonic",
+      "s crypto",
+      "sonic token",
+      "crypto market",
+      "altcoin news",
+      "crypto trading",
+      "whale tracker",
+      "market pulse",
+      "overbought rsi",
+      "crypto turnover",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Sonic",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "fckQfQZwggU",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1892,
+    "output_tokens": 255
+  }
+}

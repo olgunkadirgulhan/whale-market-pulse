@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-26T14:20:35.424Z",
-    "slot": "mover",
-    "coinIds": [
-      "quant-network"
-    ],
-    "title": "Quant Climbs 14% to $106 While Red Floods Crypto #Shorts",
-    "videoId": "paKhDw7iyhY",
-    "durationSec": 32.112
-  },
-  {
     "at": "2026-09-26T22:20:08.817Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What just happened to Aptos jumping 8.66% to $0.9189? 🤔 #Shorts",
     "videoId": "2_ktyVxy4HE",
     "durationSec": 30.096
+  },
+  {
+    "at": "2026-10-11T20:21:35.812Z",
+    "slot": "trending",
+    "coinIds": [
+      "sonic-3"
+    ],
+    "title": "Sonic jumps 39.7% to $0.0650 ⚡ #Shorts",
+    "videoId": "fckQfQZwggU",
+    "durationSec": 33.312
   }
 ]
