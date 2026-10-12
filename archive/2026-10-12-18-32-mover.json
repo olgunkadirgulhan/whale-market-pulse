@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.00514486,
+      "priceText": "0.005145",
+      "change24hPct": -10.99,
+      "high24h": 0.00602287,
+      "low24h": 0.0051803,
+      "high24hText": "0.006023",
+      "low24hText": "0.005180",
+      "support": 0.0051803,
+      "resistance": 0.0056278,
+      "supportText": "0.005180",
+      "resistanceText": "0.005628",
+      "distToResistancePct": 9.39,
+      "distToSupportPct": -0.69,
+      "rangePositionPct": -4,
+      "rsi14": 26,
+      "rsiZone": "oversold",
+      "sma20": 0.005516665499999999,
+      "sma20Text": "0.005517",
+      "aboveSma20": false,
+      "volatility24hPct": 1.53,
+      "volume24hUsd": 201265991,
+      "volume24hText": "201.27M",
+      "marketCapUsd": 2384130281,
+      "marketCapText": "2.38B",
+      "marketCapRank": 47,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Pump dot fun dropped 11% today, but sellers are still pressing down.",
+    "hook": "Pump Fun Slipping Lower",
+    "segmentLines": [
+      [
+        "The price fell nearly 11% to around $0.0051 during today's broader market slide.",
+        "Its RSI dropped to 26 into oversold territory, slipping below its 24-hour low.",
+        "Over $201 million traded across the last 24 hours while remaining in a strong downtrend."
+      ]
+    ],
+    "takeaway": "Oversold RSI at 26 as price breaks its daily low",
+    "cta": "Is this an oversold bounce spot or heading lower? Tell me below and follow for more.",
+    "title": "Pump.fun fell 11% today as sellers push it into oversold #Shorts",
+    "description": "Pump.fun dropped 10.99% to $0.005145 over the last 24 hours with over $201.27M in trading volume. The coin is currently in oversold territory with an RSI of 26 amid a strong downtrend.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pump.fun",
+      "pump",
+      "pump token",
+      "crypto news",
+      "crypto market",
+      "altcoins",
+      "oversold rsi",
+      "solana meme",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Pumpfun",
+    "#PUMP",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "5DGxXxl2evY",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1895,
+    "output_tokens": 269
+  }
+}
