@@ -13,9 +13,11 @@ export const Captions: React.FC<{ captions: Caption[]; hideProgress?: boolean }>
   if (!active) return null;
 
   const local = t - active.start;
+  // kısa altyazıda (≤0,36 sn) aralık eşitleniyordu → Remotion hata veriyordu; geçiş süresi kısalır
+  const fade = Math.min(0.18, active.duration / 3);
   const opacity = interpolate(
     local,
-    [0, 0.18, active.duration - 0.18, active.duration],
+    [0, fade, active.duration - fade, active.duration],
     [0, 1, 1, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
