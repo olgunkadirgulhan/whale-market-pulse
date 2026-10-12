@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-27T13:20:49.261Z",
-    "slot": "open",
-    "coinIds": [
-      "solana"
-    ],
-    "title": "Solana Edges Up to $122 While Crypto Drops #Shorts",
-    "videoId": "U7yZHxU9CbM",
-    "durationSec": 30.432
-  },
-  {
     "at": "2026-09-27T17:20:55.387Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Pump.fun fell 11% today as sellers push it into oversold #Shorts",
     "videoId": "5DGxXxl2evY",
     "durationSec": 27.321
+  },
+  {
+    "at": "2026-10-12T20:27:46.302Z",
+    "slot": "trending",
+    "coinIds": [
+      "near"
+    ],
+    "title": "Crypto market falls 2.82% as NEAR drops to $5.510 with $1.08B traded #Shorts",
+    "videoId": "2NZAlSSyvLU",
+    "durationSec": 27.216
   }
 ]
