@@ -53,6 +53,30 @@ const FALLBACK_VOICES = ["en-US-AndrewNeural", "en-US-GuyNeural"];
 // edge-tts is a free Microsoft endpoint that now and then answers with no audio
 // (NoAudioReceived) for a while; on 2026-09-26 that failed four hourly runs in a row.
 // Retry the same voice, then similar voices, then a plain-text version of the line.
+const PIPER_VOICE = "en_US-ryan-high";
+const PIPER_DIR = path.join(process.env.HOME || "/tmp", ".cache", "piper-voices");
+
+async function piperSay(text, file) {
+  // Ses modeli Hugging Face'in sabit v1.0.0 etiketinden (main dalında kaldırıldı)
+  const model = path.join(PIPER_DIR, `${PIPER_VOICE}.onnx`);
+  if (!fs.existsSync(model)) {
+    fs.mkdirSync(PIPER_DIR, { recursive: true });
+    const base = "https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/en/en_US/ryan/high/en_US-ryan-high";
+    for (const ext of [".onnx", ".onnx.json"]) {
+      const res = await fetch(`${base}${ext}?download=true`);
+      if (!res.ok) throw new Error(`piper voice download ${res.status}`);
+      fs.writeFileSync(path.join(PIPER_DIR, `${PIPER_VOICE}${ext}`), Buffer.from(await res.arrayBuffer()));
+    }
+  }
+  const wav = `${file}.piper.wav`;
+  const textFile = `${file}.piper.txt`;
+  fs.writeFileSync(textFile, text);
+  await run("bash", ["-c", `python3 -m piper -m "${model}" -f "${wav}" < "${textFile}"`]);
+  await run("ffmpeg", ["-y", "-v", "error", "-i", wav, file]);
+  fs.rmSync(wav, { force: true });
+  fs.rmSync(textFile, { force: true });
+}
+
 async function speakLine(text, file, voice, rate) {
   const plain = (s) => s.replace(/[^\p{L}\p{N}\s.,?!'-]/gu, " ").replace(/\s+/g, " ").trim();
   const attempts = [
@@ -63,8 +87,22 @@ async function speakLine(text, file, voice, rate) {
     [voice, plain(forSpeech(text)), 20000],
   ];
   let last;
+  // 2026-10-10: Microsoft edge-tts uç noktasını bölge bölge kapatıyor (403) → aynı servisteki diğer sesler de düşer.
+  // Son çare: Piper (ücretsiz, runner'da çalışır), en_US-ryan-high.
+  attempts.push(["piper", plain(forSpeech(text)), 0]);
   for (const [v, say, wait] of attempts) {
     if (wait) await sleep(wait);
+    if (v === "piper") {
+      try {
+        await piperSay(say, file);
+        console.log("  tts fallback used: piper");
+        return;
+      } catch (err) {
+        last = err;
+        console.warn(`  piper failed: ${String(err.message).slice(0, 160)}`);
+        continue;
+      }
+    }
     try {
       // "--text=" form: a line starting with "-" (e.g. "-3% today") would otherwise be parsed as an option
       await run("edge-tts", ["--voice", v, `--rate=${rate}`, `--text=${say}`, "--write-media", file]);
