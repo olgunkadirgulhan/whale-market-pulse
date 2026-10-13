@@ -47,7 +47,7 @@ jobs:
           git fetch -q origin master
           today=$(date -u +%F); hour=$((10#$(date -u +%H)))
           done_today=$(git ls-tree --name-only origin/master archive/ | grep "archive/$today-" || true)
-          for pair in mover:17 trending:20; do  # 2026-10-08: hacim 3→2, genel "open" özeti kaldırıldı (en zayıf)
+          for pair in mover:17; do  # 2026-10-08: 3→2; 2026-10-13: 2→1 (kullanıcı onayı: zayıf kanallarda düşük hacim; en iyi gidenler "mover")
             s=${pair%%:*}; h=${pair##*:}
             if [ "$hour" -ge "$h" ] && ! printf '%s\n' "$done_today" | grep -q -- "-$s.json"; then
               echo "slot=$s" >> "$GITHUB_OUTPUT"; echo "producing slot: $s"; exit 0
