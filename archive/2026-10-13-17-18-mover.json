@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "bitway",
+      "name": "Bitway",
+      "symbol": "BTW",
+      "image": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1.94,
+      "priceText": "1.940",
+      "change24hPct": 13.88,
+      "high24h": 1.98,
+      "low24h": 1.65,
+      "high24hText": "1.980",
+      "low24hText": "1.650",
+      "support": 1.82,
+      "resistance": 1.98,
+      "supportText": "1.820",
+      "resistanceText": "1.980",
+      "distToResistancePct": 2.06,
+      "distToSupportPct": 6.19,
+      "rangePositionPct": 88,
+      "rsi14": 56.1,
+      "rsiZone": "neutral",
+      "sma20": 1.8820000000000001,
+      "sma20Text": "1.882",
+      "aboveSma20": true,
+      "volatility24hPct": 2.25,
+      "volume24hUsd": 112031457,
+      "volume24hText": "112.03M",
+      "marketCapUsd": 5257629446,
+      "marketCapText": "5.26B",
+      "marketCapRank": 23,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "While the broader market slipped today, Bitway climbed almost 14% against the trend.",
+    "hook": "Bitway Defies The Market Drop",
+    "segmentLines": [
+      [
+        "Bitway gained nearly 14% to hit $1.94, outperforming a broader market drop of over 2%.",
+        "The price sits at 88% of its 24-hour range, just 2% below the 4-hour high.",
+        "Over $112 million changed hands today, keeping RSI neutral at 56 in a strong uptrend."
+      ]
+    ],
+    "takeaway": "Holding steady near the top of its daily range",
+    "cta": "Can Bitway keep pushing against the broader market? Share your thoughts below and follow for more.",
+    "title": "Why Bitway climbed nearly 14% while the market pulled back #Shorts",
+    "description": "Bitway rose +13.88% to $1.940 over the last 24 hours, defying a 2.49% decline across the broader crypto market. 24-hour volume stood at $112.03M with the token trading near its daily high of $1.980.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "bitway",
+      "btw",
+      "crypto",
+      "altcoin",
+      "crypto market",
+      "crypto analysis",
+      "market update",
+      "crypto trading",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Bitway",
+    "#BTW",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "BjdD7ePr8v8",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1884,
+    "output_tokens": 351
+  }
+}

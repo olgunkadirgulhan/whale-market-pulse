@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-27T17:20:55.387Z",
-    "slot": "mover",
-    "coinIds": [
-      "pyth-network"
-    ],
-    "title": "Why did PYTH jump 12.04% to $0.0856 while crypto slid? #Shorts",
-    "videoId": "tWuBi9kpA3I",
-    "durationSec": 35.304
-  },
-  {
     "at": "2026-09-27T20:20:59.859Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Crypto market falls 2.82% as NEAR drops to $5.510 with $1.08B traded #Shorts",
     "videoId": "2NZAlSSyvLU",
     "durationSec": 27.216
+  },
+  {
+    "at": "2026-10-13T17:20:55.416Z",
+    "slot": "mover",
+    "coinIds": [
+      "bitway"
+    ],
+    "title": "Why Bitway climbed nearly 14% while the market pulled back #Shorts",
+    "videoId": "BjdD7ePr8v8",
+    "durationSec": 35.04
   }
 ]
