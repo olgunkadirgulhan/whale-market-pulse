@@ -1,0 +1,47 @@
+name: comments
+# Yeni videolara videoya özel ilk yorum + yorumlara kişisel cevap (tools/auto_reply.py), saatte bir
+on:
+  schedule:
+    - cron: "59 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: comments
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -q google-api-python-client google-auth requests
+      - name: Whale Market Pulse
+        continue-on-error: true
+        env:
+          YT_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          CHANNEL_NAME: "Whale Market Pulse"
+          CHANNEL_ABOUT: "Daily crypto market moves explained simply: what moved and why. Education only, not financial advice."
+          CHANNEL_KIND: finance
+          CHANNEL_LANG: en
+          STATE_FILE: comment_replies.json
+          MAX_REPLIES_PER_DAY: "45"
+          REQUESTS_FILE: viewer_requests.json
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FIRST_QUESTIONS: "[\"Which coin should we look at next? 🐋\", \"Did this move surprise you? 😮\", \"What should we explain next? 💡\", \"Did you learn something new? 📚\", \"Which chart should we break down next? 📈\"]"
+        run: python tools/auto_reply.py
+      - run: |
+          git config user.name "comment-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add comment_replies*.json viewer_requests*.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "comments: $(date -u +%F-%H%M)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
