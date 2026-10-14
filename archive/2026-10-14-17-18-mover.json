@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.197952,
+      "priceText": "0.1980",
+      "change24hPct": -6.23,
+      "high24h": 0.213913,
+      "low24h": 0.194542,
+      "high24hText": "0.2139",
+      "low24hText": "0.1945",
+      "support": 0.194542,
+      "resistance": 0.202076,
+      "supportText": "0.1945",
+      "resistanceText": "0.2021",
+      "distToResistancePct": 2.08,
+      "distToSupportPct": 1.72,
+      "rangePositionPct": 18,
+      "rsi14": 37.9,
+      "rsiZone": "neutral",
+      "sma20": 0.20455635,
+      "sma20Text": "0.2046",
+      "aboveSma20": false,
+      "volatility24hPct": 1.62,
+      "volume24hUsd": 372182147,
+      "volume24hText": "372.18M",
+      "marketCapUsd": 2652121352,
+      "marketCapText": "2.65B",
+      "marketCapRank": 41,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Ethena dropped over 6% today, but the chart reveals an even bigger story.",
+    "hook": "Ethena Took a Hit",
+    "segmentLines": [
+      [
+        "Ethena fell six percent today to sit at 20 cents, trading near the 24-hour low.",
+        "The chart shows the price resting at just 18 percent of its daily range with the RSI at 38.",
+        "Trading activity reached 372 million dollars as the token remains in a strong downtrend."
+      ]
+    ],
+    "takeaway": "Heavy selling pressure pushed the token near its daily lows",
+    "cta": "Real reversal coming or more downside ahead? Tell me below and follow for the next move.",
+    "title": "Ethena fell, then this happened -6.23% to $0.1980 📉 #Shorts",
+    "description": "Ethena dropped -6.23% to $0.1980 today with volume hitting 372.18M dollars, bringing its turnover to 14 percent while trading near the 24-hour low.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "ethena",
+      "ena",
+      "ethena price",
+      "ena token",
+      "crypto market",
+      "altcoins",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Ethena",
+    "#ENA",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "rSvANlysNC8",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1883,
+    "output_tokens": 256
+  }
+}

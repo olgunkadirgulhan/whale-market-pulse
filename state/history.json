@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-27T20:20:59.859Z",
-    "slot": "trending",
-    "coinIds": [
-      "near"
-    ],
-    "title": "Why did 19.3% of NEAR Protocol trade in just 24 hours? 🔍 #Shorts",
-    "videoId": "XbE2QUv5pL0",
-    "durationSec": 32.352
-  },
-  {
     "at": "2026-09-28T13:23:22.650Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Why Bitway climbed nearly 14% while the market pulled back #Shorts",
     "videoId": "BjdD7ePr8v8",
     "durationSec": 35.04
+  },
+  {
+    "at": "2026-10-14T17:21:49.068Z",
+    "slot": "mover",
+    "coinIds": [
+      "ethena"
+    ],
+    "title": "Ethena fell, then this happened -6.23% to $0.1980 📉 #Shorts",
+    "videoId": "rSvANlysNC8",
+    "durationSec": 31.248
   }
 ]
