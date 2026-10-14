@@ -1,0 +1,332 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "bitway",
+      "name": "Bitway",
+      "symbol": "BTW",
+      "image": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907"
+    },
+    {
+      "id": "raydium",
+      "name": "Raydium",
+      "symbol": "RAY",
+      "image": "https://coin-images.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1696513668"
+    },
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    },
+    {
+      "id": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725"
+    },
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+      "id": "optimism",
+      "name": "Optimism",
+      "symbol": "OP",
+      "image": "https://coin-images.coingecko.com/coins/images/25244/large/Token.png?1774456081"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 81752,
+      "priceText": "81,752",
+      "change7dPct": -2.06,
+      "change24hPct": -1.85,
+      "weekHigh": 84231,
+      "weekLow": 80427,
+      "weekHighText": "84,231",
+      "weekLowText": "80,427",
+      "rangePositionPct": 35,
+      "rsi14": 39.4,
+      "rsiZone": "neutral",
+      "sma20": 83154.9,
+      "sma20Text": "83,155",
+      "aboveSma20": false,
+      "volume24hUsd": 33381381595,
+      "volume24hText": "33.38B",
+      "marketCapUsd": 1643004368254,
+      "marketCapText": "1.64T",
+      "marketCapRank": 1,
+      "trend": "downtrend"
+    },
+    {
+      "price": 2419.26,
+      "priceText": "2,419",
+      "change7dPct": -6.07,
+      "change24hPct": -3.52,
+      "weekHigh": 2584.49,
+      "weekLow": 2409.36,
+      "weekHighText": "2,584",
+      "weekLowText": "2,409",
+      "rangePositionPct": 6,
+      "rsi14": 34.8,
+      "rsiZone": "neutral",
+      "sma20": 2508.9,
+      "sma20Text": "2,509",
+      "aboveSma20": false,
+      "volume24hUsd": 13552051672,
+      "volume24hText": "13.55B",
+      "marketCapUsd": 295438278157,
+      "marketCapText": "295.44B",
+      "marketCapRank": 2,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 2.29,
+      "priceText": "2.290",
+      "change7dPct": 76.82,
+      "change24hPct": 17.07,
+      "weekHigh": 2.77,
+      "weekLow": 1.27,
+      "weekHighText": "2.770",
+      "weekLowText": "1.270",
+      "rangePositionPct": 68,
+      "rsi14": 60.6,
+      "rsiZone": "neutral",
+      "sma20": 1.952,
+      "sma20Text": "1.952",
+      "aboveSma20": true,
+      "volume24hUsd": 94971589,
+      "volume24hText": "94.97M",
+      "marketCapUsd": 3448089129,
+      "marketCapText": "3.45B",
+      "marketCapRank": 33,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 1.84,
+      "priceText": "1.840",
+      "change7dPct": -26.48,
+      "change24hPct": -10.36,
+      "weekHigh": 2.55,
+      "weekLow": 1.83,
+      "weekHighText": "2.550",
+      "weekLowText": "1.830",
+      "rangePositionPct": 1,
+      "rsi14": 24.3,
+      "rsiZone": "oversold",
+      "sma20": 2.1599999999999997,
+      "sma20Text": "2.160",
+      "aboveSma20": false,
+      "volume24hUsd": 52853190,
+      "volume24hText": "52.85M",
+      "marketCapUsd": 495911854,
+      "marketCapText": "495.91M",
+      "marketCapRank": 116,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.00475706,
+      "priceText": "0.004757",
+      "change7dPct": -26.17,
+      "change24hPct": -5.42,
+      "weekHigh": 0.0064882,
+      "weekLow": 0.00466871,
+      "weekHighText": "0.006488",
+      "weekLowText": "0.004669",
+      "rangePositionPct": 5,
+      "rsi14": 32.4,
+      "rsiZone": "neutral",
+      "sma20": 0.005216212,
+      "sma20Text": "0.005216",
+      "aboveSma20": false,
+      "volume24hUsd": 172100553,
+      "volume24hText": "172.1M",
+      "marketCapUsd": 2203226132,
+      "marketCapText": "2.2B",
+      "marketCapRank": 47,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.085009,
+      "priceText": "0.0850",
+      "change7dPct": 18.89,
+      "change24hPct": 8.79,
+      "weekHigh": 0.090576,
+      "weekLow": 0.071806,
+      "weekHighText": "0.0906",
+      "weekLowText": "0.0718",
+      "rangePositionPct": 70,
+      "rsi14": 53.7,
+      "rsiZone": "neutral",
+      "sma20": 0.08202324999999999,
+      "sma20Text": "0.0820",
+      "aboveSma20": true,
+      "volume24hUsd": 78425793,
+      "volume24hText": "78.43M",
+      "marketCapUsd": 669494383,
+      "marketCapText": "669.49M",
+      "marketCapRank": 98,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 206.61,
+      "priceText": "206.61",
+      "change7dPct": -17.7,
+      "change24hPct": -3.58,
+      "weekHigh": 255.98,
+      "weekLow": 201.74,
+      "weekHighText": "255.98",
+      "weekLowText": "201.74",
+      "rangePositionPct": 9,
+      "rsi14": 34.1,
+      "rsiZone": "neutral",
+      "sma20": 222.9665,
+      "sma20Text": "222.97",
+      "aboveSma20": false,
+      "volume24hUsd": 119542897,
+      "volume24hText": "119.54M",
+      "marketCapUsd": 3008239391,
+      "marketCapText": "3.01B",
+      "marketCapRank": 37,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.139092,
+      "priceText": "0.1391",
+      "change7dPct": 15.67,
+      "change24hPct": -11.46,
+      "weekHigh": 0.162088,
+      "weekLow": 0.111658,
+      "weekHighText": "0.1621",
+      "weekLowText": "0.1117",
+      "rangePositionPct": 54,
+      "rsi14": 49.5,
+      "rsiZone": "neutral",
+      "sma20": 0.14281165,
+      "sma20Text": "0.1428",
+      "aboveSma20": false,
+      "volume24hUsd": 170877372,
+      "volume24hText": "170.88M",
+      "marketCapUsd": 319879731,
+      "marketCapText": "319.88M",
+      "marketCapRank": 141,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "hook": "Weekly Crypto Market Pulse",
+    "overviewLines": [
+      "The total cryptocurrency market capitalization shifted significantly lower over the past seven days of trading sessions.",
+      "Bitcoin dominance held at fifty nine point three percent while overall market sentiment faced downward pressure.",
+      "Risk aversion dominated most sectors as broad indexes retreated amid changing volume conditions across major tokens.",
+      "This video breaks down the performance statistics for the top crypto assets of the week."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is down two point zero six percent this week and trades at eighty one thousand seven hundred and fifty two dollars.",
+        "The asset recorded a weekly high of eighty four thousand two31 dollars and a weekly low of eighty thousand four hundred and twenty seven dollars.",
+        "Trading volume reached thirty three point three eight billion dollars with fourteen period R S I sitting at thirty nine point four.",
+        "Bitcoin remains in a downtrend while trading below its twenty period moving average."
+      ],
+      [
+        "Ethereum declined six point zero seven percent over the week and current price sits at two thousand four hundred and nineteen dollars.",
+        "Price action registered a weekly high of two thousand five hundred and eighty four dollars and a low of two thousand four hundred and nine dollars.",
+        "Total market capitalization stands at two hundred and ninety five point four four billion dollars with volume at thirteen point five five billion dollars.R S I indicator rests at thirty four point eight within neutral territory.",
+        "Ethereum maintains a strong downtrend while trading below the twenty period average."
+      ],
+      [
+        "Bitway surged seventy six point eight two percent this week to reach a current price of two point two nine dollars.",
+        "The token established a weekly high of two point seven seven dollars alongside a weekly low of one point two seven dollars.",
+        "Market capitalization reached three point four five billion dollars while fourteen period R S I stands at sixty point six.",
+        "Bitway continues inside a strong uptrend and remains positioned above the twenty period average."
+      ],
+      [
+        "Raydium dropped twenty six point four eight percent over the week and currently changes hands at one point eight four dollars.",
+        "During the seven day period the asset touched a weekly high of two point five five dollars and a weekly low of one point eight three dollars.",
+        "Trading volume totaled fifty two point eight five million dollars with a total market capitalization of four hundred and ninety five point nine one million dollars.R S I reading dropped into oversold territory at twenty four point three.",
+        "Raydium trades within a strong downtrend below the twenty period average."
+      ],
+      [
+        "Pump dot fun is down twenty six point one seven percent this week trading at zero point zero zero four seven five seven dollars.",
+        "The asset marked a weekly high of zero point zero zero six four eight eight dollars and a weekly low of zero point zero zero four six six nine dollars.",
+        "Fourteen period R S I rests at thirty two point four while market capitalization stands at two point two billion dollars.",
+        "Volume reached one hundred and seventy two point one million dollars as the asset continues a strong downtrend."
+      ],
+      [
+        "Pyth Network gained eighteen point eight nine percent this week bringing its price to zero point zero eight five zero dollars.",
+        "Price reached a weekly high of zero point zero nine zero six dollars and a weekly low of zero point zero seven one eight dollars.",
+        "Total market capitalization is recorded at six hundred and sixty nine point four nine million dollars with volume at seventy eight point four three million dollars.R S I is currently positioned at fifty three point seven in neutral ground.",
+        "Pyth Network trades above its twenty period average within a strong uptrend."
+      ],
+      [
+        "Quant retreated seventeen point seven percent over the week with a current price of two hundred and six point six one dollars.",
+        "The token recorded a weekly high of two hundred and fifty five point nine eight dollars and a weekly low of two hundred and one point seven four dollars.",
+        "Market capitalization reached three point zero one billion dollars while volume totaled one hundred and nineteen point five four million dollars.R S I sits at thirty four point one.",
+        "Quant remains in a strong downtrend below the twenty period moving average."
+      ],
+      [
+        "Optimism advanced fifteen point six seven percent this week to reach zero point one three nine one dollars.",
+        "The seven day range spanned from a weekly high of zero point one six two one dollars to a low of zero point one one one seven dollars.",
+        "Volume registered at one hundred and seventy point eight eight million dollars alongside a market capitalization of three hundred and nineteen point eight eight million dollars.R S I measures at forty nine point five.",
+        "Optimism trades in a range bound structure below the twenty period average."
+      ]
+    ],
+    "takeaway": "Mixed crypto performance with notable gains for select tokens amid broad market ",
+    "cta": "If you enjoyed this market breakdown please support the channel by hitting the follow and like buttons.",
+    "title": "BTW +76% This Week: What Moved Crypto (and What Didn't)",
+    "description": "This weekly market recap covers the price action and key metrics for Bitcoin, Ethereum, Bitway, Raydium, Pump dot fun, Pyth Network, Quant, and Optimism. We examine percentage changes, trading volumes, and market trends across major digital assets. Data: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "bitcoin",
+      "btc",
+      "ethereum",
+      "eth",
+      "bitway",
+      "btw",
+      "raydium",
+      "ray",
+      "pump fun",
+      "pump",
+      "pyth network",
+      "pyth",
+      "quant",
+      "qnt",
+      "optimism",
+      "op",
+      "crypto recap",
+      "pump.fun",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Bitway",
+    "#BTW",
+    "#Raydium",
+    "#RAY"
+  ],
+  "videoId": "lFEvfx1wrFg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2458,
+    "output_tokens": 1157
+  }
+}

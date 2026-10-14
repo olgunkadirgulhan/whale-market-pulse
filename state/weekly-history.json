@@ -190,5 +190,21 @@
     "title": "STRK +112% This Week: What Moved Crypto (and What Didn't)",
     "videoId": "aOL9KZ2qmTg",
     "durationSec": 252.912
+  },
+  {
+    "at": "2026-10-14T21:46:47.039Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "bitway",
+      "raydium",
+      "pump-fun",
+      "pyth-network",
+      "quant-network",
+      "optimism"
+    ],
+    "title": "BTW +76% This Week: What Moved Crypto (and What Didn't)",
+    "videoId": "lFEvfx1wrFg",
+    "durationSec": 321.504
   }
 ]
