@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "pyth-network",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "image": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.094617,
+      "priceText": "0.0946",
+      "change24hPct": 16.2,
+      "high24h": 0.100462,
+      "low24h": 0.080069,
+      "high24hText": "0.1005",
+      "low24hText": "0.0801",
+      "support": 0.080854,
+      "resistance": 0.100462,
+      "supportText": "0.0809",
+      "resistanceText": "0.1005",
+      "distToResistancePct": 6.18,
+      "distToSupportPct": 14.55,
+      "rangePositionPct": 71,
+      "rsi14": 62.9,
+      "rsiZone": "neutral",
+      "sma20": 0.08791635,
+      "sma20Text": "0.0879",
+      "aboveSma20": true,
+      "volatility24hPct": 3.19,
+      "volume24hUsd": 167499931,
+      "volume24hText": "167.5M",
+      "marketCapUsd": 745103899,
+      "marketCapText": "745.1M",
+      "marketCapRank": 92,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Pyth Network surged 16% today, but where is it sitting right now?",
+    "hook": "Pyth Network Jumps",
+    "segmentLines": [
+      [
+        "Pyth Network moved up 16.2% today to reach $0.0946.",
+        "The price currently sits near the four-hour high of $0.1005 with a neutral RSI of 62.9.",
+        "Trading turnover hit 22.5% as over $167 million changed hands during this strong uptrend."
+      ]
+    ],
+    "takeaway": "Big move, but trading volume is leading the way.",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "What just happened to Pyth Network jumping 16.2% to $0.0946? 🤔 #Shorts",
+    "description": "Pyth Network jumped +16.2% to $0.0946 today with a trading turnover of 22.5% and volume reaching $167.5M.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pyth network",
+      "pyth",
+      "crypto",
+      "altcoins",
+      "trading volume",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#PythNetwork",
+    "#PYTH",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "PNtKtf_yD-o",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1889,
+    "output_tokens": 317
+  }
+}

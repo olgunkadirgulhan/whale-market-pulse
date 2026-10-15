@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-28T13:23:22.650Z",
-    "slot": "open",
-    "coinIds": [
-      "bitcoin"
-    ],
-    "title": "Why is Bitcoin trading at $83,377 after a massive new purchase? #Shorts",
-    "videoId": "lAxOR4JnJts",
-    "durationSec": 30.336
-  },
-  {
     "at": "2026-09-28T17:23:37.048Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Ethena fell, then this happened -6.23% to $0.1980 📉 #Shorts",
     "videoId": "rSvANlysNC8",
     "durationSec": 31.248
+  },
+  {
+    "at": "2026-10-15T17:22:04.530Z",
+    "slot": "mover",
+    "coinIds": [
+      "pyth-network"
+    ],
+    "title": "What just happened to Pyth Network jumping 16.2% to $0.0946? 🤔 #Shorts",
+    "videoId": "PNtKtf_yD-o",
+    "durationSec": 35.64
   }
 ]
