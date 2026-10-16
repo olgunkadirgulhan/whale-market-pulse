@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-28T17:23:37.048Z",
-    "slot": "mover",
-    "coinIds": [
-      "hedera-hashgraph"
-    ],
-    "title": "Hedera Jumps 35.86% to $0.1273 While Near Daily Highs 📊 #Shorts",
-    "videoId": "8wre40KYMj8",
-    "durationSec": 34.632
-  },
-  {
     "at": "2026-09-28T20:11:40.809Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What just happened to Pyth Network jumping 16.2% to $0.0946? 🤔 #Shorts",
     "videoId": "PNtKtf_yD-o",
     "durationSec": 35.64
+  },
+  {
+    "at": "2026-10-16T17:20:09.583Z",
+    "slot": "mover",
+    "coinIds": [
+      "celestia"
+    ],
+    "title": "Celestia green while the broader crypto market drops 3.7% #Shorts",
+    "videoId": "xpNcu5JMo64",
+    "durationSec": 33.384
   }
 ]

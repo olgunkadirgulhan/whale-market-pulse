@@ -1,0 +1,91 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "celestia",
+      "name": "Celestia",
+      "symbol": "TIA",
+      "image": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.673633,
+      "priceText": "0.6736",
+      "change24hPct": 12.3,
+      "high24h": 0.720176,
+      "low24h": 0.5761,
+      "high24hText": "0.7202",
+      "low24hText": "0.5761",
+      "support": 0.678967,
+      "resistance": 0.720176,
+      "supportText": "0.6790",
+      "resistanceText": "0.7202",
+      "distToResistancePct": 6.91,
+      "distToSupportPct": -0.79,
+      "rangePositionPct": 68,
+      "rsi14": 55.3,
+      "rsiZone": "neutral",
+      "sma20": 0.6911567,
+      "sma20Text": "0.6912",
+      "aboveSma20": false,
+      "volatility24hPct": 2.18,
+      "volume24hUsd": 234221322,
+      "volume24hText": "234.22M",
+      "marketCapUsd": 661320090,
+      "marketCapText": "661.32M",
+      "marketCapRank": 99,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Celestia ripped over 12% today, but look where it is sitting now.",
+    "hook": "Celestia Moving Fast",
+    "segmentLines": [
+      [
+        "Celestia climbed 12.3% today to reach $0.6736 per coin.",
+        "The chart sits below the four-hour high while holding a neutral RSI of 55.3.",
+        "CoinDesk reports altcoins outpace bitcoin as celestia jumps 16% alongside heavy action."
+      ]
+    ],
+    "takeaway": "Big move higher, but it sits below the four-hour high",
+    "cta": "Is this rally sustainable or just a brief pause? Tell me below and follow for the next move.",
+    "title": "Celestia green while the broader crypto market drops 3.7% #Shorts",
+    "description": "Celestia jumped +12.3% to $0.6736 today with a turnover of 35.4% as altcoins outpace bitcoin according to CoinDesk.\n\nMarket data: CoinGecko\nNews: \"Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans\" (CoinDesk) https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "published": 1792147263000,
+      "age_hours": 7
+    },
+    "tags": [
+      "celestia",
+      "tia",
+      "crypto news",
+      "altcoins",
+      "market pulse",
+      "crypto trading",
+      "blockchain",
+      "tokens",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Celestia",
+    "#TIA",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "xpNcu5JMo64",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1931,
+    "output_tokens": 308
+  }
+}
