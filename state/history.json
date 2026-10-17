@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-28T20:11:40.809Z",
-    "slot": "trending",
-    "coinIds": [
-      "quant-network"
-    ],
-    "title": "Quant Surges 29.93% to $241.93 With 44.9% Turnover 📊 #Shorts",
-    "videoId": "IyvvDcScngQ",
-    "durationSec": 31.032
-  },
-  {
     "at": "2026-09-29T16:54:48.257Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Celestia green while the broader crypto market drops 3.7% #Shorts",
     "videoId": "xpNcu5JMo64",
     "durationSec": 33.384
+  },
+  {
+    "at": "2026-10-17T17:21:47.264Z",
+    "slot": "mover",
+    "coinIds": [
+      "layerzero"
+    ],
+    "title": "What is pushing LayerZero down 6.62% to $1.860? #Shorts",
+    "videoId": "iI38zMMzla8",
+    "durationSec": 35.904
   }
 ]
