@@ -7,4 +7,6 @@ jobs:
     steps:
       - env:
           CID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-        run: echo "proje numarası: $(echo $CID | cut -d- -f1 | rev | rev)" | sed 's/\([0-9]\)/\1 /g'
+        run: |
+          N=$(echo "$CID" | cut -d- -f1)
+          echo "PROJE $(echo $N | sed 's/./& /g')"
