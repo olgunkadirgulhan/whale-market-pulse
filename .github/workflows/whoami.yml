@@ -1,0 +1,10 @@
+name: whoami
+# Sadece OAuth istemcisinin Google proje numarasını yazar (gizli değil); yeniden yetkilendirmede doğru projeyi seçmek için.
+on: workflow_dispatch
+jobs:
+  id:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          CID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+        run: echo "proje numarası: $(echo $CID | cut -d- -f1 | rev | rev)" | sed 's/\([0-9]\)/\1 /g'
