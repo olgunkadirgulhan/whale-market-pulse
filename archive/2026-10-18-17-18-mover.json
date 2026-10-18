@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "monero",
+      "name": "Monero",
+      "symbol": "XMR",
+      "image": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 589.92,
+      "priceText": "589.92",
+      "change24hPct": 6.92,
+      "high24h": 607.68,
+      "low24h": 546.95,
+      "high24hText": "607.68",
+      "low24hText": "546.95",
+      "support": 581.11,
+      "resistance": 594.06,
+      "supportText": "581.11",
+      "resistanceText": "594.06",
+      "distToResistancePct": 0.7,
+      "distToSupportPct": 1.49,
+      "rangePositionPct": 71,
+      "rsi14": 60.9,
+      "rsiZone": "neutral",
+      "sma20": 583.902,
+      "sma20Text": "583.90",
+      "aboveSma20": true,
+      "volatility24hPct": 0.91,
+      "volume24hUsd": 193502812,
+      "volume24hText": "193.5M",
+      "marketCapUsd": 11103641125,
+      "marketCapText": "11.1B",
+      "marketCapRank": 13,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Monero gained nearly 7% today while the wider crypto market tumbled.",
+    "hook": "Monero Defies The Market",
+    "segmentLines": [
+      [
+        "Monero pushed up almost 7% to around $590, brushing against its 24-hour high of nearly $608.",
+        "The token sits in the upper 71% of its daily range with RSI holding neutral at 61.",
+        "Over $193 million traded today as it stays in a strong uptrend above its moving average."
+      ]
+    ],
+    "takeaway": "Holding strong in the upper 24-hour range",
+    "cta": "Is Monero decoupling from the broader market or pulling back next? Tell me below and follow for more.",
+    "title": "What is fueling Monero to $589.92 while markets slide? #Shorts",
+    "description": "Monero gained +6.92% to $589.92 over the past 24 hours, trading near the top of its daily range. 24-hour trading volume reached $193.5M as the coin maintained a strong uptrend.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "monero",
+      "xmr",
+      "monero crypto",
+      "xmr price",
+      "crypto market",
+      "crypto news",
+      "altcoins",
+      "privacy coins",
+      "xmr analysis",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Monero",
+    "#XMR",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "B5chrix4fK4",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1880,
+    "output_tokens": 346
+  }
+}

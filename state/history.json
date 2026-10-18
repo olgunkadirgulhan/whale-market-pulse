@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-29T16:54:48.257Z",
-    "slot": "open",
-    "coinIds": [
-      "zcash"
-    ],
-    "title": "Why did Zcash drop 8.91% to $1,392 today? 📉 #Shorts",
-    "videoId": "A3fkKtLUc28",
-    "durationSec": 32.184
-  },
-  {
     "at": "2026-09-29T17:20:16.110Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What is pushing LayerZero down 6.62% to $1.860? #Shorts",
     "videoId": "iI38zMMzla8",
     "durationSec": 35.904
+  },
+  {
+    "at": "2026-10-18T17:20:22.413Z",
+    "slot": "mover",
+    "coinIds": [
+      "monero"
+    ],
+    "title": "What is fueling Monero to $589.92 while markets slide? #Shorts",
+    "videoId": "B5chrix4fK4",
+    "durationSec": 36.768
   }
 ]
