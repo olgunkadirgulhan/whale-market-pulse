@@ -1,0 +1,330 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "quack-ai",
+      "name": "Quack AI",
+      "symbol": "Q",
+      "image": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808"
+    },
+    {
+      "id": "starknet",
+      "name": "Starknet",
+      "symbol": "STRK",
+      "image": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    },
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    },
+    {
+      "id": "fetch-ai",
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "image": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289"
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+    },
+    {
+      "id": "aptos",
+      "name": "Aptos",
+      "symbol": "APT",
+      "image": "https://coin-images.coingecko.com/coins/images/26455/large/Aptos-Network-Profile-Picture_%281%29.png?1788259511"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 80908,
+      "priceText": "80,908",
+      "change7dPct": -3.23,
+      "change24hPct": -0.27,
+      "weekHigh": 84231,
+      "weekLow": 79806,
+      "weekHighText": "84,231",
+      "weekLowText": "79,806",
+      "rangePositionPct": 25,
+      "rsi14": 39.6,
+      "rsiZone": "neutral",
+      "sma20": 81706.05,
+      "sma20Text": "81,706",
+      "aboveSma20": false,
+      "volume24hUsd": 18967673543,
+      "volume24hText": "18.97B",
+      "marketCapUsd": 1626197560471,
+      "marketCapText": "1.63T",
+      "marketCapRank": 1,
+      "trend": "downtrend"
+    },
+    {
+      "price": 2356.61,
+      "priceText": "2,357",
+      "change7dPct": -7.33,
+      "change24hPct": -1.72,
+      "weekHigh": 2575.42,
+      "weekLow": 2324.97,
+      "weekHighText": "2,575",
+      "weekLowText": "2,325",
+      "rangePositionPct": 13,
+      "rsi14": 33.4,
+      "rsiZone": "neutral",
+      "sma20": 2421.4015000000004,
+      "sma20Text": "2,421",
+      "aboveSma20": false,
+      "volume24hUsd": 8549748837,
+      "volume24hText": "8.55B",
+      "marketCapUsd": 287867446090,
+      "marketCapText": "287.87B",
+      "marketCapRank": 2,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.116031,
+      "priceText": "0.1160",
+      "change7dPct": 314.67,
+      "change24hPct": -3.29,
+      "weekHigh": 0.147008,
+      "weekLow": 0.02785389,
+      "weekHighText": "0.1470",
+      "weekLowText": "0.0279",
+      "rangePositionPct": 74,
+      "rsi14": 68.5,
+      "rsiZone": "neutral",
+      "sma20": 0.0821276,
+      "sma20Text": "0.0821",
+      "aboveSma20": true,
+      "volume24hUsd": 106659308,
+      "volume24hText": "106.66M",
+      "marketCapUsd": 546254792,
+      "marketCapText": "546.25M",
+      "marketCapRank": 109,
+      "trend": "strong uptrend"
+    },
+    {
+      "price": 0.058895,
+      "priceText": "0.0589",
+      "change7dPct": -51.05,
+      "change24hPct": -7.8,
+      "weekHigh": 0.124736,
+      "weekLow": 0.058837,
+      "weekHighText": "0.1247",
+      "weekLowText": "0.0588",
+      "rangePositionPct": 0,
+      "rsi14": 24,
+      "rsiZone": "oversold",
+      "sma20": 0.0726628,
+      "sma20Text": "0.0727",
+      "aboveSma20": false,
+      "volume24hUsd": 89714798,
+      "volume24hText": "89.71M",
+      "marketCapUsd": 447221815,
+      "marketCapText": "447.22M",
+      "marketCapRank": 121,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.177269,
+      "priceText": "0.1773",
+      "change7dPct": -27.13,
+      "change24hPct": -5.58,
+      "weekHigh": 0.247106,
+      "weekLow": 0.175504,
+      "weekHighText": "0.2471",
+      "weekLowText": "0.1755",
+      "rangePositionPct": 2,
+      "rsi14": 27.7,
+      "rsiZone": "oversold",
+      "sma20": 0.19540589999999997,
+      "sma20Text": "0.1954",
+      "aboveSma20": false,
+      "volume24hUsd": 265037740,
+      "volume24hText": "265.04M",
+      "marketCapUsd": 2376815847,
+      "marketCapText": "2.38B",
+      "marketCapRank": 43,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.180529,
+      "priceText": "0.1805",
+      "change7dPct": -24.43,
+      "change24hPct": -4.84,
+      "weekHigh": 0.243612,
+      "weekLow": 0.179213,
+      "weekHighText": "0.2436",
+      "weekLowText": "0.1792",
+      "rangePositionPct": 2,
+      "rsi14": 26.5,
+      "rsiZone": "oversold",
+      "sma20": 0.19695775,
+      "sma20Text": "0.1970",
+      "aboveSma20": false,
+      "volume24hUsd": 92536259,
+      "volume24hText": "92.54M",
+      "marketCapUsd": 417365548,
+      "marketCapText": "417.37M",
+      "marketCapRank": 122,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 2.88,
+      "priceText": "2.880",
+      "change7dPct": -22.67,
+      "change24hPct": -7.51,
+      "weekHigh": 3.99,
+      "weekLow": 2.83,
+      "weekHighText": "3.990",
+      "weekLowText": "2.830",
+      "rangePositionPct": 4,
+      "rsi14": 27.8,
+      "rsiZone": "oversold",
+      "sma20": 3.089,
+      "sma20Text": "3.089",
+      "aboveSma20": false,
+      "volume24hUsd": 57488858,
+      "volume24hText": "57.49M",
+      "marketCapUsd": 720750170,
+      "marketCapText": "720.75M",
+      "marketCapRank": 89,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.742373,
+      "priceText": "0.7424",
+      "change7dPct": -18.97,
+      "change24hPct": -6.57,
+      "weekHigh": 0.920411,
+      "weekLow": 0.740356,
+      "weekHighText": "0.9204",
+      "weekLowText": "0.7404",
+      "rangePositionPct": 1,
+      "rsi14": 31.6,
+      "rsiZone": "neutral",
+      "sma20": 0.8208798999999999,
+      "sma20Text": "0.8209",
+      "aboveSma20": false,
+      "volume24hUsd": 67707722,
+      "volume24hText": "67.71M",
+      "marketCapUsd": 655614517,
+      "marketCapText": "655.61M",
+      "marketCapRank": 95,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto",
+    "overviewLines": [
+      "Total crypto market capitalization contracted over the past seven days amid broad digital asset selling pressure.",
+      "Bitcoin dominance held firm at sixty point two percent as capital retreated toward relative market safety.",
+      "Cautious overall risk sentiment defined trading desks with major assets logging consistent downward price pressure.",
+      "Today we break down the seven day performances of eight notable movers across the board."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin slid three point two three percent over seven days to eighty thousand nine hundred eight dollars.",
+        "The premier asset carved a weekly low near seventy nine thousand eight hundred six dollars.",
+        "Its fourteen day R S I sits neutrally at thirty nine point six on twenty four hour volume of eighteen point nine seven billion dollars.",
+        "Price action remained under pressure while trading below the twenty period moving average all week long."
+      ],
+      [
+        "Ethereum lost seven point three three percent this week, currently trading at two thousand three hundred fifty seven dollars.",
+        "The token reached a weekly low of two thousand three hundred twenty five dollars during heavy selling.",
+        "Its fourteen day R S I closed at thirty three point four with eight point five five billion dollars traded.",
+        "Ether settled near the lower end of its weekly trading range as the downtrend persisted."
+      ],
+      [
+        "Quack A I jumped three hundred fourteen point six seven percent, reaching eleven point six zero cents.",
+        "The asset established a high of fourteen point seven zero cents during its powerful upward move.",
+        "Its fourteen day R S I rests at sixty eight point five while trading above the twenty period average.",
+        "This standout rally occurred against the broader market direction, despite a minor pullback over the past day."
+      ],
+      [
+        "Starknet dropped fifty one point zero five percent this week, settling at five point eight nine cents.",
+        "The token hit an oversold fourteen day R S I reading of twenty four amid steep declines.",
+        "Trading volume reached eighty nine point seven one million dollars as price tested weekly lows.",
+        "Selling activity dominated market participation across every single session throughout this difficult seven day stretch."
+      ],
+      [
+        "Ethena declined twenty seven point one three percent over the week to seventeen point seven three cents.",
+        "The asset touched a weekly low mark at seventeen point five five cents during the slide.",
+        "Its fourteen day R S I dipped into oversold territory at twenty seven point seven on strong volume.",
+        "Price continued tracking inside a defined downtrend alongside many other decentralized finance assets this period."
+      ],
+      [
+        "Artificial Superintelligence Alliance decreased twenty four point four three percent to eighteen point zero five cents.",
+        "The token printed a weekly low at seventeen point nine two cents during recent trading hours.",
+        "Its fourteen day R S I settled at twenty six point five while market capitalization held above four hundred million dollars.",
+        "Sustained downward momentum kept the token pinned near its lowest levels recorded for the week."
+      ],
+      [
+        "Lighter fell twenty two point six seven percent over seven days to two dollars and eighty eight cents.",
+        "The market recorded a weekly low mark of two dollars and eighty three cents during the drop.",
+        "Its fourteen day R S I sank to twenty seven point eight with daily volume reaching fifty seven million dollars.",
+        "Price stayed below the twenty period average as broader altcoin weakness weighed heavily on performance."
+      ],
+      [
+        "Aptos declined eighteen point nine seven percent this week, currently changing hands at seventy four point two four cents.",
+        "The asset established a fresh weekly low at seventy four point zero four cents in recent trading.",
+        "Its fourteen day R S I printed at thirty one point six across sixty seven million dollars in volume.",
+        "Momentum remained subdued as the coin finished near the bottom of its weekly trading boundary."
+      ]
+    ],
+    "takeaway": "Heavy altcoin pullbacks alongside selective gains define the week",
+    "cta": "If you enjoyed this weekly market breakdown, please hit like and subscribe for more regular crypto updates.",
+    "title": "Q +315% This Week: What Moved Crypto (and What Didn't)",
+    "description": "This weekly recap examines the latest price movements across the crypto market, covering Bitcoin, Ethereum, Quack AI, Starknet, Ethena, Artificial Superintelligence Alliance, Lighter, and Aptos. We break down seven-day price action, weekly highs and lows, momentum indicators, and trading activity.\n\nFrom outsized altcoin rallies to widespread pullbacks across major assets, we review the factual data that defined the week in digital assets.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "crypto recap",
+      "weekly market pulse",
+      "bitcoin",
+      "ethereum",
+      "btc",
+      "eth",
+      "quack ai",
+      "starknet",
+      "strk",
+      "ethena",
+      "ena",
+      "fet",
+      "lighter",
+      "aptos",
+      "apt",
+      "crypto news",
+      "lit",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#QuackAI",
+    "#Starknet",
+    "#STRK",
+    "#Ethena"
+  ],
+  "videoId": "RkksmOK_fXU",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2463,
+    "output_tokens": 1009
+  }
+}

@@ -206,5 +206,21 @@
     "title": "BTW +76% This Week: What Moved Crypto (and What Didn't)",
     "videoId": "lFEvfx1wrFg",
     "durationSec": 321.504
+  },
+  {
+    "at": "2026-10-18T21:50:37.721Z",
+    "coinIds": [
+      "bitcoin",
+      "ethereum",
+      "quack-ai",
+      "starknet",
+      "ethena",
+      "fetch-ai",
+      "lighter",
+      "aptos"
+    ],
+    "title": "Q +315% This Week: What Moved Crypto (and What Didn't)",
+    "videoId": "RkksmOK_fXU",
+    "durationSec": 274.656
   }
 ]
