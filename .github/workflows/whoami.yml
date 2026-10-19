@@ -3,7 +3,7 @@ name: whoami
 on: workflow_dispatch
 jobs:
   id:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - env:
           CID: ${{ secrets.YOUTUBE_CLIENT_ID }}

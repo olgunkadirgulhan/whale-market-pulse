@@ -32,7 +32,7 @@ permissions:
 jobs:
   guard:
     if: github.event_name == 'schedule' || inputs.auto
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       go: ${{ steps.g.outputs.go }}
     steps:
@@ -48,7 +48,7 @@ jobs:
   produce:
     needs: guard
     if: always() && ((github.event_name != 'schedule' && !inputs.auto) || needs.guard.outputs.go == '1')
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
 
     steps:
