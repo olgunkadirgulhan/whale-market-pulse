@@ -1,0 +1,87 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "arbitrum",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "image": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.194774,
+      "priceText": "0.1948",
+      "change24hPct": 7.81,
+      "high24h": 0.19997,
+      "low24h": 0.175083,
+      "high24hText": "0.2000",
+      "low24hText": "0.1751",
+      "support": 0.193552,
+      "resistance": 0.199098,
+      "supportText": "0.1936",
+      "resistanceText": "0.1991",
+      "distToResistancePct": 2.22,
+      "distToSupportPct": 0.63,
+      "rangePositionPct": 79,
+      "rsi14": 52.3,
+      "rsiZone": "neutral",
+      "sma20": 0.19691405000000003,
+      "sma20Text": "0.1969",
+      "aboveSma20": false,
+      "volatility24hPct": 1.19,
+      "volume24hUsd": 205132909,
+      "volume24hText": "205.13M",
+      "marketCapUsd": 1342325532,
+      "marketCapText": "1.34B",
+      "marketCapRank": 66,
+      "trend": "range-bound"
+    }
+  ],
+  "script": {
+    "spokenHook": "Arbitrum climbed almost 8% today while the broader market slipped into the red.",
+    "hook": "Arbitrum Outperforms Broader Market",
+    "segmentLines": [
+      [
+        "Arbitrum gained 7.81% to reach $0.1948, outperforming the total market cap which fell 0.71%.",
+        "The price is $0.1948, sitting in a neutral RSI zone of 52 after testing the 24-hour high of $0.2000.",
+        "Trading activity was notable today as more than 15% of the total market cap changed hands."
+      ]
+    ],
+    "takeaway": "High turnover as ARB holds near its daily high",
+    "cta": "Is this a real breakout or just a range-bound bounce? Tell me below and follow for the next move.",
+    "title": "Arbitrum up 7.81% to $0.1948 while the market drops 0.71% 📉 #Shorts",
+    "description": "Arbitrum rose 7.81% to $0.1948 today, defying a 0.71% drop in the total crypto market cap. High trading volume saw 15.3% of its market cap change hands.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "arbitrum",
+      "arb",
+      "crypto",
+      "layer 2",
+      "ethereum",
+      "altcoins",
+      "trading volume",
+      "price action",
+      "market analysis",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Arbitrum",
+    "#ARB",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "pBxke_XDjks",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1887,
+    "output_tokens": 297
+  }
+}

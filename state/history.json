@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-29T17:20:16.110Z",
-    "slot": "mover",
-    "coinIds": [
-      "aave"
-    ],
-    "title": "Why did Aave jump 11.94% to $167.31 today? 📈 #Shorts",
-    "videoId": "4ZhXUKo2SIY",
-    "durationSec": 32.424
-  },
-  {
     "at": "2026-09-29T20:21:40.244Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What is fueling Monero to $589.92 while markets slide? #Shorts",
     "videoId": "B5chrix4fK4",
     "durationSec": 36.768
+  },
+  {
+    "at": "2026-10-19T17:21:57.097Z",
+    "slot": "mover",
+    "coinIds": [
+      "arbitrum"
+    ],
+    "title": "Arbitrum up 7.81% to $0.1948 while the market drops 0.71% 📉 #Shorts",
+    "videoId": "pBxke_XDjks",
+    "durationSec": 42.36
   }
 ]
