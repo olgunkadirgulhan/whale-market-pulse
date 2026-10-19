@@ -1,0 +1,336 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628"
+    },
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    },
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+      "id": "ondo-finance",
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "image": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+    },
+    {
+      "id": "filecoin",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "image": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609"
+    },
+    {
+      "id": "near",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "image": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    },
+    {
+      "id": "optimism",
+      "name": "Optimism",
+      "symbol": "OP",
+      "image": "https://coin-images.coingecko.com/coins/images/25244/large/Token.png?1774456081"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 82091,
+      "priceText": "82,091",
+      "change7dPct": -1.83,
+      "change24hPct": 0.8,
+      "weekHigh": 84231,
+      "weekLow": 79806,
+      "weekHighText": "84,231",
+      "weekLowText": "79,806",
+      "rangePositionPct": 52,
+      "rsi14": 51.5,
+      "rsiZone": "neutral",
+      "sma20": 81689.9,
+      "sma20Text": "81,690",
+      "aboveSma20": true,
+      "volume24hUsd": 20585515792,
+      "volume24hText": "20.59B",
+      "marketCapUsd": 1649927173066,
+      "marketCapText": "1.65T",
+      "marketCapRank": 1,
+      "trend": "range-bound"
+    },
+    {
+      "price": 2407.44,
+      "priceText": "2,407",
+      "change7dPct": -4.85,
+      "change24hPct": 0.26,
+      "weekHigh": 2575.42,
+      "weekLow": 2324.97,
+      "weekHighText": "2,575",
+      "weekLowText": "2,325",
+      "rangePositionPct": 33,
+      "rsi14": 47.1,
+      "rsiZone": "neutral",
+      "sma20": 2419.8675,
+      "sma20Text": "2,420",
+      "aboveSma20": false,
+      "volume24hUsd": 8622459309,
+      "volume24hText": "8.62B",
+      "marketCapUsd": 294057762907,
+      "marketCapText": "294.06B",
+      "marketCapRank": 2,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.00417472,
+      "priceText": "0.004175",
+      "change7dPct": -25.69,
+      "change24hPct": -3.63,
+      "weekHigh": 0.00602287,
+      "weekLow": 0.0038485,
+      "weekHighText": "0.006023",
+      "weekLowText": "0.003849",
+      "rangePositionPct": 15,
+      "rsi14": 38.5,
+      "rsiZone": "neutral",
+      "sma20": 0.004401783500000001,
+      "sma20Text": "0.004402",
+      "aboveSma20": false,
+      "volume24hUsd": 149490026,
+      "volume24hText": "149.49M",
+      "marketCapUsd": 1930284283,
+      "marketCapText": "1.93B",
+      "marketCapRank": 49,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 191.93,
+      "priceText": "191.93",
+      "change7dPct": -19.15,
+      "change24hPct": -1.46,
+      "weekHigh": 243.08,
+      "weekLow": 182.1,
+      "weekHighText": "243.08",
+      "weekLowText": "182.10",
+      "rangePositionPct": 16,
+      "rsi14": 40,
+      "rsiZone": "neutral",
+      "sma20": 199.84300000000002,
+      "sma20Text": "199.84",
+      "aboveSma20": false,
+      "volume24hUsd": 71622720,
+      "volume24hText": "71.62M",
+      "marketCapUsd": 2793806525,
+      "marketCapText": "2.79B",
+      "marketCapRank": 40,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.434594,
+      "priceText": "0.4346",
+      "change7dPct": -15.23,
+      "change24hPct": -0.7,
+      "weekHigh": 0.531579,
+      "weekLow": 0.411716,
+      "weekHighText": "0.5316",
+      "weekLowText": "0.4117",
+      "rangePositionPct": 19,
+      "rsi14": 40.7,
+      "rsiZone": "neutral",
+      "sma20": 0.44926914999999995,
+      "sma20Text": "0.4493",
+      "aboveSma20": false,
+      "volume24hUsd": 105958821,
+      "volume24hText": "105.96M",
+      "marketCapUsd": 2116179831,
+      "marketCapText": "2.12B",
+      "marketCapRank": 48,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 1.042,
+      "priceText": "1.042",
+      "change7dPct": -14.12,
+      "change24hPct": -1.79,
+      "weekHigh": 1.26,
+      "weekLow": 0.994162,
+      "weekHighText": "1.260",
+      "weekLowText": "0.9942",
+      "rangePositionPct": 18,
+      "rsi14": 39.8,
+      "rsiZone": "neutral",
+      "sma20": 1.1070748,
+      "sma20Text": "1.107",
+      "aboveSma20": false,
+      "volume24hUsd": 134876761,
+      "volume24hText": "134.88M",
+      "marketCapUsd": 870757114,
+      "marketCapText": "870.76M",
+      "marketCapRank": 83,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 5,
+      "priceText": "5.000",
+      "change7dPct": -13.79,
+      "change24hPct": 2.78,
+      "weekHigh": 5.97,
+      "weekLow": 4.54,
+      "weekHighText": "5.970",
+      "weekLowText": "4.540",
+      "rangePositionPct": 32,
+      "rsi14": 48,
+      "rsiZone": "neutral",
+      "sma20": 5.043500000000001,
+      "sma20Text": "5.044",
+      "aboveSma20": false,
+      "volume24hUsd": 676489639,
+      "volume24hText": "676.49M",
+      "marketCapUsd": 6543807798,
+      "marketCapText": "6.54B",
+      "marketCapRank": 20,
+      "trend": "strong downtrend"
+    },
+    {
+      "price": 0.125503,
+      "priceText": "0.1255",
+      "change7dPct": -13.18,
+      "change24hPct": -2.51,
+      "weekHigh": 0.162088,
+      "weekLow": 0.118799,
+      "weekHighText": "0.1621",
+      "weekLowText": "0.1188",
+      "rangePositionPct": 15,
+      "rsi14": 41.1,
+      "rsiZone": "neutral",
+      "sma20": 0.13275805,
+      "sma20Text": "0.1328",
+      "aboveSma20": false,
+      "volume24hUsd": 58602709,
+      "volume24hText": "58.6M",
+      "marketCapUsd": 288609509,
+      "marketCapText": "288.61M",
+      "marketCapRank": 147,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "hook": "This Week in Crypto Market Pulse",
+    "overviewLines": [
+      "Total crypto market capitalization reached two trillion seven hundred billion dollars this week.",
+      "Bitcoin dominance stood at sixty point one percent across the entire sector.",
+      "The general risk mood remained cautious as several major assets trended downwards.",
+      "This weekly recap will examine price action and metrics for major cryptocurrencies."
+    ],
+    "coinLines": [
+      [
+        "Bitcoin is down one point eight three percent this week, trading at eighty two thousand and ninety one dollars.",
+        "The asset touched this week's high of eighty four thousand two hundred and thirty one dollars.",
+        "Trading volume reached twenty point five nine billion dollars with a market cap of one point six five trillion dollars.",
+        "Bitcoin maintained a range bound trend with an R S I at fifty one point five."
+      ],
+      [
+        "Ethereum is down four point eight five percent this week, currently priced at two thousand four hundred and seven dollars.",
+        "It recorded this week's low of two thousand three hundred and twenty five dollars.",
+        "Trading volume stood at eight point six two billion dollars with a market cap of two hundred and ninety four point zero six billion dollars.",
+        "The asset traded below its twenty period average within a strong downtrend."
+      ],
+      [
+        "Pump.fun is down twenty five point six nine percent this week, currently trading at zero point zero zero four one seven five dollars.",
+        "The token registered this week's high at zero point zero zero six zero two three dollars.",
+        "Volume reached one hundred and forty nine point four nine million dollars with a market cap of one point nine three billion dollars.",
+        "Technical indicators showed an R S I reading of thirty eight point five."
+      ],
+      [
+        "Quant is down nineteen point one five percent this week, sitting at one hundred and ninety one point nine three dollars.",
+        "Price action moved near this week's low of one hundred and eighty two point one zero dollars.",
+        "Volume totaled seventy one point six two million dollars alongside a market cap of two point seven nine billion dollars.",
+        "The asset remained in a strong downtrend below its twenty period average."
+      ],
+      [
+        "Ondo is down fifteen point two three percent this week, with a current price of zero point four three four six dollars.",
+        "It recorded this week's high at zero point five three one six dollars.",
+        "Market capitalization reached two point one two billion dollars with one hundred and five point nine six million dollars in volume.",
+        "The R S I indicator settled at forty point seven in neutral territory."
+      ],
+      [
+        "Filecoin is down fourteen point one two percent this week, trading at one point zero four two dollars.",
+        "The coin touched this week's low of zero point nine nine four two dollars.",
+        "Trading volume was recorded at one hundred and thirty four point eight eight million dollars with an eight hundred and seventy million dollar market cap.",
+        "Filecoin continued moving inside a strong downtrend below its twenty period moving average."
+      ],
+      [
+        "NEAR Protocol is down thirteen point seven nine percent this week, priced at five point zero zero zero dollars.",
+        "The token reached this week's high of five point nine seven zero dollars.",
+        "Volume reached six hundred and seventy six point four nine million dollars with a six point five four billion dollar market cap.",
+        "The R S I indicator printed forty eight while trading below the twenty period average."
+      ],
+      [
+        "Optimism is down thirteen point one eight percent this week, currently trading at zero point one two five five dollars.",
+        "The asset established this week's low of zero point one one eight eight dollars.",
+        "Total volume reached fifty eight point six million dollars alongside a market cap of two hundred and eighty eight million dollars.",
+        "The twelve month structure showed the asset remaining inside a strong downtrend."
+      ]
+    ],
+    "takeaway": "Cautious market conditions defined the week as major assets faced downward press",
+    "cta": "If you found this market review helpful, please like the video and follow the channel.",
+    "title": "PUMP -25% This Week: What Moved Crypto and What Didn't",
+    "description": "This weekly video recap covers price action and data for Bitcoin, Ethereum, Pump.fun, Quant, Ondo, Filecoin, NEAR Protocol, and Optimism. We examine recent trends, trading volumes, and market metrics across the sector.\n\nData: CoinGecko. This video is market commentary generated from public price data and is not financial advice. Do your own research.",
+    "tags": [
+      "btc",
+      "eth",
+      "pump",
+      "qnt",
+      "ondo",
+      "fil",
+      "near",
+      "op",
+      "crypto recap",
+      "market pulse",
+      "bitcoin price",
+      "ethereum news",
+      "altcoins",
+      "crypto analysis",
+      "weekly review",
+      "bitcoin",
+      "ethereum",
+      "pump.fun",
+      "quant",
+      "filecoin",
+      "near protocol",
+      "optimism",
+      "crypto news",
+      "weekly recap",
+      "crypto market"
+    ]
+  },
+  "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#ETH",
+    "#Pumpfun",
+    "#PUMP",
+    "#Quant",
+    "#QNT"
+  ],
+  "videoId": "eg0Zsu37OtE",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2450,
+    "output_tokens": 1019
+  }
+}
