@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "pepe",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "image": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.00000462,
+      "priceText": "0.00000462",
+      "change24hPct": 12.53,
+      "high24h": 0.00000462,
+      "low24h": 0.00000408,
+      "high24hText": "0.00000462",
+      "low24hText": "0.00000408",
+      "support": 0.00000418,
+      "resistance": 0.00000462,
+      "supportText": "0.00000418",
+      "resistanceText": "0.00000462",
+      "distToResistancePct": 0,
+      "distToSupportPct": 9.52,
+      "rangePositionPct": 100,
+      "rsi14": 76.2,
+      "rsiZone": "overbought",
+      "sma20": 0.000004294999999999999,
+      "sma20Text": "0.00000429",
+      "aboveSma20": true,
+      "volatility24hPct": 1.65,
+      "volume24hUsd": 441307576,
+      "volume24hText": "441.31M",
+      "marketCapUsd": 1942198344,
+      "marketCapText": "1.94B",
+      "marketCapRank": 53,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "PEPE just jumped over 12% today while the total market cap fell nearly 2%.",
+    "hook": "Pepe Outperforms the Market",
+    "segmentLines": [
+      [
+        "The coin climbed more than 12% today reaching its 24-hour high of $0.00000462.",
+        "It is currently trading at its 4-hour high with an RSI over 76 in overbought territory.",
+        "Trading activity is high with over 22% of the market cap changing hands today."
+      ]
+    ],
+    "takeaway": "High turnover as price hits 24-hour high",
+    "cta": "Is this a real breakout or just a temporary spike? Tell me below and follow for the next move.",
+    "title": "What is behind the 12.53% jump in PEPE to $0.00000462? 🐸 #Shorts",
+    "description": "PEPE rose +12.53% to $0.00000462 while the broader market declined. Over 22.7% of the market cap changed hands in the last 24 hours.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pepe",
+      "pepe coin",
+      "crypto",
+      "market update",
+      "whale market pulse",
+      "meme coin",
+      "pepe price",
+      "technical analysis",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Pepe",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "NPNK-hIs-p0",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1912,
+    "output_tokens": 274
+  }
+}
