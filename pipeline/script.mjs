@@ -74,9 +74,15 @@ const TITLE_STYLES = [
   "classic: name, move and price (the 'X jumps Y% to $Z' pattern)",
 ];
 
-function pickTitleStyle(recentTitles = []) {
+function pickTitleStyle(recentTitles = [], coinChg = null, marketChg = null) {
   const classicRecent = recentTitles.slice(-3).some((t) => /\b(jumps|climbs|gains|drops|falls|slides)\b.*\d+(\.\d+)?%/i.test(t));
-  const pool = classicRecent ? TITLE_STYLES.filter((s) => !s.startsWith("classic")) : TITLE_STYLES;
+  // 2026-10-20: the channel's best videos (500-1,500 views) were "coin up while the market is red".
+  // When the coin really moves against the market, use that angle most of the time; otherwise it would be false.
+  const against = coinChg != null && marketChg != null && Math.sign(coinChg) !== Math.sign(marketChg) && Math.abs(coinChg) >= 5;
+  const contrastRecent = recentTitles.slice(-2).some((t) => /\bwhile\b/i.test(t));
+  if (against && !contrastRecent && Math.random() < 0.7) return TITLE_STYLES.find((s) => s.startsWith("contrast"));
+  let pool = classicRecent ? TITLE_STYLES.filter((s) => !s.startsWith("classic")) : TITLE_STYLES;
+  if (!against) pool = pool.filter((s) => !s.startsWith("contrast"));
   return pool[Math.floor(Math.random() * pool.length)];
 }
 
@@ -113,7 +119,7 @@ export async function generateScript({ slot, segments, global, avoidTitles, head
     },
     headlines: headlines.map((h, i) => ({ index: i, source: h.source, title: h.title, age_hours: h.age_hours })),
     recent_titles: avoidTitles,
-    title_style: pickTitleStyle(avoidTitles),
+    title_style: pickTitleStyle(avoidTitles, metrics.change24hPct, global?.marketCapChange24hPct),
   };
 
   // Free LLMs first (Gemini -> Groq); the original Claude call below is only a last resort.
