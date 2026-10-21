@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.219959,
+      "priceText": "0.2200",
+      "change24hPct": 13.96,
+      "high24h": 0.22208,
+      "low24h": 0.190109,
+      "high24hText": "0.2221",
+      "low24hText": "0.1901",
+      "support": 0.205262,
+      "resistance": 0.22208,
+      "supportText": "0.2053",
+      "resistanceText": "0.2221",
+      "distToResistancePct": 0.96,
+      "distToSupportPct": 6.68,
+      "rangePositionPct": 93,
+      "rsi14": 70.3,
+      "rsiZone": "overbought",
+      "sma20": 0.20872700000000002,
+      "sma20Text": "0.2087",
+      "aboveSma20": true,
+      "volatility24hPct": 1.41,
+      "volume24hUsd": 513123424,
+      "volume24hText": "513.12M",
+      "marketCapUsd": 2948231611,
+      "marketCapText": "2.95B",
+      "marketCapRank": 38,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Ethena jumped almost 14% today, but look where it is sitting now on the chart.",
+    "hook": "Ethena Surges Today",
+    "segmentLines": [
+      [
+        "Ethena moved up almost 14% today to reach about $0.2200.",
+        "The coin is currently right at the four-hour high with the RSI at 70.",
+        "Nearly 17% of the total market cap changed hands in trading volume today."
+      ]
+    ],
+    "takeaway": "Trading right at the highs with strong volume.",
+    "cta": "Real breakout or a bull trap? Tell me below and follow for the next move.",
+    "title": "What just happened to Ethena jumping 13.96% to $0.2200? #Shorts",
+    "description": "Ethena jumped 13.96% to $0.2200 today, pushing into the overbought RSI zone while trading near its 24-hour high of $0.2221 with a turnover of 17.4%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "ethena",
+      "ena",
+      "crypto",
+      "altcoins",
+      "cryptocurrency",
+      "market pulse",
+      "trading volume",
+      "rsi",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Ethena",
+    "#ENA",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "n0zSDxgq8ek",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1906,
+    "output_tokens": 322
+  }
+}

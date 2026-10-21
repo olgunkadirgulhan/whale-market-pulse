@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-30T13:21:35.326Z",
-    "slot": "open",
-    "coinIds": [
-      "figure-heloc"
-    ],
-    "title": "Why did Figure Heloc jump 2.71% to $1.030 today? #Shorts",
-    "videoId": "nOk4eixVeZk",
-    "durationSec": 33
-  },
-  {
     "at": "2026-09-30T17:37:56.813Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What is behind the 12.53% jump in PEPE to $0.00000462? 🐸 #Shorts",
     "videoId": "NPNK-hIs-p0",
     "durationSec": 34.704
+  },
+  {
+    "at": "2026-10-21T17:20:29.997Z",
+    "slot": "mover",
+    "coinIds": [
+      "ethena"
+    ],
+    "title": "What just happened to Ethena jumping 13.96% to $0.2200? #Shorts",
+    "videoId": "n0zSDxgq8ek",
+    "durationSec": 29.352
   }
 ]
