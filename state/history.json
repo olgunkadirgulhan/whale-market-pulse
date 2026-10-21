@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-30T17:37:56.813Z",
-    "slot": "mover",
-    "coinIds": [
-      "blockstack"
-    ],
-    "title": "Why did Stacks jump 14.41% to $0.3630 today? #Shorts",
-    "videoId": "C0VS7VRcL3Q",
-    "durationSec": 40.272
-  },
-  {
     "at": "2026-09-30T20:34:56.759Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What just happened to Ethena jumping 13.96% to $0.2200? #Shorts",
     "videoId": "n0zSDxgq8ek",
     "durationSec": 29.352
+  },
+  {
+    "at": "2026-10-21T21:33:20.885Z",
+    "slot": "mover",
+    "coinIds": [
+      "lighter"
+    ],
+    "title": "Lighter hit a low of $3.330, then this 14.44% rally happened 📈 #Shorts",
+    "videoId": "Z5h50qAeyTY",
+    "durationSec": 36.12
   }
 ]

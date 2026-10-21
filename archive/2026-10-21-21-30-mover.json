@@ -1,0 +1,87 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 3.94,
+      "priceText": "3.940",
+      "change24hPct": 14.44,
+      "high24h": 3.97,
+      "low24h": 3.33,
+      "high24hText": "3.970",
+      "low24hText": "3.330",
+      "support": 3.44,
+      "resistance": 3.97,
+      "supportText": "3.440",
+      "resistanceText": "3.970",
+      "distToResistancePct": 0.76,
+      "distToSupportPct": 12.69,
+      "rangePositionPct": 95,
+      "rsi14": 73.3,
+      "rsiZone": "overbought",
+      "sma20": 3.561500000000001,
+      "sma20Text": "3.562",
+      "aboveSma20": true,
+      "volatility24hPct": 2.52,
+      "volume24hUsd": 142821515,
+      "volume24hText": "142.82M",
+      "marketCapUsd": 984206132,
+      "marketCapText": "984.21M",
+      "marketCapRank": 80,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Lighter surged over 14% today, but it is now sitting in overbought territory.",
+    "hook": "Lighter Hits Overbought Zone",
+    "segmentLines": [
+      [
+        "Lighter gained over 14% today to reach $3.94 as the broader market cap fell.",
+        "The coin is trading near the 4-hour high of $3.97 with an RSI of 73.",
+        "Almost 15% of the total supply changed hands today with over $142 million in volume."
+      ]
+    ],
+    "takeaway": "Strong uptrend but RSI shows overbought conditions",
+    "cta": "Is this a sustainable breakout or is the RSI too high? Tell me what you think and follow for the next move.",
+    "title": "Lighter hit a low of $3.330, then this 14.44% rally happened 📈 #Shorts",
+    "description": "Lighter rose 14.44% to $3.940 today while the total crypto market cap fell 0.67%. The coin reached a 24-hour high of $3.970 with a significant 14.5% turnover rate.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "lighter",
+      "lit",
+      "crypto",
+      "altcoin",
+      "trading",
+      "volume",
+      "rsi",
+      "market move",
+      "technical analysis",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Lighter",
+    "#LIT",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "Z5h50qAeyTY",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1914,
+    "output_tokens": 275
+  }
+}
