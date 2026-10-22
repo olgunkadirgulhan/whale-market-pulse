@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-09-30T20:34:56.759Z",
-    "slot": "trending",
-    "coinIds": [
-      "official-trump"
-    ],
-    "title": "TRUMP Coin Trades $223.94M Volume But Price Stalls 🔍 #Shorts",
-    "videoId": "IUa7QNSIT1Q",
-    "durationSec": 32.832
-  },
-  {
     "at": "2026-10-01T13:21:17.890Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Lighter hit a low of $3.330, then this 14.44% rally happened 📈 #Shorts",
     "videoId": "Z5h50qAeyTY",
     "durationSec": 36.12
+  },
+  {
+    "at": "2026-10-22T17:21:51.501Z",
+    "slot": "mover",
+    "coinIds": [
+      "zcash"
+    ],
+    "title": "What is causing Zcash to fall 10.14% to $1,205 today? 📉 #Shorts",
+    "videoId": "pp46xvWrAao",
+    "durationSec": 35.712
   }
 ]

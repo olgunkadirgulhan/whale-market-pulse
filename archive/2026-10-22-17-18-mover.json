@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1204.57,
+      "priceText": "1,205",
+      "change24hPct": -10.14,
+      "high24h": 1367.63,
+      "low24h": 1208.93,
+      "high24hText": "1,368",
+      "low24hText": "1,209",
+      "support": 1208.93,
+      "resistance": 1259.23,
+      "supportText": "1,209",
+      "resistanceText": "1,259",
+      "distToResistancePct": 4.54,
+      "distToSupportPct": -0.36,
+      "rangePositionPct": -3,
+      "rsi14": 28,
+      "rsiZone": "oversold",
+      "sma20": 1247.6780000000003,
+      "sma20Text": "1,248",
+      "aboveSma20": false,
+      "volatility24hPct": 1.13,
+      "volume24hUsd": 1245466734,
+      "volume24hText": "1.25B",
+      "marketCapUsd": 20539632260,
+      "marketCapText": "20.54B",
+      "marketCapRank": 10,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Zcash tumbled over 10% today, pushing its daily chart to a rare extreme.",
+    "hook": "Zcash Takes Heavy Hit",
+    "segmentLines": [
+      [
+        "The coin fell over 10% to about $1,205 during a broader market pullback today.",
+        "It sits at its 24-hour low of $1,209 with RSI at 28 in oversold territory.",
+        "Trading volume reached $1.25 billion as 24-hour turnover stood at over 6%."
+      ]
+    ],
+    "takeaway": "Oversold at 24-hour low as volume stays active",
+    "cta": "Is this oversold dip a buying opportunity or further down? Share your thoughts and follow for updates!",
+    "title": "What is causing Zcash to fall 10.14% to $1,205 today? 📉 #Shorts",
+    "description": "Zcash fell -10.14% to $1,205 today amidst a broader market decline. The coin reached its 24-hour low of $1,209 with an RSI of 28.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "zcash",
+      "zec",
+      "zcash price",
+      "zec crypto",
+      "crypto market update",
+      "zcash news",
+      "oversold crypto",
+      "crypto analysis",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Zcash",
+    "#ZEC",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "pp46xvWrAao",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1941,
+    "output_tokens": 272
+  }
+}
