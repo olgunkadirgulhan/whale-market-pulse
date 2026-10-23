@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "dash",
+      "name": "Dash",
+      "symbol": "DASH",
+      "image": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 53.62,
+      "priceText": "53.62",
+      "change24hPct": 6.52,
+      "high24h": 55.81,
+      "low24h": 50.23,
+      "high24hText": "55.81",
+      "low24hText": "50.23",
+      "support": 52.95,
+      "resistance": 54.39,
+      "supportText": "52.95",
+      "resistanceText": "54.39",
+      "distToResistancePct": 1.44,
+      "distToSupportPct": 1.25,
+      "rangePositionPct": 61,
+      "rsi14": 53.8,
+      "rsiZone": "neutral",
+      "sma20": 53.49399999999999,
+      "sma20Text": "53.49",
+      "aboveSma20": true,
+      "volatility24hPct": 1.04,
+      "volume24hUsd": 108561277,
+      "volume24hText": "108.56M",
+      "marketCapUsd": 690611488,
+      "marketCapText": "690.61M",
+      "marketCapRank": 94,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Dash jumped over 6% today, but its chart reveals a specific range.",
+    "hook": "Dash Defies the Market Trend",
+    "segmentLines": [
+      [
+        "The coin rose over 6% to reach about $54, making it one of the top gainers right now.",
+        "It is currently in a strong uptrend, holding just over 1% above the 4-hour low.",
+        "Turnover reached almost 16% today as more than $108 million in Dash changed hands."
+      ]
+    ],
+    "takeaway": "Strong uptrend holds as volume hits 16% turnover",
+    "cta": "Is this a real breakout or just a temporary spike? Tell me below and follow for the next move.",
+    "title": "What is fueling the 6.52% jump in Dash to $53.62? 📈 #Shorts",
+    "description": "Dash rose 6.52% to $53.62 today, outperforming the market while maintaining a strong uptrend. Trading volume reached $108.56M, which represents a turnover of 15.7%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "dash",
+      "dash crypto",
+      "dash price",
+      "dash news",
+      "dash analysis",
+      "dash coin",
+      "crypto market",
+      "whale market pulse",
+      "dash uptrend",
+      "dash volume",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Dash",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "0cdInCTLMQg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1918,
+    "output_tokens": 269
+  }
+}
