@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "worldcoin-wld",
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "image": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.462529,
+      "priceText": "0.4625",
+      "change24hPct": -12.81,
+      "high24h": 0.534541,
+      "low24h": 0.458234,
+      "high24hText": "0.5345",
+      "low24hText": "0.4582",
+      "support": 0.458234,
+      "resistance": 0.471308,
+      "supportText": "0.4582",
+      "resistanceText": "0.4713",
+      "distToResistancePct": 1.9,
+      "distToSupportPct": 0.93,
+      "rangePositionPct": 6,
+      "rsi14": 36.4,
+      "rsiZone": "neutral",
+      "sma20": 0.46755595000000005,
+      "sma20Text": "0.4676",
+      "aboveSma20": false,
+      "volatility24hPct": 0.89,
+      "volume24hUsd": 440682243,
+      "volume24hText": "440.68M",
+      "marketCapUsd": 1719760025,
+      "marketCapText": "1.72B",
+      "marketCapRank": 58,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Worldcoin dropped almost 13% today, and it is hovering near the absolute bottom of the range.",
+    "hook": "Worldcoin Takes A Heavy Hit",
+    "segmentLines": [
+      [
+        "Worldcoin fell 12.81% today to sit at $0.4625 amidst a strong downtrend.",
+        "The token is lingering near the 24-hour low of $0.4582 with an RSI of 36.4.",
+        "A heavy turnover of 25.6% shows a quarter of the market cap trading hands today."
+      ]
+    ],
+    "takeaway": "Hovering right near the absolute 24-hour low.",
+    "cta": "Real bottom or further down from here? Tell me below and follow for the next move.",
+    "title": "Worldcoin fell to $0.4625, then this heavy drop happened 📉 #Shorts",
+    "description": "Worldcoin fell 12.81% to $0.4625 today, sitting near the 24-hour low of $0.4582 with a turnover of 25.6%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "worldcoin",
+      "wld",
+      "crypto market",
+      "altcoins",
+      "market pulse",
+      "worldcoin price",
+      "trading volume",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Worldcoin",
+    "#WLD",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "q7ZDWsh-hQI",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1951,
+    "output_tokens": 264
+  }
+}
