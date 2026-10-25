@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-02T13:21:15.201Z",
-    "slot": "open",
-    "coinIds": [
-      "ripple"
-    ],
-    "title": "XRP hits $1.540 while market stalls on public treasury news 📈 #Shorts",
-    "videoId": "1NjqKGtPbxg",
-    "durationSec": 33.912
-  },
-  {
     "at": "2026-10-02T17:21:20.567Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "NEAR gains 5.26% to $4.650 as total market cap falls 2.66% #Shorts",
     "videoId": "HAWCMghAKY0",
     "durationSec": 36.504
+  },
+  {
+    "at": "2026-10-25T21:35:55.094Z",
+    "slot": "mover",
+    "coinIds": [
+      "quant-network"
+    ],
+    "title": "Quant jumps 7.96% to $191.20 while the market drops 3.53% 📊 #Shorts",
+    "videoId": "lmxoJlJlmwA",
+    "durationSec": 36.72
   }
 ]

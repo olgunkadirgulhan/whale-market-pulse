@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "quant-network",
+      "name": "Quant",
+      "symbol": "QNT",
+      "image": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 191.2,
+      "priceText": "191.20",
+      "change24hPct": 7.96,
+      "high24h": 199.98,
+      "low24h": 176.46,
+      "high24hText": "199.98",
+      "low24hText": "176.46",
+      "support": 187.52,
+      "resistance": 199.98,
+      "supportText": "187.52",
+      "resistanceText": "199.98",
+      "distToResistancePct": 4.59,
+      "distToSupportPct": 1.92,
+      "rangePositionPct": 63,
+      "rsi14": 62.4,
+      "rsiZone": "neutral",
+      "sma20": 188.00449999999998,
+      "sma20Text": "188.00",
+      "aboveSma20": true,
+      "volatility24hPct": 1.82,
+      "volume24hUsd": 67229209,
+      "volume24hText": "67.23M",
+      "marketCapUsd": 2780274890,
+      "marketCapText": "2.78B",
+      "marketCapRank": 38,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "The entire crypto market dropped today, but Quant quietly pushed in the opposite direction.",
+    "hook": "Quant Defies The Market Drop",
+    "segmentLines": [
+      [
+        "Quant gained nearly 8% today to reach about $191 while the wider market fell over 3%.",
+        "It sits 63% into its 24-hour range, pulling back slightly after testing the $200 mark.",
+        "Trading volume reached over $67 million today as the token remains in a strong uptrend."
+      ]
+    ],
+    "takeaway": "Quant pushed higher even as the broader market slid",
+    "cta": "Is Quant ready to break through $200 soon? Share your thoughts below and subscribe for daily whale updates.",
+    "title": "Quant jumps 7.96% to $191.20 while the market drops 3.53% 📊 #Shorts",
+    "description": "Quant gained 7.96% to $191.20 over the past 24 hours, bucking the broader market decline of 3.53%. Trading volume hit $67.23M as the token peaked near $199.98.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "quant",
+      "qnt",
+      "crypto",
+      "whale market pulse",
+      "quant crypto",
+      "qnt price",
+      "crypto market",
+      "altcoins",
+      "altcoin news",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Quant",
+    "#QNT",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "lmxoJlJlmwA",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1924,
+    "output_tokens": 278
+  }
+}
