@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-01T20:22:42.419Z",
-    "slot": "trending",
-    "coinIds": [
-      "near"
-    ],
-    "title": "NEAR Protocol falls 9.04% as exploit news shakes holders #Shorts",
-    "videoId": "XESCNrLI4HA",
-    "durationSec": 35.568
-  },
-  {
     "at": "2026-10-02T13:21:15.201Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Worldcoin fell to $0.4625, then this heavy drop happened 📉 #Shorts",
     "videoId": "q7ZDWsh-hQI",
     "durationSec": 35.568
+  },
+  {
+    "at": "2026-10-25T17:09:03.813Z",
+    "slot": "mover",
+    "coinIds": [
+      "near"
+    ],
+    "title": "NEAR gains 5.26% to $4.650 as total market cap falls 2.66% #Shorts",
+    "videoId": "HAWCMghAKY0",
+    "durationSec": 36.504
   }
 ]
