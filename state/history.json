@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-02T17:21:20.567Z",
-    "slot": "mover",
-    "coinIds": [
-      "midnight-3"
-    ],
-    "title": "Midnight surges 21.6% to $0.0479 on high turnover 📈 #Shorts",
-    "videoId": "FZV-QafQVrM",
-    "durationSec": 34.632
-  },
-  {
     "at": "2026-10-02T20:25:00.047Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Quant jumps 7.96% to $191.20 while the market drops 3.53% 📊 #Shorts",
     "videoId": "lmxoJlJlmwA",
     "durationSec": 36.72
+  },
+  {
+    "at": "2026-10-26T18:21:32.142Z",
+    "slot": "mover",
+    "coinIds": [
+      "layerzero"
+    ],
+    "title": "What just happened to LayerZero falling 5.48% to $1.680? 📉 #Shorts",
+    "videoId": "ku5QHcUK9_Y",
+    "durationSec": 37.272
   }
 ]
