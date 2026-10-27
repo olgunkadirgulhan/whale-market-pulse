@@ -47,14 +47,11 @@ export function forSpeech(text) {
     .replace(/~\s?/g, "about ");
 }
 
-const sleep = (ms) => new Promise((ok) => setTimeout(ok, ms));
-const FALLBACK_VOICES = ["en-US-AndrewNeural", "en-US-GuyNeural"];
-
-// edge-tts is a free Microsoft endpoint that now and then answers with no audio
-// (NoAudioReceived) for a while; on 2026-09-26 that failed four hourly runs in a row.
-// Retry the same voice, then similar voices, then a plain-text version of the line.
+// 2026-10-27: edge-tts (resmi olmayan Microsoft ucu, kurallara aykırı) kaldırıldı → Kokoro af_heart (Apache-2.0).
+// Kokoro tüm satırları tek seferde üretir; üretemediği satır Piper'a (en_US-ryan-high) düşer.
 const PIPER_VOICE = "en_US-ryan-high";
 const PIPER_DIR = path.join(process.env.HOME || "/tmp", ".cache", "piper-voices");
+const plain = (s) => s.replace(/[^\p{L}\p{N}\s.,?!'-]/gu, " ").replace(/\s+/g, " ").trim();
 
 async function piperSay(text, file) {
   // Ses modeli Hugging Face'in sabit v1.0.0 etiketinden (main dalında kaldırıldı)
@@ -68,64 +65,39 @@ async function piperSay(text, file) {
       fs.writeFileSync(path.join(PIPER_DIR, `${PIPER_VOICE}${ext}`), Buffer.from(await res.arrayBuffer()));
     }
   }
-  const wav = `${file}.piper.wav`;
   const textFile = `${file}.piper.txt`;
   fs.writeFileSync(textFile, text);
-  await run("bash", ["-c", `python3 -m piper -m "${model}" -f "${wav}" < "${textFile}"`]);
-  await run("ffmpeg", ["-y", "-v", "error", "-i", wav, file]);
-  fs.rmSync(wav, { force: true });
+  await run("bash", ["-c", `python3 -m piper -m "${model}" -f "${file}" < "${textFile}"`]);
   fs.rmSync(textFile, { force: true });
 }
 
-async function speakLine(text, file, voice, rate) {
-  const plain = (s) => s.replace(/[^\p{L}\p{N}\s.,?!'-]/gu, " ").replace(/\s+/g, " ").trim();
-  const attempts = [
-    [voice, forSpeech(text), 0],
-    [voice, forSpeech(text), 8000],
-    [voice, forSpeech(text), 20000],
-    ...FALLBACK_VOICES.filter((v) => v !== voice).map((v) => [v, forSpeech(text), 5000]),
-    [voice, plain(forSpeech(text)), 20000],
-  ];
-  let last;
-  // 2026-10-10: Microsoft edge-tts uç noktasını bölge bölge kapatıyor (403) → aynı servisteki diğer sesler de düşer.
-  // Son çare: Piper (ücretsiz, runner'da çalışır), en_US-ryan-high.
-  attempts.push(["piper", plain(forSpeech(text)), 0]);
-  for (const [v, say, wait] of attempts) {
-    if (wait) await sleep(wait);
-    if (v === "piper") {
-      try {
-        await piperSay(say, file);
-        console.log("  tts fallback used: piper");
-        return;
-      } catch (err) {
-        last = err;
-        console.warn(`  piper failed: ${String(err.message).slice(0, 160)}`);
-        continue;
-      }
-    }
-    try {
-      // "--text=" form: a line starting with "-" (e.g. "-3% today") would otherwise be parsed as an option
-      await run("edge-tts", ["--voice", v, `--rate=${rate}`, `--text=${say}`, "--write-media", file]);
-      if (v !== voice || say !== forSpeech(text)) console.log(`  tts fallback used: ${v}${say !== forSpeech(text) ? " (plain text)" : ""}`);
-      return;
-    } catch (err) {
-      last = err;
-      console.warn(`  tts retry (${v}): ${String(err.message).split("\n").filter(Boolean).pop()?.slice(0, 120)}`);
-    }
+async function kokoroAll(jobs, voice, speed, workDir) {
+  const spec = path.join(workDir, "kokoro.json");
+  fs.writeFileSync(spec, JSON.stringify({ voice, speed, lines: jobs }));
+  try {
+    await run("python3", [path.join(path.dirname(new URL(import.meta.url).pathname), "kokoro_say.py"), spec]);
+  } catch (err) {
+    console.warn(`  kokoro failed: ${String(err.message).slice(-300)}`);
   }
-  throw last;
 }
 
 export async function synthesizeVoiceover(lines, { workDir, outFile, musicFile = null }) {
-  const voice = process.env.TTS_VOICE || "en-US-AndrewMultilingualNeural";
-  const rate = process.env.TTS_RATE || "+6%";
+  // Eski Edge ses adları (en-US-...Neural) gelirse Kokoro varsayılanı kullanılır
+  const voice = /^[a-z][fm]_[a-z]+$/.test(process.env.TTS_VOICE || "") ? process.env.TTS_VOICE : "af_heart";
+  const speed = 1 + (Number.parseFloat(process.env.TTS_RATE || "+6%") || 0) / 100;
   fs.mkdirSync(workDir, { recursive: true });
   fs.mkdirSync(path.dirname(outFile), { recursive: true });
 
+  const files = lines.map((_, i) => path.join(workDir, `line_${i}.wav`));
+  files.forEach((f) => fs.rmSync(f, { force: true }));
+  await kokoroAll(lines.map((t, i) => [forSpeech(t), files[i]]), voice, speed, workDir);
   const parts = [];
   for (const [i, text] of lines.entries()) {
-    const file = path.join(workDir, `line_${i}.mp3`);
-    await speakLine(text, file, voice, rate);
+    const file = files[i];
+    if (!fs.existsSync(file) || fs.statSync(file).size < 1000) {
+      console.log(`  tts fallback used: piper (line ${i})`);
+      await piperSay(plain(forSpeech(text)), file);
+    }
     parts.push({ file, duration: await probeDuration(file) });
   }
 

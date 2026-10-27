@@ -92,7 +92,7 @@ jobs:
         if: steps.pick.outputs.skip != '1'
         run: |
           npm ci || npm install --no-audit --no-fund
-          pip install --disable-pip-version-check -r requirements.txt
+          pip install --disable-pip-version-check --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt
           npx remotion browser ensure || true
 
       - name: Produce and publish
@@ -108,7 +108,7 @@ jobs:
           YOUTUBE_PRIVACY: ${{ vars.YOUTUBE_PRIVACY || 'unlisted' }}
           YOUTUBE_CATEGORY_ID: ${{ vars.YOUTUBE_CATEGORY_ID || '28' }}
           COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
-          TTS_VOICE: ${{ vars.TTS_VOICE || 'en-US-AndrewMultilingualNeural' }}
+          TTS_VOICE: ${{ vars.TTS_VOICE || 'af_heart' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

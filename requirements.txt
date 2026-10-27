@@ -1,5 +1,7 @@
-# Not pinned on purpose. edge-tts is an unofficial client for Microsoft's
-# endpoint; Microsoft periodically changes the handshake and older releases
-# start returning 403. Floating forward picks up those fixes automatically.
-edge-tts>=7.2.8
+# Seslendirme: Kokoro (Apache-2.0), yedek Piper. Torch CPU sürümü için iş akışında
+# --extra-index-url https://download.pytorch.org/whl/cpu verilir.
+kokoro>=0.9.4
+soundfile
+misaki[en]
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 piper-tts>=1.3
