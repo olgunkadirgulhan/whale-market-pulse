@@ -1,0 +1,84 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "image": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 292.92,
+      "priceText": "292.92",
+      "change24hPct": 4.26,
+      "high24h": 292.8,
+      "low24h": 276.83,
+      "high24hText": "292.80",
+      "low24hText": "276.83",
+      "support": 282.94,
+      "resistance": 292.8,
+      "supportText": "282.94",
+      "resistanceText": "292.80",
+      "distToResistancePct": -0.04,
+      "distToSupportPct": 3.41,
+      "rangePositionPct": 101,
+      "rsi14": 73.1,
+      "rsiZone": "overbought",
+      "sma20": 284.14099999999996,
+      "sma20Text": "284.14",
+      "aboveSma20": true,
+      "volatility24hPct": 0.84,
+      "volume24hUsd": 185088038,
+      "volume24hText": "185.09M",
+      "marketCapUsd": 5890011980,
+      "marketCapText": "5.89B",
+      "marketCapRank": 21,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Bitcoin Cash quietly pushed to new daily highs, but can this momentum last?",
+    "hook": "Bitcoin Cash Breaks Out",
+    "segmentLines": [
+      [
+        "Bitcoin Cash climbed over 4% today, reaching a price of about $293.",
+        "The coin is in a strong uptrend with an RSI of 73 in overbought territory.",
+        "24-hour trading volume reached $185 million, representing a 3.1% turnover rate."
+      ]
+    ],
+    "takeaway": "Trading near daily highs with overbought RSI",
+    "cta": "Is this the start of a bigger run or a short-term peak? Share your thoughts below and follow for the next move.",
+    "title": "What is driving Bitcoin Cash up 4.26% to $292.92 today? 📈 #Shorts",
+    "description": "Bitcoin Cash (BCH) gained 4.26% today, reaching $292.92. Trading volume hit $185.09M as the RSI entered overbought territory at 73.1.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "bitcoin cash",
+      "bch",
+      "crypto news",
+      "bch price",
+      "bitcoin cash news",
+      "bch analysis",
+      "crypto market",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#BitcoinCash",
+    "#BCH",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "blNSMkSDYOg",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1944,
+    "output_tokens": 255
+  }
+}
