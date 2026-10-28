@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-03T17:20:49.628Z",
-    "slot": "mover",
-    "coinIds": [
-      "layerzero"
-    ],
-    "title": "LayerZero adds 7.79% to $2.080 as trading volume spikes 📊 #Shorts",
-    "videoId": "Y7T1hs96j3c",
-    "durationSec": 33.096
-  },
-  {
     "at": "2026-10-03T20:20:59.614Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Ethena just dropped over 7% to $0.1954 and people are trading it heavily 📉 #Shorts",
     "videoId": "4DgNMqv57wE",
     "durationSec": 35.75
+  },
+  {
+    "at": "2026-10-28T21:36:27.367Z",
+    "slot": "mover",
+    "coinIds": [
+      "pepe"
+    ],
+    "title": "Pepe gains 12.49% to $0.00000504 as total market falls 1.76% 📊 #Shorts",
+    "videoId": "s9xgn81el4E",
+    "durationSec": 32.7
   }
 ]

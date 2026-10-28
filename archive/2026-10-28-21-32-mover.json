@@ -1,0 +1,90 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "pepe",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "image": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.00000504,
+      "priceText": "0.00000504",
+      "change24hPct": 12.49,
+      "high24h": 0.00000517,
+      "low24h": 0.00000448,
+      "high24hText": "0.00000517",
+      "low24hText": "0.00000448",
+      "support": 0.00000484,
+      "resistance": 0.00000517,
+      "supportText": "0.00000484",
+      "resistanceText": "0.00000517",
+      "distToResistancePct": 2.58,
+      "distToSupportPct": 3.97,
+      "rangePositionPct": 81,
+      "rsi14": 68.6,
+      "rsiZone": "neutral",
+      "sma20": 0.000004899000000000001,
+      "sma20Text": "0.00000490",
+      "aboveSma20": true,
+      "volatility24hPct": 1.52,
+      "volume24hUsd": 818763078,
+      "volume24hText": "818.76M",
+      "marketCapUsd": 2120875645,
+      "marketCapText": "2.12B",
+      "marketCapRank": 48,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "While total crypto market cap dropped, Pepe pulled off a 12% surge.",
+    "hook": "Pepe Defies Market Trend",
+    "segmentLines": [
+      [
+        "Pepe pushed up over 12% today, reaching $0.00000504 as buying volume picked up.",
+        "The price sits at 81% of its 24-hour range with an RSI of 68.",
+        "This comes as CoinDesk reports Pepe surging alongside a broader Asian market rally."
+      ]
+    ],
+    "takeaway": "Strong gains for Pepe while the market falls",
+    "cta": "Can Pepe hold these gains or is a pullback coming? Follow for the next update.",
+    "title": "Pepe gains 12.49% to $0.00000504 as total market falls 1.76% 📊 #Shorts",
+    "description": "Pepe gained +12.49% to $0.00000504 today despite a -1.76% dip in total crypto market cap. The token traded $818.76M in 24-hour volume with a 38.6% turnover rate.\n\nMarket data: CoinGecko\nNews: \"Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%\" (CoinDesk) https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "published": 1793187151000,
+      "age_hours": 10
+    },
+    "tags": [
+      "pepe",
+      "pepe price",
+      "pepe news",
+      "crypto",
+      "whale market pulse",
+      "altcoins",
+      "memecoins",
+      "pepe coin",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Pepe",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "s9xgn81el4E",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1995,
+    "output_tokens": 283
+  }
+}
