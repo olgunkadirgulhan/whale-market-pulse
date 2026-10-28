@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-03T13:20:01.847Z",
-    "slot": "open",
-    "coinIds": [
-      "zcash"
-    ],
-    "title": "Zcash slides 5.88% to $1,305 while testing its low range #Shorts",
-    "videoId": "z4j-v7ovDVM",
-    "durationSec": 34.848
-  },
-  {
     "at": "2026-10-03T17:20:49.628Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "What is driving Bitcoin Cash up 4.26% to $292.92 today? 📈 #Shorts",
     "videoId": "blNSMkSDYOg",
     "durationSec": 34.025
+  },
+  {
+    "at": "2026-10-28T17:22:39.891Z",
+    "slot": "mover",
+    "coinIds": [
+      "ethena"
+    ],
+    "title": "Ethena just dropped over 7% to $0.1954 and people are trading it heavily 📉 #Shorts",
+    "videoId": "4DgNMqv57wE",
+    "durationSec": 35.75
   }
 ]

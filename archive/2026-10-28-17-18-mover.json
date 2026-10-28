@@ -1,0 +1,87 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.195378,
+      "priceText": "0.1954",
+      "change24hPct": -7.38,
+      "high24h": 0.21304,
+      "low24h": 0.192813,
+      "high24hText": "0.2130",
+      "low24hText": "0.1928",
+      "support": 0.192813,
+      "resistance": 0.199629,
+      "supportText": "0.1928",
+      "resistanceText": "0.1996",
+      "distToResistancePct": 2.18,
+      "distToSupportPct": 1.31,
+      "rangePositionPct": 13,
+      "rsi14": 31.6,
+      "rsiZone": "neutral",
+      "sma20": 0.20148880000000005,
+      "sma20Text": "0.2015",
+      "aboveSma20": false,
+      "volatility24hPct": 1.18,
+      "volume24hUsd": 523958322,
+      "volume24hText": "523.96M",
+      "marketCapUsd": 2620372943,
+      "marketCapText": "2.62B",
+      "marketCapRank": 40,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Ethena dropped over 7% today while 20% of its market cap changed hands.",
+    "hook": "Ethena Volume Stays High",
+    "segmentLines": [
+      [
+        "The coin fell to about $0.19, marking a decline of more than 7% in the last 24 hours.",
+        "It is currently sitting near the 24-hour low and just over 2% below the 4-hour high of $0.20.",
+        "Even with the strong downtrend, over $523 million worth of the coin was traded since yesterday afternoon."
+      ]
+    ],
+    "takeaway": "Trading near the lows despite heavy volume",
+    "cta": "Is this a temporary dip or the start of a deeper slide? Share your thoughts and follow for more.",
+    "title": "Ethena just dropped over 7% to $0.1954 and people are trading it heavily 📉 #Shorts",
+    "description": "Ethena (ENA) declined 7.38% to $0.1954 today. Trading volume reached $523.96M, representing 20% of its market cap while the price sits near the 24-hour low of $0.1928.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "ethena",
+      "ena",
+      "crypto",
+      "altcoin",
+      "price action",
+      "trading volume",
+      "market update",
+      "crypto news",
+      "blockchain",
+      "digital assets",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Ethena",
+    "#ENA",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "4DgNMqv57wE",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1928,
+    "output_tokens": 295
+  }
+}
