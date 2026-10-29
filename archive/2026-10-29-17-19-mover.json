@@ -1,0 +1,92 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "hyperliquid",
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "image": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 95.48,
+      "priceText": "95.48",
+      "change24hPct": 19.22,
+      "high24h": 96.7,
+      "low24h": 78.11,
+      "high24hText": "96.70",
+      "low24hText": "78.11",
+      "support": 89.53,
+      "resistance": 96.7,
+      "supportText": "89.53",
+      "resistanceText": "96.70",
+      "distToResistancePct": 1.28,
+      "distToSupportPct": 6.23,
+      "rangePositionPct": 93,
+      "rsi14": 88.5,
+      "rsiZone": "overbought",
+      "sma20": 86.71000000000001,
+      "sma20Text": "86.71",
+      "aboveSma20": true,
+      "volatility24hPct": 2.15,
+      "volume24hUsd": 2321431712,
+      "volume24hText": "2.32B",
+      "marketCapUsd": 22861678609,
+      "marketCapText": "22.86B",
+      "marketCapRank": 11,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "The entire market is sliding today, yet Hyperliquid is trading near its daily high.",
+    "hook": "Hyperliquid Defies Market Trend",
+    "segmentLines": [
+      [
+        "HYPE gained over 19% to reach $95.48 while the total market cap fell about 2%.",
+        "It is currently sitting at 93% of its 24-hour range with an overbought RSI of almost 89.",
+        "This move comes as Decrypt reports the NYSE owner is moving to bring its perpetual futures to the US."
+      ]
+    ],
+    "takeaway": "Trading near daily highs despite overbought RSI",
+    "cta": "Is this a sustainable breakout or is the RSI too high? Tell me below and follow for the next move.",
+    "title": "HYPE surges 19% to $95.48 while the total market drops 2% 📈 #Shorts",
+    "description": "Hyperliquid (HYPE) gained 19.22% to reach $95.48 today, significantly outperforming the broader market's 2.07% decline. The move follows reports of NYSE owner ICE seeking to bring its perpetual futures to the US.\n\nMarket data: CoinGecko\nNews: \"Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US\" (Decrypt) https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "Decrypt",
+      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+      "published": 1793289588000,
+      "age_hours": 1
+    },
+    "tags": [
+      "hyperliquid",
+      "hype",
+      "crypto",
+      "nyse",
+      "ice",
+      "perpetual futures",
+      "market update",
+      "altcoin",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Hyperliquid",
+    "#HYPE",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "3bBoLPz_Z8A",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 2053,
+    "output_tokens": 271
+  }
+}

@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-03T20:20:59.614Z",
-    "slot": "trending",
-    "coinIds": [
-      "starknet"
-    ],
-    "title": "Starknet surges 23.86% to $0.0511 on high market turnover 📊 #Shorts",
-    "videoId": "ZnkFLj5Fleo",
-    "durationSec": 38.016
-  },
-  {
     "at": "2026-10-05T07:24:19.187Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Pepe gains 12.49% to $0.00000504 as total market falls 1.76% 📊 #Shorts",
     "videoId": "s9xgn81el4E",
     "durationSec": 32.7
+  },
+  {
+    "at": "2026-10-29T17:25:28.343Z",
+    "slot": "mover",
+    "coinIds": [
+      "hyperliquid"
+    ],
+    "title": "HYPE surges 19% to $95.48 while the total market drops 2% 📈 #Shorts",
+    "videoId": "3bBoLPz_Z8A",
+    "durationSec": 37.15
   }
 ]
