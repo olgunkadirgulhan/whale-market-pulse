@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "lighter",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "image": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 2.77,
+      "priceText": "2.770",
+      "change24hPct": -13.13,
+      "high24h": 3.25,
+      "low24h": 2.6,
+      "high24hText": "3.250",
+      "low24hText": "2.600",
+      "support": 2.73,
+      "resistance": 2.93,
+      "supportText": "2.730",
+      "resistanceText": "2.930",
+      "distToResistancePct": 5.78,
+      "distToSupportPct": 1.44,
+      "rangePositionPct": 26,
+      "rsi14": 40.1,
+      "rsiZone": "neutral",
+      "sma20": 2.8225,
+      "sma20Text": "2.823",
+      "aboveSma20": false,
+      "volatility24hPct": 1.83,
+      "volume24hUsd": 172792449,
+      "volume24hText": "172.79M",
+      "marketCapUsd": 692796587,
+      "marketCapText": "692.8M",
+      "marketCapRank": 88,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Lighter dropped over 13% today, but the volume tells a much deeper story.",
+    "hook": "Lighter Drops As Big Money Moves",
+    "segmentLines": [
+      [
+        "Lighter dropped over 13% down to $2.77 as selling pushed it toward its 24-hour low.",
+        "It sits near its four-hour low of $2.73 while staying in a strong downtrend with RSI at 40.",
+        "Heavy activity drove $173 million in volume, trading nearly a quarter of its total market cap."
+      ]
+    ],
+    "takeaway": "Down 13% today with heavy turnover near the lows",
+    "cta": "Is this 13% drop a buying opportunity or is more downside coming? Follow for the next big move.",
+    "title": "24.9% turnover as Lighter drops 13.13% to $2.770 📉 #Shorts",
+    "description": "Lighter (LIT) dropped -13.13% to $2.770 as total 24-hour volume reached $172.79M. Heavy trading saw a turnover rate of 24.9% of its market cap while remaining in a strong downtrend.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "lighter",
+      "lit",
+      "lighter crypto",
+      "lit coin",
+      "crypto market",
+      "crypto news",
+      "lighter price",
+      "lighter analysis",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Lighter",
+    "#LIT",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "lEzshBYSzPs",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1929,
+    "output_tokens": 293
+  }
+}

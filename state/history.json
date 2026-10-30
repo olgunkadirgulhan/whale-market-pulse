@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-05T07:24:19.187Z",
-    "slot": "open",
-    "coinIds": [
-      "bitcoin"
-    ],
-    "title": "Bitcoin rises 1.6% to $86,298 but faces a sudden reversal 📉 #Shorts",
-    "videoId": "Wa3KXCSGjIo",
-    "durationSec": 35.688
-  },
-  {
     "at": "2026-10-05T17:21:19.148Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "HYPE surges 19% to $95.48 while the total market drops 2% 📈 #Shorts",
     "videoId": "3bBoLPz_Z8A",
     "durationSec": 37.15
+  },
+  {
+    "at": "2026-10-30T17:24:03.582Z",
+    "slot": "mover",
+    "coinIds": [
+      "lighter"
+    ],
+    "title": "24.9% turnover as Lighter drops 13.13% to $2.770 📉 #Shorts",
+    "videoId": "lEzshBYSzPs",
+    "durationSec": 38.25
   }
 ]
