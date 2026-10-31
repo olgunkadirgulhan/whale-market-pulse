@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "blockstack",
+      "name": "Stacks",
+      "symbol": "STX",
+      "image": "https://coin-images.coingecko.com/coins/images/2069/large/Stacks_Logo_png.png?1709979332"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.323863,
+      "priceText": "0.3239",
+      "change24hPct": 14.69,
+      "high24h": 0.355807,
+      "low24h": 0.277889,
+      "high24hText": "0.3558",
+      "low24hText": "0.2779",
+      "support": 0.311396,
+      "resistance": 0.332362,
+      "supportText": "0.3114",
+      "resistanceText": "0.3324",
+      "distToResistancePct": 2.62,
+      "distToSupportPct": 3.85,
+      "rangePositionPct": 59,
+      "rsi14": 67.5,
+      "rsiZone": "neutral",
+      "sma20": 0.31489090000000003,
+      "sma20Text": "0.3149",
+      "aboveSma20": true,
+      "volatility24hPct": 2.63,
+      "volume24hUsd": 59286447,
+      "volume24hText": "59.29M",
+      "marketCapUsd": 608546373,
+      "marketCapText": "608.55M",
+      "marketCapRank": 95,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Stacks surged almost 15% today, but the total market cap actually fell over 2%.",
+    "hook": "Stacks Defies Market Trend",
+    "segmentLines": [
+      [
+        "The price of Stacks hit about $0.32 after climbing more than 14% in 24 hours.",
+        "It is currently in a strong uptrend, trading less than 3% below the four-hour high.",
+        "Nearly 10% of its market cap changed hands today as volume reached almost $60 million."
+      ]
+    ],
+    "takeaway": "Strong uptrend despite a broader market slide",
+    "cta": "Is this the start of a bigger breakout or a local top? Share your thoughts and follow for more.",
+    "title": "Stacks hit its 24-hour low, then rallied 14.69% to $0.3239 📈 #Shorts",
+    "description": "Stacks climbed 14.69% to $0.3239 today while the total crypto market cap dropped 2.32%. Trading volume hit $59.29M, representing nearly 10% of its market cap.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "stacks",
+      "stx",
+      "crypto",
+      "bitcoin layer 2",
+      "altcoins",
+      "market trend",
+      "price action",
+      "trading volume",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Stacks",
+    "#STX",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "ur9orZo8xL8",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1942,
+    "output_tokens": 268
+  }
+}
