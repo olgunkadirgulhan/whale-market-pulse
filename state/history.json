@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-06T13:23:07.030Z",
-    "slot": "open",
-    "coinIds": [
-      "binancecoin"
-    ],
-    "title": "BNB consolidates at $784.21 as daily volume reaches $670.74M 📊 #Shorts",
-    "videoId": "FZEgjLva98s",
-    "durationSec": 35.496
-  },
-  {
     "at": "2026-10-06T17:21:14.184Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "ZRO stays green at $1.900 while the total market falls 3.14% 📊 #Shorts",
     "videoId": "A-CR7vBIppA",
     "durationSec": 34.525
+  },
+  {
+    "at": "2026-11-01T21:35:05.868Z",
+    "slot": "mover",
+    "coinIds": [
+      "near"
+    ],
+    "title": "NEAR Protocol drops to $4.27 as the market slips lower 📉 #Shorts",
+    "videoId": "jvka9bHXfJI",
+    "durationSec": 41.05
   }
 ]
