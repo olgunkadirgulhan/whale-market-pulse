@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-05T20:21:16.725Z",
-    "slot": "trending",
-    "coinIds": [
-      "quant-network"
-    ],
-    "title": "Quant slips -2.44% to $251.00 as search interest rises 🔍 #Shorts",
-    "videoId": "tqdChzvPPzY",
-    "durationSec": 31.296
-  },
-  {
     "at": "2026-10-06T13:23:07.030Z",
     "slot": "open",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "Stacks hit its 24-hour low, then rallied 14.69% to $0.3239 📈 #Shorts",
     "videoId": "ur9orZo8xL8",
     "durationSec": 32.975
+  },
+  {
+    "at": "2026-11-01T17:23:17.743Z",
+    "slot": "mover",
+    "coinIds": [
+      "layerzero"
+    ],
+    "title": "ZRO stays green at $1.900 while the total market falls 3.14% 📊 #Shorts",
+    "videoId": "A-CR7vBIppA",
+    "durationSec": 34.525
   }
 ]
