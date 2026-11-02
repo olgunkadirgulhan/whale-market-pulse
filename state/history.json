@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-06T17:21:14.184Z",
-    "slot": "mover",
-    "coinIds": [
-      "render-token"
-    ],
-    "title": "Render gains 8.69% to $2.150 while testing the four-hour high 📈 #Shorts",
-    "videoId": "0G_ZCbE7F9M",
-    "durationSec": 34.752
-  },
-  {
     "at": "2026-10-06T20:39:57.001Z",
     "slot": "trending",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "NEAR Protocol drops to $4.27 as the market slips lower 📉 #Shorts",
     "videoId": "jvka9bHXfJI",
     "durationSec": 41.05
+  },
+  {
+    "at": "2026-11-02T17:21:46.017Z",
+    "slot": "mover",
+    "coinIds": [
+      "ethena"
+    ],
+    "title": "7.25% drop pushes Ethena to $0.1705 📉 #Shorts",
+    "videoId": "cqP-dK01qYU",
+    "durationSec": 35.05
   }
 ]

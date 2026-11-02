@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "symbol": "ENA",
+      "image": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.17054,
+      "priceText": "0.1705",
+      "change24hPct": -7.25,
+      "high24h": 0.186677,
+      "low24h": 0.170921,
+      "high24hText": "0.1867",
+      "low24hText": "0.1709",
+      "support": 0.170921,
+      "resistance": 0.180532,
+      "supportText": "0.1709",
+      "resistanceText": "0.1805",
+      "distToResistancePct": 5.86,
+      "distToSupportPct": -0.22,
+      "rangePositionPct": -2,
+      "rsi14": 24.7,
+      "rsiZone": "oversold",
+      "sma20": 0.1774916,
+      "sma20Text": "0.1775",
+      "aboveSma20": false,
+      "volatility24hPct": 1.13,
+      "volume24hUsd": 254980430,
+      "volume24hText": "254.98M",
+      "marketCapUsd": 2287548787,
+      "marketCapText": "2.29B",
+      "marketCapRank": 43,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Ethena dropped over 7% today, and the charts show a very unusual positioning.",
+    "hook": "Ethena Falls Sharply",
+    "segmentLines": [
+      [
+        "Ethena slipped about 7.2% today to $0.1705 as the broader market moved lower.",
+        "The price sits right near the 24-hour low and trades below the 20 period moving average.",
+        "The RSI sits at 24.7 placing the coin firmly inside oversold territory right now."
+      ]
+    ],
+    "takeaway": "Oversold conditions emerge after a sharp drop to the lows",
+    "cta": "Real reversal coming or a continuation lower? Tell me below and follow for the next move.",
+    "title": "7.25% drop pushes Ethena to $0.1705 📉 #Shorts",
+    "description": "Ethena fell -7.25% to $0.1705 today with a 24-hour volume of $254.98M and an RSI of 24.7 entering oversold territory.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "ethena",
+      "ena",
+      "cryptocurrency",
+      "crypto market",
+      "altcoins",
+      "trading",
+      "oversold",
+      "market pulse",
+      "crypto news",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Ethena",
+    "#ENA",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "cqP-dK01qYU",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1937,
+    "output_tokens": 255
+  }
+}
