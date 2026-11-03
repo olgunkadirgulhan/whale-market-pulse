@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "pump-fun",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "image": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.0042422,
+      "priceText": "0.004242",
+      "change24hPct": 6.05,
+      "high24h": 0.00428667,
+      "low24h": 0.00387789,
+      "high24hText": "0.004287",
+      "low24hText": "0.003878",
+      "support": 0.00417022,
+      "resistance": 0.0042764,
+      "supportText": "0.004170",
+      "resistanceText": "0.004276",
+      "distToResistancePct": 0.81,
+      "distToSupportPct": 1.7,
+      "rangePositionPct": 89,
+      "rsi14": 63.9,
+      "rsiZone": "neutral",
+      "sma20": 0.004123919,
+      "sma20Text": "0.004124",
+      "aboveSma20": true,
+      "volatility24hPct": 1.45,
+      "volume24hUsd": 132175890,
+      "volume24hText": "132.18M",
+      "marketCapUsd": 1949922752,
+      "marketCapText": "1.95B",
+      "marketCapRank": 49,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Pump.fun is climbing today while the total market drops over 2%",
+    "hook": "Bucking The Market Trend",
+    "segmentLines": [
+      [
+        "The token rose about 6% today to reach a price of $0.0042",
+        "It is currently in a strong uptrend, sitting less than 1% below the 4-hour high",
+        "More than $132 million changed hands as the coin holds near its 24-hour high"
+      ]
+    ],
+    "takeaway": "Strong uptrend holds even as the market slips",
+    "cta": "Is this trend sustainable or just a temporary bounce? Tell me what you think and follow for more.",
+    "title": "PUMP gains 6.05% to $0.004242 while the total market slips 2.22% 📈 #Shorts",
+    "description": "Pump.fun (PUMP) climbed 6.05% to $0.004242 today despite a 2.22% decline in the total crypto market. The coin is in a strong uptrend, trading at $132.18M in 24-hour volume.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "pump.fun",
+      "pump",
+      "crypto",
+      "whale market pulse",
+      "price update",
+      "market analysis",
+      "crypto news",
+      "altcoins",
+      "market trend",
+      "trading volume"
+    ]
+  },
+  "hashtags": [
+    "#Pumpfun",
+    "#PUMP",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "S8aHtaJzf24",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1944,
+    "output_tokens": 279
+  }
+}
