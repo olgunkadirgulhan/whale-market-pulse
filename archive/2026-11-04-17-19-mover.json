@@ -1,0 +1,91 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "zcash",
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "image": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 1302.82,
+      "priceText": "1,303",
+      "change24hPct": 7.87,
+      "high24h": 1347.03,
+      "low24h": 1159.27,
+      "high24hText": "1,347",
+      "low24hText": "1,159",
+      "support": 1270.95,
+      "resistance": 1347.03,
+      "supportText": "1,271",
+      "resistanceText": "1,347",
+      "distToResistancePct": 3.39,
+      "distToSupportPct": 2.45,
+      "rangePositionPct": 76,
+      "rsi14": 64.2,
+      "rsiZone": "neutral",
+      "sma20": 1295.9265,
+      "sma20Text": "1,296",
+      "aboveSma20": true,
+      "volatility24hPct": 1.56,
+      "volume24hUsd": 1335468447,
+      "volume24hText": "1.34B",
+      "marketCapUsd": 22177209222,
+      "marketCapText": "22.18B",
+      "marketCapRank": 10,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Zcash jumped almost 8% today, but it is stalling just below its peak.",
+    "hook": "Zcash Pushing Highs",
+    "segmentLines": [
+      [
+        "Zcash pushed up almost 8% to $1,303 after touching a 24-hour low of $1,159.",
+        "It currently sits 3% below its 4-hour high of $1,347 with RSI at 64.",
+        "This move comes as CoinDesk reports the Zcash grants committee dropped its mining reward redirection plan."
+      ]
+    ],
+    "takeaway": "Strong daily gain, but facing resistance at $1,347",
+    "cta": "Will Zcash cross $1,347 or fall back into the range? Comment below and follow for the next update!",
+    "title": "Zcash dipped to $1,159 before jumping 7.87% to $1,303 📊 #Shorts",
+    "description": "Zcash gained +7.87% to $1,303 after bouncing off its 24-hour low of $1,159. The coin currently sits 3.39% below its 4-hour high of $1,347.\n\nMarket data: CoinGecko\nNews: \"Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards\" (CoinDesk) https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": {
+      "source": "CoinDesk",
+      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+      "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+      "published": 1793779444000,
+      "age_hours": 9
+    },
+    "tags": [
+      "zcash",
+      "zec",
+      "zcash price",
+      "zec crypto",
+      "crypto market",
+      "whale market pulse",
+      "zcash news",
+      "privacy coins",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Zcash",
+    "#ZEC",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "YsjQXBuJ2FI",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1974,
+    "output_tokens": 363
+  }
+}

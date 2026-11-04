@@ -1,15 +1,5 @@
 [
   {
-    "at": "2026-10-07T13:19:39.520Z",
-    "slot": "open",
-    "coinIds": [
-      "ethereum"
-    ],
-    "title": "Ethereum just slipped 5.55% to $2,562 and its chart looks wiped out #Shorts",
-    "videoId": "2AV1Z1oZKLg",
-    "durationSec": 32.376
-  },
-  {
     "at": "2026-10-07T17:21:03.885Z",
     "slot": "mover",
     "coinIds": [
@@ -398,5 +388,15 @@
     "title": "PUMP gains 6.05% to $0.004242 while the total market slips 2.22% 📈 #Shorts",
     "videoId": "S8aHtaJzf24",
     "durationSec": 30.725
+  },
+  {
+    "at": "2026-11-04T17:23:04.385Z",
+    "slot": "mover",
+    "coinIds": [
+      "zcash"
+    ],
+    "title": "Zcash dipped to $1,159 before jumping 7.87% to $1,303 📊 #Shorts",
+    "videoId": "YsjQXBuJ2FI",
+    "durationSec": 41.275
   }
 ]
