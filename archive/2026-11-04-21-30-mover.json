@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "injective-protocol",
+      "name": "Injective",
+      "symbol": "INJ",
+      "image": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 7.92,
+      "priceText": "7.920",
+      "change24hPct": 8.58,
+      "high24h": 7.91,
+      "low24h": 7.01,
+      "high24hText": "7.910",
+      "low24hText": "7.010",
+      "support": 7.73,
+      "resistance": 7.91,
+      "supportText": "7.730",
+      "resistanceText": "7.910",
+      "distToResistancePct": -0.13,
+      "distToSupportPct": 2.4,
+      "rangePositionPct": 101,
+      "rsi14": 68.3,
+      "rsiZone": "neutral",
+      "sma20": 7.761999999999999,
+      "sma20Text": "7.762",
+      "aboveSma20": true,
+      "volatility24hPct": 1.16,
+      "volume24hUsd": 90283823,
+      "volume24hText": "90.28M",
+      "marketCapUsd": 792056499,
+      "marketCapText": "792.06M",
+      "marketCapRank": 83,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Injective gained almost 9% today, but look at where it is pressing now.",
+    "hook": "Injective Pushes Past Daily Highs",
+    "segmentLines": [
+      [
+        "Injective climbed over 8% during the past day to reach about $7.92.",
+        "It is now breaking past its 24-hour high in a strong uptrend with RSI near 68.",
+        "Over $90 million traded today, representing more than 11% of its entire market cap."
+      ]
+    ],
+    "takeaway": "Trading above its daily high in a strong uptrend",
+    "cta": "Is Injective ready to keep running or cooling off? Share your view and follow for more.",
+    "title": "Why Injective is running hot after an 8.58% jump to $7.92 #Shorts",
+    "description": "Injective gained +8.58% over the last 24 hours to reach $7.920. Trading volume topped $90.28M as the asset pushed above its 24-hour high.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "injective",
+      "inj",
+      "injective crypto",
+      "inj price",
+      "crypto",
+      "whale market pulse",
+      "altcoins",
+      "crypto market today",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Injective",
+    "#INJ",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "D_La48Xxcf0",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1935,
+    "output_tokens": 253
+  }
+}
