@@ -1,0 +1,85 @@
+{
+  "slot": "mover",
+  "style": "spotlight",
+  "coins": [
+    {
+      "id": "dash",
+      "name": "Dash",
+      "symbol": "DASH",
+      "image": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 43.68,
+      "priceText": "43.68",
+      "change24hPct": -10.43,
+      "high24h": 49.87,
+      "low24h": 43.56,
+      "high24hText": "49.87",
+      "low24hText": "43.56",
+      "support": 43.56,
+      "resistance": 49.12,
+      "supportText": "43.56",
+      "resistanceText": "49.12",
+      "distToResistancePct": 12.45,
+      "distToSupportPct": 0.27,
+      "rangePositionPct": 2,
+      "rsi14": 26.7,
+      "rsiZone": "oversold",
+      "sma20": 47.693499999999986,
+      "sma20Text": "47.69",
+      "aboveSma20": false,
+      "volatility24hPct": 1.78,
+      "volume24hUsd": 57510145,
+      "volume24hText": "57.51M",
+      "marketCapUsd": 563226057,
+      "marketCapText": "563.23M",
+      "marketCapRank": 97,
+      "trend": "strong downtrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Dash just dropped over 10 percent today, but look where it is sitting now.",
+    "hook": "Dash Is Sliding Fast",
+    "segmentLines": [
+      [
+        "Dash is down 10.43 percent today, currently trading at $43.68 per coin.",
+        "The price is sitting almost exactly at the 24-hour low of $43.56.",
+        "This move comes with an RSI of 26.7, placing the coin firmly in oversold territory."
+      ]
+    ],
+    "takeaway": "Dash is hovering right at the bottom of its daily range.",
+    "cta": "Is this a temporary dip or a deeper trend? Tell me your thoughts below and follow for the next move.",
+    "title": "Why Dash is sliding down to $43.68 today #Shorts",
+    "description": "Dash dropped 10.43% to $43.68 as the coin hits the bottom of its 24-hour range.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "dash",
+      "dash coin",
+      "dash price",
+      "crypto news",
+      "market update",
+      "altcoins",
+      "price action",
+      "oversold",
+      "dash crypto",
+      "whale market pulse"
+    ]
+  },
+  "hashtags": [
+    "#Dash",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "aFDWNbkNIl8",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1932,
+    "output_tokens": 305
+  }
+}
