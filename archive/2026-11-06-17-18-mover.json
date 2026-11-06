@@ -1,0 +1,86 @@
+{
+  "slot": "mover",
+  "style": "panel",
+  "coins": [
+    {
+      "id": "arbitrum",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "image": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242"
+    }
+  ],
+  "metrics": [
+    {
+      "price": 0.168352,
+      "priceText": "0.1684",
+      "change24hPct": 8.94,
+      "high24h": 0.171682,
+      "low24h": 0.153735,
+      "high24hText": "0.1717",
+      "low24hText": "0.1537",
+      "support": 0.166371,
+      "resistance": 0.171682,
+      "supportText": "0.1664",
+      "resistanceText": "0.1717",
+      "distToResistancePct": 1.98,
+      "distToSupportPct": 1.18,
+      "rangePositionPct": 81,
+      "rsi14": 59.3,
+      "rsiZone": "neutral",
+      "sma20": 0.168076,
+      "sma20Text": "0.1681",
+      "aboveSma20": true,
+      "volatility24hPct": 0.83,
+      "volume24hUsd": 200351962,
+      "volume24hText": "200.35M",
+      "marketCapUsd": 1160298824,
+      "marketCapText": "1.16B",
+      "marketCapRank": 68,
+      "trend": "strong uptrend"
+    }
+  ],
+  "script": {
+    "spokenHook": "Arbitrum jumped almost 9% today, defying a falling market with heavy volume.",
+    "hook": "Arbitrum Defies The Market",
+    "segmentLines": [
+      [
+        "Arbitrum climbed nearly 9% over the last 24 hours to reach $0.1684.",
+        "The token sits near the top of its 24-hour range with an RSI of 59.",
+        "Over 17% of its market cap changed hands as volume crossed $200 million."
+      ]
+    ],
+    "takeaway": "Strong volume pushes ARB near its 24-hour peak",
+    "cta": "Can Arbitrum keep pushing higher or is a pullback coming? Drop your thoughts below and subscribe for daily market updates!",
+    "title": "ARB gains 8.94% to $0.1684 while the total market slips 2.95% 📊 #Shorts",
+    "description": "Arbitrum (ARB) gained +8.94% over the last 24 hours to reach $0.1684 while the overall crypto market fell -2.95%. 24-hour trading volume reached $200.35M with a turnover rate of 17.3%.\n\nMarket data: CoinGecko\n\nThis Short is market commentary built from public price data. It is not financial advice. Do your own research.\n\nWhale Market Pulse: where the big money moved in crypto today. New Shorts every day, weekly recap on Sundays and Wednesdays.",
+    "headline": null,
+    "tags": [
+      "arbitrum",
+      "arb",
+      "crypto",
+      "whale market pulse",
+      "altcoins",
+      "layer 2",
+      "arb price",
+      "crypto analysis",
+      "defi",
+      "crypto news"
+    ]
+  },
+  "hashtags": [
+    "#Arbitrum",
+    "#ARB",
+    "#crypto",
+    "#cryptonews",
+    "#altcoins",
+    "#bitcoin",
+    "#cryptomarket",
+    "#Shorts"
+  ],
+  "videoId": "kyP_y_6mXH0",
+  "thumbnailSet": true,
+  "usage": {
+    "input_tokens": 1921,
+    "output_tokens": 286
+  }
+}
