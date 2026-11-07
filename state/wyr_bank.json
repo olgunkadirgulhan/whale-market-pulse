@@ -1,0 +1,268 @@
+[
+ {
+  "id": "q1",
+  "a": "Eat only pizza for a month",
+  "ea": "🍕",
+  "b": "Eat only burgers for a month",
+  "eb": "🍔"
+ },
+ {
+  "id": "q2",
+  "a": "Fly at running speed",
+  "ea": "🦅",
+  "b": "Run at supersonic speed",
+  "eb": "⚡"
+ },
+ {
+  "id": "q3",
+  "a": "Never lag in video games",
+  "ea": "🎮",
+  "b": "Always have 100% phone battery",
+  "eb": "🔋"
+ },
+ {
+  "id": "q4",
+  "a": "Talk to domestic dogs",
+  "ea": "🐶",
+  "b": "Understand all wild birds",
+  "eb": "🦜"
+ },
+ {
+  "id": "q5",
+  "a": "No homework ever again",
+  "ea": "📚",
+  "b": "Recess is two hours longer",
+  "eb": "⏰"
+ },
+ {
+  "id": "q6",
+  "a": "Live underwater for a week",
+  "ea": "🌊",
+  "b": "Live on a cloud for a week",
+  "eb": "☁"
+ },
+ {
+  "id": "q7",
+  "a": "Perpetual cozy autumn",
+  "ea": "🍂",
+  "b": "Endless sunny summer",
+  "eb": "☀"
+ },
+ {
+  "id": "q8",
+  "a": "Free food wherever you go",
+  "ea": "🌮",
+  "b": "Free flights wherever you go",
+  "eb": "✈"
+ },
+ {
+  "id": "q9",
+  "a": "Find $20 every single morning",
+  "ea": "💵",
+  "b": "Get $10,000 once right now",
+  "eb": "💰"
+ },
+ {
+  "id": "q10",
+  "a": "Live inside a fantasy RPG",
+  "ea": "🏰",
+  "b": "Live inside a sci-fi space sim",
+  "eb": "🚀"
+ },
+ {
+  "id": "q11",
+  "a": "Read minds when touching hands",
+  "ea": "🤝",
+  "b": "Become invisible when singing",
+  "eb": "🎤"
+ },
+ {
+  "id": "q12",
+  "a": "Have a pocket-sized elephant",
+  "ea": "🐘",
+  "b": "Have a horse-sized hamster",
+  "eb": "🐹"
+ },
+ {
+  "id": "q13",
+  "a": "Explore the deepest ocean trench",
+  "ea": "🐬",
+  "b": "Explore an unknown planet",
+  "eb": "🪐"
+ },
+ {
+  "id": "q14",
+  "a": "Never need to sleep again",
+  "ea": "🌙",
+  "b": "Never feel tired after waking",
+  "eb": "🌅"
+ },
+ {
+  "id": "q15",
+  "a": "Control electronics with mind",
+  "ea": "🧠",
+  "b": "Instantly replicate small items",
+  "eb": "📦"
+ },
+ {
+  "id": "q16",
+  "a": "Ace every test without studying",
+  "ea": "📝",
+  "b": "Be captain of any sports team",
+  "eb": "⚽"
+ },
+ {
+  "id": "q17",
+  "a": "Eat super spicy food daily",
+  "ea": "🔥",
+  "b": "Eat completely bland food daily",
+  "eb": "🥣"
+ },
+ {
+  "id": "q18",
+  "a": "Freeze time for ten seconds",
+  "ea": "⏳",
+  "b": "Rewind time by five seconds",
+  "eb": "🔄"
+ },
+ {
+  "id": "q19",
+  "a": "Beat every game on hard mode",
+  "ea": "🏆",
+  "b": "Create your own hit video game",
+  "eb": "💻"
+ },
+ {
+  "id": "q20",
+  "a": "Breathe underwater like a fish",
+  "ea": "🐟",
+  "b": "Glide through air like an owl",
+  "eb": "🦉"
+ },
+ {
+  "id": "q21",
+  "a": "Shovel snow all winter",
+  "ea": "⛄",
+  "b": "Rake leaves all autumn",
+  "eb": "🍁"
+ },
+ {
+  "id": "q22",
+  "a": "Have glowing neon hair",
+  "ea": "🌟",
+  "b": "Have shoes that make music",
+  "eb": "👟"
+ },
+ {
+  "id": "q23",
+  "a": "Instant internet everywhere",
+  "ea": "📶",
+  "b": "Unlimited cloud storage space",
+  "eb": "💾"
+ },
+ {
+  "id": "q24",
+  "a": "Everything tastes like chocolate",
+  "ea": "🍫",
+  "b": "Everything smells like popcorn",
+  "eb": "🍿"
+ },
+ {
+  "id": "q25",
+  "a": "Sleep in an igloo hotel",
+  "ea": "🧊",
+  "b": "Sleep in a jungle treehouse",
+  "eb": "🌴"
+ },
+ {
+  "id": "q26",
+  "a": "Jump over tall skyscrapers",
+  "ea": "🏢",
+  "b": "Walk through solid glass walls",
+  "eb": "🚪"
+ },
+ {
+  "id": "q27",
+  "a": "School starts at 11 AM daily",
+  "ea": "🕙",
+  "b": "Four-day school weeks forever",
+  "eb": "📅"
+ },
+ {
+  "id": "q28",
+  "a": "Always wear cozy pajamas",
+  "ea": "👕",
+  "b": "Always wear a superhero cape",
+  "eb": "🦸"
+ },
+ {
+  "id": "q29",
+  "a": "Everything is 50 percent off",
+  "ea": "🛒",
+  "b": "Win every raffle you enter",
+  "eb": "🎫"
+ },
+ {
+  "id": "q30",
+  "a": "Pet a friendly giant panda",
+  "ea": "🐼",
+  "b": "Cuddle a fluffy baby seal",
+  "eb": "🦭"
+ },
+ {
+  "id": "q31",
+  "a": "Play games in full VR",
+  "ea": "🥽",
+  "b": "Have an ultimate retro arcade",
+  "eb": "👾"
+ },
+ {
+  "id": "q32",
+  "a": "Give up cheese for five years",
+  "ea": "🧀",
+  "b": "Give up sugar for five years",
+  "eb": "🍭"
+ },
+ {
+  "id": "q33",
+  "a": "Talk to smart appliances",
+  "ea": "🤖",
+  "b": "Teleport small lost items home",
+  "eb": "🔑"
+ },
+ {
+  "id": "q34",
+  "a": "Speak every spoken language",
+  "ea": "🌐",
+  "b": "Play every musical instrument",
+  "eb": "🎸"
+ },
+ {
+  "id": "q35",
+  "a": "Take a luxury train trip",
+  "ea": "🚆",
+  "b": "Cruise on a solar-powered boat",
+  "eb": "⛵"
+ },
+ {
+  "id": "q36",
+  "a": "Only whisper for a full week",
+  "ea": "🤫",
+  "b": "Only shout for an entire day",
+  "eb": "📢"
+ },
+ {
+  "id": "q37",
+  "a": "Hatch a baby dragon pet",
+  "ea": "🐉",
+  "b": "Befriend a magical unicorn",
+  "eb": "🦄"
+ },
+ {
+  "id": "q38",
+  "a": "Never drink cold drinks again",
+  "ea": "☕",
+  "b": "Never eat hot meals again",
+  "eb": "🥗"
+ }
+]

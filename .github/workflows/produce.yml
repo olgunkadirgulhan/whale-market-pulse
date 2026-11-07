@@ -42,6 +42,8 @@ jobs:
       - name: Pick slot
         id: pick
         run: |
+          # 2026-11-07: kanal Would You Rather konseptinde (wyr.yml) → eski kripto akışı kapalı
+          if [ -n "${{ vars.CONTENT_MODE }}" ]; then echo "skip=1" >> $GITHUB_OUTPUT; echo "CONTENT_MODE=${{ vars.CONTENT_MODE }} → kapalı"; exit 0; fi
           [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.auto }}" = "true" ] || exit 0
           # look at the latest master, not the commit that triggered this (possibly late) run
           git fetch -q origin master
