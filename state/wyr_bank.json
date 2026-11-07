@@ -264,5 +264,278 @@
   "ea": "☕",
   "b": "Never eat hot meals again",
   "eb": "🥗"
+ },
+ {
+  "id": "q39",
+  "a": "Eat tacos for every lunch",
+  "ea": "🌮",
+  "b": "Eat noodles for every dinner",
+  "eb": "🍜"
+ },
+ {
+  "id": "q40",
+  "a": "Speak with sea creatures",
+  "ea": "🐬",
+  "b": "Speak with forest animals",
+  "eb": "🦌"
+ },
+ {
+  "id": "q41",
+  "a": "Visit prehistoric dinosaurs",
+  "ea": "🦕",
+  "b": "Visit a city in year 3000",
+  "eb": "🛸"
+ },
+ {
+  "id": "q42",
+  "a": "Every class has a pet cat",
+  "ea": "🐱",
+  "b": "Every class has a pet dog",
+  "eb": "🐶"
+ },
+ {
+  "id": "q43",
+  "a": "Infinite lives in all games",
+  "ea": "🎮",
+  "b": "Unlock all skins instantly",
+  "eb": "🎨"
+ },
+ {
+  "id": "q44",
+  "a": "Always have untied shoelaces",
+  "ea": "👟",
+  "b": "Always wear mismatched socks",
+  "eb": "🧦"
+ },
+ {
+  "id": "q45",
+  "a": "Free movie tickets forever",
+  "ea": "🎬",
+  "b": "Free amusement park entry",
+  "eb": "🎡"
+ },
+ {
+  "id": "q46",
+  "a": "Type 500 words per minute",
+  "ea": "💻",
+  "b": "Read 1000 pages an hour",
+  "eb": "📖"
+ },
+ {
+  "id": "q47",
+  "a": "Never-ending snowy winter",
+  "ea": "⛄",
+  "b": "Endless blooming spring",
+  "eb": "🌸"
+ },
+ {
+  "id": "q48",
+  "a": "Ride a giant red panda",
+  "ea": "🐾",
+  "b": "Ride a giant manta ray",
+  "eb": "🌊"
+ },
+ {
+  "id": "q49",
+  "a": "Unlimited ice cream scoops",
+  "ea": "🍨",
+  "b": "Unlimited fresh french fries",
+  "eb": "🍟"
+ },
+ {
+  "id": "q50",
+  "a": "Grow or shrink at will",
+  "ea": "🍄",
+  "b": "Turn invisible for 1 minute",
+  "eb": "👻"
+ },
+ {
+  "id": "q51",
+  "a": "Gourmet school cafeteria",
+  "ea": "🍲",
+  "b": "Nap time during 5th period",
+  "eb": "😴"
+ },
+ {
+  "id": "q52",
+  "a": "Play in a holographic room",
+  "ea": "🕹",
+  "b": "Play inside an arcade mall",
+  "eb": "🏬"
+ },
+ {
+  "id": "q53",
+  "a": "Phone charges by walking",
+  "ea": "🔋",
+  "b": "Phone charges by talking",
+  "eb": "🗣"
+ },
+ {
+  "id": "q54",
+  "a": "Have a loyal pet fox",
+  "ea": "🦊",
+  "b": "Have a friendly pet owl",
+  "eb": "🦉"
+ },
+ {
+  "id": "q55",
+  "a": "Camp in an ancient castle",
+  "ea": "🏰",
+  "b": "Camp on a desert island",
+  "eb": "🏝"
+ },
+ {
+  "id": "q56",
+  "a": "Instantly clean any room",
+  "ea": "✨",
+  "b": "Instantly fix broken items",
+  "eb": "🔨"
+ },
+ {
+  "id": "q57",
+  "a": "Rain whenever you are sad",
+  "ea": "🌧",
+  "b": "Sunshine whenever you smile",
+  "eb": "☀️"
+ },
+ {
+  "id": "q58",
+  "a": "Eat soup with a fork",
+  "ea": "🍴",
+  "b": "Eat cake with chopsticks",
+  "eb": "🥢"
+ },
+ {
+  "id": "q59",
+  "a": "Free vending machine snacks",
+  "ea": "🍫",
+  "b": "Free arcade tokens for life",
+  "eb": "🪙"
+ },
+ {
+  "id": "q60",
+  "a": "Control weather via an app",
+  "ea": "📱",
+  "b": "Order dream themes via app",
+  "eb": "🌙"
+ },
+ {
+  "id": "q61",
+  "a": "Run as fast as a cheetah",
+  "ea": "🐆",
+  "b": "Jump as high as a kangaroo",
+  "eb": "🦘"
+ },
+ {
+  "id": "q62",
+  "a": "Field trips every Friday",
+  "ea": "🚌",
+  "b": "No tests, only projects",
+  "eb": "📝"
+ },
+ {
+  "id": "q63",
+  "a": "Build the ultimate snow fort",
+  "ea": "❄",
+  "b": "Build an epic sandcastle",
+  "eb": "🏖"
+ },
+ {
+  "id": "q64",
+  "a": "Swim with gentle dolphins",
+  "ea": "🐬",
+  "b": "Trek with curious alpacas",
+  "eb": "🦙"
+ },
+ {
+  "id": "q65",
+  "a": "Everything tastes like waffles",
+  "ea": "🧇",
+  "b": "Everything tastes like berries",
+  "eb": "🍓"
+ },
+ {
+  "id": "q66",
+  "a": "Every door opens with fanfare",
+  "ea": "🎺",
+  "b": "Applause every time you sit",
+  "eb": "👏"
+ },
+ {
+  "id": "q67",
+  "a": "Win every game of hide & seek",
+  "ea": "🙈",
+  "b": "Win every board game forever",
+  "eb": "🎲"
+ },
+ {
+  "id": "q68",
+  "a": "Create bubbles of zero gravity",
+  "ea": "🫧",
+  "b": "Make any object float gently",
+  "eb": "🎈"
+ },
+ {
+  "id": "q69",
+  "a": "Ride a supersonic train",
+  "ea": "🚅",
+  "b": "Sail on a luxury airship",
+  "eb": "⛵"
+ },
+ {
+  "id": "q70",
+  "a": "Live in a treehouse village",
+  "ea": "🏡",
+  "b": "Live in an underwater dome",
+  "eb": "🐟"
+ },
+ {
+  "id": "q71",
+  "a": "Never eat melted cheese again",
+  "ea": "🧀",
+  "b": "Never drink juice again",
+  "eb": "🧃"
+ },
+ {
+  "id": "q72",
+  "a": "Master all martial arts",
+  "ea": "🥋",
+  "b": "Master all skateboard tricks",
+  "eb": "🛹"
+ },
+ {
+  "id": "q73",
+  "a": "Robot assistant does chores",
+  "ea": "🤖",
+  "b": "Drone delivers your lunch",
+  "eb": "🛸"
+ },
+ {
+  "id": "q74",
+  "a": "Befriend an arctic wolf",
+  "ea": "🐺",
+  "b": "Befriend a mountain eagle",
+  "eb": "🦅"
+ },
+ {
+  "id": "q75",
+  "a": "Walk in slow motion once a day",
+  "ea": "🚶",
+  "b": "Spin twice before you speak",
+  "eb": "🌀"
+ },
+ {
+  "id": "q76",
+  "a": "Turn drawings into real toys",
+  "ea": "🖍",
+  "b": "Bring origami animals to life",
+  "eb": "🦢"
+ },
+ {
+  "id": "q77",
+  "a": "Have a hot tub in a blizzard",
+  "ea": "🛁",
+  "b": "Have a pool in a heatwave",
+  "eb": "🏊"
  }
 ]
