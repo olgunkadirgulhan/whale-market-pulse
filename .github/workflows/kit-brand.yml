@@ -1,0 +1,21 @@
+name: kit-brand
+# Kanal açıklaması + anahtar kelimeler (kit_brand.py), elle çalıştırılır
+on:
+  workflow_dispatch:
+jobs:
+  brand:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q Pillow numpy google-api-python-client google-auth
+      - env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          BRAND_DESC: "Would You Rather? New questions every day! 🤔\n\nEvery Short has 5 fun, family-friendly would-you-rather questions. Pick A or B and comment your answers (like ABBAB). Hard choices, funny dilemmas, superpowers, food, travel and more.\n\nNew numbered episodes daily — subscribe so you never miss the next one!"
+          BRAND_KW: "would you rather,would you rather questions,this or that,hard choices,pick one,fun quiz,dilemmas,questions game"
+        run: python kit_brand.py
