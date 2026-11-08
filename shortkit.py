@@ -52,14 +52,14 @@ def wrap(d, s, sz, max_w):
     return lines
 
 
-def text_block(d, cx, cy, s, sz, max_w, fill=WHITE, max_lines=3):
+def text_block(d, cx, cy, s, sz, max_w, fill=WHITE, max_lines=3, stroke=INK):
     while True:
         lines = wrap(d, s, sz, max_w)
         if len(lines) <= max_lines or sz <= 34: break
         sz -= 4
     lh = sz * 1.12
     for i, ln in enumerate(lines):
-        text(d, (cx, cy + (i - (len(lines) - 1) / 2) * lh), ln, sz, fill=fill)
+        text(d, (cx, cy + (i - (len(lines) - 1) / 2) * lh), ln, sz, fill=fill, stroke=stroke)
 
 
 @lru_cache(8)
