@@ -537,5 +537,257 @@
   "ea": "🛁",
   "b": "Have a pool in a heatwave",
   "eb": "🏊"
+ },
+ {
+  "id": "q78",
+  "a": "Eat cake for breakfast every day",
+  "ea": "🍰",
+  "b": "Eat pizza for dinner every night",
+  "eb": "🍕"
+ },
+ {
+  "id": "q79",
+  "a": "Control fire with your hands",
+  "ea": "🔥",
+  "b": "Control ice with your breath",
+  "eb": "❄️"
+ },
+ {
+  "id": "q80",
+  "a": "Fly a personal miniature UFO",
+  "ea": "🛸",
+  "b": "Drive an underwater submarine",
+  "eb": "🚤"
+ },
+ {
+  "id": "q81",
+  "a": "A lunchbox that auto-refills",
+  "ea": "🍱",
+  "b": "A water bottle that never empties",
+  "eb": "🧃"
+ },
+ {
+  "id": "q82",
+  "a": "Teleport to school instantly",
+  "ea": "⚡",
+  "b": "Teleport home when class finishes",
+  "eb": "🏠"
+ },
+ {
+  "id": "q83",
+  "a": "Play video games on a giant screen",
+  "ea": "📺",
+  "b": "Play games directly in your dreams",
+  "eb": "💤"
+ },
+ {
+  "id": "q84",
+  "a": "Have a pet baby penguin",
+  "ea": "🐧",
+  "b": "Have a pet baby sloth",
+  "eb": "🦥"
+ },
+ {
+  "id": "q85",
+  "a": "Find a rare coin every afternoon",
+  "ea": "🪙",
+  "b": "Find a dollar under your pillow",
+  "eb": "💵"
+ },
+ {
+  "id": "q86",
+  "a": "Control the volume of everything",
+  "ea": "🔊",
+  "b": "Control the speed of your walking",
+  "eb": "👟"
+ },
+ {
+  "id": "q87",
+  "a": "Change your hair color at will",
+  "ea": "🎨",
+  "b": "Change your eye color at will",
+  "eb": "👁️"
+ },
+ {
+  "id": "q88",
+  "a": "Instant master of playing guitar",
+  "ea": "🎸",
+  "b": "Instant master of playing piano",
+  "eb": "🎹"
+ },
+ {
+  "id": "q89",
+  "a": "Eat apples that taste like candy",
+  "ea": "🍎",
+  "b": "Eat carrots that taste like chips",
+  "eb": "🥕"
+ },
+ {
+  "id": "q90",
+  "a": "Visit the moon for a weekend",
+  "ea": "🌕",
+  "b": "Explore Mars for a single week",
+  "eb": "🪐"
+ },
+ {
+  "id": "q91",
+  "a": "Solve any math problem instantly",
+  "ea": "🧮",
+  "b": "Write perfect essays effortlessly",
+  "eb": "📝"
+ },
+ {
+  "id": "q92",
+  "a": "Always win rock paper scissors",
+  "ea": "✂️",
+  "b": "Always win games of tic-tac-toe",
+  "eb": "❌"
+ },
+ {
+  "id": "q93",
+  "a": "Befriend a wild ocean dolphin",
+  "ea": "🐬",
+  "b": "Befriend a friendly cheetah",
+  "eb": "🐆"
+ },
+ {
+  "id": "q94",
+  "a": "A magic closet with any outfit",
+  "ea": "👔",
+  "b": "A magic fridge with any snack",
+  "eb": "🍦"
+ },
+ {
+  "id": "q95",
+  "a": "Have a bike that flies through air",
+  "ea": "🚲",
+  "b": "Have a skateboard that hovers",
+  "eb": "🛹"
+ },
+ {
+  "id": "q96",
+  "a": "Never get stuck in traffic",
+  "ea": "🚗",
+  "b": "Never stand in a long line",
+  "eb": "🎟️"
+ },
+ {
+  "id": "q97",
+  "a": "Speak fluently to all house pets",
+  "ea": "🐱",
+  "b": "Understand what wild animals think",
+  "eb": "🦊"
+ },
+ {
+  "id": "q98",
+  "a": "Make your shoes super bouncy",
+  "ea": "👟",
+  "b": "Make your socks ultra comfortable",
+  "eb": "🧦"
+ },
+ {
+  "id": "q99",
+  "a": "Turn trash into shiny new coins",
+  "ea": "🪙",
+  "b": "Turn old paper into crisp money",
+  "eb": "💵"
+ },
+ {
+  "id": "q100",
+  "a": "Swim in a lake of melted chocolate",
+  "ea": "🍫",
+  "b": "Jump on a cloud of cotton candy",
+  "eb": "☁️"
+ },
+ {
+  "id": "q101",
+  "a": "Have a personal robot butler",
+  "ea": "🤖",
+  "b": "Have a personal flying car",
+  "eb": "🛸"
+ },
+ {
+  "id": "q102",
+  "a": "Control the color of your room",
+  "ea": "🎨",
+  "b": "Control the lighting in your room",
+  "eb": "💡"
+ },
+ {
+  "id": "q103",
+  "a": "Be top player in any online game",
+  "ea": "🎮",
+  "b": "Be the star actor in any movie",
+  "eb": "🎬"
+ },
+ {
+  "id": "q104",
+  "a": "Ride a giant sea turtle",
+  "ea": "🐢",
+  "b": "Ride a giant soaring falcon",
+  "eb": "🦅"
+ },
+ {
+  "id": "q105",
+  "a": "All rainy days happen at night",
+  "ea": "🌧️",
+  "b": "All snowy days happen on weekends",
+  "eb": "❄️"
+ },
+ {
+  "id": "q106",
+  "a": "Create tiny rainbow bubbles",
+  "ea": "🫧",
+  "b": "Create glowing starry trails",
+  "eb": "✨"
+ },
+ {
+  "id": "q107",
+  "a": "Have a pencil that draws in 3D",
+  "ea": "✏️",
+  "b": "Have an eraser that undoes errors",
+  "eb": "🧹"
+ },
+ {
+  "id": "q108",
+  "a": "Eat a pizza with a donut crust",
+  "ea": "🍕",
+  "b": "Eat a burger with waffle buns",
+  "eb": "🍔"
+ },
+ {
+  "id": "q109",
+  "a": "Always know every trivia answer",
+  "ea": "🧠",
+  "b": "Always win every card game",
+  "eb": "🃏"
+ },
+ {
+  "id": "q110",
+  "a": "Camp on top of a giant mountain",
+  "ea": "🏔️",
+  "b": "Camp inside a glowing crystal cave",
+  "eb": "💎"
+ },
+ {
+  "id": "q111",
+  "a": "Never get brain freeze from ice",
+  "ea": "🍧",
+  "b": "Never burn your tongue on hot soup",
+  "eb": "🍲"
+ },
+ {
+  "id": "q112",
+  "a": "A backpack that feels weightless",
+  "ea": "🎒",
+  "b": "Boots that feel like soft slippers",
+  "eb": "🥾"
+ },
+ {
+  "id": "q113",
+  "a": "Have a 3D printer for any food",
+  "ea": "🖨️",
+  "b": "Have a dispenser for cool clothes",
+  "eb": "👕"
  }
 ]
