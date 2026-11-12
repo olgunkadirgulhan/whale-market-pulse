@@ -789,5 +789,271 @@
   "ea": "🖨️",
   "b": "Have a dispenser for cool clothes",
   "eb": "👕"
+ },
+ {
+  "id": "q114",
+  "a": "Eat blue fried rice",
+  "ea": "🍚",
+  "b": "Eat purple potato chips",
+  "eb": "🥔"
+ },
+ {
+  "id": "q115",
+  "a": "Walk through solid wood",
+  "ea": "🚪",
+  "b": "Float one inch off ground",
+  "eb": "☁️"
+ },
+ {
+  "id": "q116",
+  "a": "Explore a sunken ship",
+  "ea": "⚓",
+  "b": "Explore a hidden desert tomb",
+  "eb": "🏜️"
+ },
+ {
+  "id": "q117",
+  "a": "Textbooks in comic format",
+  "ea": "📚",
+  "b": "Homework in video format",
+  "eb": "📹"
+ },
+ {
+  "id": "q118",
+  "a": "Always find secret passages",
+  "ea": "🗝️",
+  "b": "Predict enemy spawn points",
+  "eb": "👾"
+ },
+ {
+  "id": "q119",
+  "a": "Have a pet chinchilla",
+  "ea": "🐭",
+  "b": "Have a pet hedgehog",
+  "eb": "🦔"
+ },
+ {
+  "id": "q120",
+  "a": "Find $5 in every coat pocket",
+  "ea": "🧥",
+  "b": "Get double allowance forever",
+  "eb": "💵"
+ },
+ {
+  "id": "q121",
+  "a": "VR headset that feels real",
+  "ea": "👓",
+  "b": "Hologram projector in watch",
+  "eb": "⌚"
+ },
+ {
+  "id": "q122",
+  "a": "Sneeze sounds like a horn",
+  "ea": "🎺",
+  "b": "Laugh sounds like a kazoo",
+  "eb": "🎵"
+ },
+ {
+  "id": "q123",
+  "a": "Drink sweet watermelon tea",
+  "ea": "🍉",
+  "b": "Drink icy mango lemonade",
+  "eb": "🍋"
+ },
+ {
+  "id": "q124",
+  "a": "Make plants bloom instantly",
+  "ea": "🌻",
+  "b": "Make fruit ripen instantly",
+  "eb": "🍌"
+ },
+ {
+  "id": "q125",
+  "a": "Kayak down a glowing river",
+  "ea": "🚣",
+  "b": "Hike up a rainbow mountain",
+  "eb": "🏔️"
+ },
+ {
+  "id": "q126",
+  "a": "Desks with trampolines",
+  "ea": "🤸",
+  "b": "Chairs with built-in massage",
+  "eb": "🛋️"
+ },
+ {
+  "id": "q127",
+  "a": "Play speedruns flawlessly",
+  "ea": "⏱️",
+  "b": "Find every game collectible",
+  "eb": "💎"
+ },
+ {
+  "id": "q128",
+  "a": "Pet a wild koala bear",
+  "ea": "🐨",
+  "b": "Pet a baby capybara",
+  "eb": "🦫"
+ },
+ {
+  "id": "q129",
+  "a": "Keyboard that types thoughts",
+  "ea": "⌨️",
+  "b": "Mouse that clicks light speed",
+  "eb": "🖱️"
+ },
+ {
+  "id": "q130",
+  "a": "Autumn leaves taste cinnamon",
+  "ea": "🍂",
+  "b": "Summer sun sparkles pink",
+  "eb": "☀️"
+ },
+ {
+  "id": "q131",
+  "a": "Wear giant oven mitts daily",
+  "ea": "🧤",
+  "b": "Wear heavy flippers daily",
+  "eb": "🤿"
+ },
+ {
+  "id": "q132",
+  "a": "Get a free arcade ticket daily",
+  "ea": "🎟️",
+  "b": "Get free movie popcorn daily",
+  "eb": "🍿"
+ },
+ {
+  "id": "q133",
+  "a": "Pancakes taste like cookies",
+  "ea": "🥞",
+  "b": "Waffles taste like brownies",
+  "eb": "🧇"
+ },
+ {
+  "id": "q134",
+  "a": "Glow in total darkness",
+  "ea": "💡",
+  "b": "Absorb sunlight for energy",
+  "eb": "☀️"
+ },
+ {
+  "id": "q135",
+  "a": "Ride a steam train in fog",
+  "ea": "🚂",
+  "b": "Sail a wooden raft down river",
+  "eb": "🪵"
+ },
+ {
+  "id": "q136",
+  "a": "Art class taught by a robot",
+  "ea": "🤖",
+  "b": "Music class taught by alien",
+  "eb": "👽"
+ },
+ {
+  "id": "q137",
+  "a": "Play pinball in a neon arcade",
+  "ea": "🕹️",
+  "b": "Play bowling on glowing lanes",
+  "eb": "🎳"
+ },
+ {
+  "id": "q138",
+  "a": "Feed a giant tortoise",
+  "ea": "🐢",
+  "b": "Feed a colorful chameleon",
+  "eb": "🦎"
+ },
+ {
+  "id": "q139",
+  "a": "Smart mirror picks outfits",
+  "ea": "🪞",
+  "b": "Smart shoes track steps",
+  "eb": "👟"
+ },
+ {
+  "id": "q140",
+  "a": "Winter with purple snowfall",
+  "ea": "❄️",
+  "b": "Summer with turquoise rain",
+  "eb": "🌧️"
+ },
+ {
+  "id": "q141",
+  "a": "Whispers echo like speakers",
+  "ea": "🔊",
+  "b": "Footsteps sound like drums",
+  "eb": "🥁"
+ },
+ {
+  "id": "q142",
+  "a": "Get 100 free board games",
+  "ea": "🎲",
+  "b": "Get 100 free video games",
+  "eb": "🎮"
+ },
+ {
+  "id": "q143",
+  "a": "Ice cream that never melts",
+  "ea": "🍦",
+  "b": "Hot soup that never cools down",
+  "eb": "🥣"
+ },
+ {
+  "id": "q144",
+  "a": "Communicate using song lyrics",
+  "ea": "🎶",
+  "b": "Communicate using movie quotes",
+  "eb": "🎬"
+ },
+ {
+  "id": "q145",
+  "a": "P.E. class is obstacle courses",
+  "ea": "🧗",
+  "b": "P.E. class is trampoline dodge",
+  "eb": "🏀"
+ },
+ {
+  "id": "q146",
+  "a": "Build a city in sandbox mode",
+  "ea": "🏙️",
+  "b": "Explore space in survival mode",
+  "eb": "🚀"
+ },
+ {
+  "id": "q147",
+  "a": "Swim with wild sea otters",
+  "ea": "🦦",
+  "b": "Swim with harmless whale sharks",
+  "eb": "🦈"
+ },
+ {
+  "id": "q148",
+  "a": "Headphones that translate birds",
+  "ea": "🎧",
+  "b": "Glasses that spot hidden items",
+  "eb": "👓"
+ },
+ {
+  "id": "q149",
+  "a": "Spring blossoms made of candy",
+  "ea": "🌸",
+  "b": "Fall acorns filled with honey",
+  "eb": "🍯"
+ },
+ {
+  "id": "q150",
+  "a": "Wear a silly party hat forever",
+  "ea": "🎩",
+  "b": "Wear bright clown shoes forever",
+  "eb": "👟"
+ },
+ {
+  "id": "q151",
+  "a": "Free smoothie every morning",
+  "ea": "🥤",
+  "b": "Free churro every afternoon",
+  "eb": "🥖"
  }
 ]
