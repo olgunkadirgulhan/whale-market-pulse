@@ -1055,5 +1055,278 @@
   "ea": "🥤",
   "b": "Free churro every afternoon",
   "eb": "🥖"
+ },
+ {
+  "id": "q152",
+  "a": "Eat pasta that tastes like cookies",
+  "ea": "🍪",
+  "b": "Eat bread that tastes like cake",
+  "eb": "🍰"
+ },
+ {
+  "id": "q153",
+  "a": "Teleport 5 feet in any direction",
+  "ea": "⚡",
+  "b": "Hover 3 inches off the ground",
+  "eb": "☁️"
+ },
+ {
+  "id": "q154",
+  "a": "Visit a city made entirely of glass",
+  "ea": "🏙️",
+  "b": "Visit a town built inside a cavern",
+  "eb": "🏔️"
+ },
+ {
+  "id": "q155",
+  "a": "Take classes inside a greenhouse",
+  "ea": "🌿",
+  "b": "Take classes aboard a sailing ship",
+  "eb": "⛵"
+ },
+ {
+  "id": "q156",
+  "a": "Solve any puzzle game instantly",
+  "ea": "🧩",
+  "b": "Master every racing game drift",
+  "eb": "🏎️"
+ },
+ {
+  "id": "q157",
+  "a": "Own a pet raccoon that cleans up",
+  "ea": "🦝",
+  "b": "Own a pet beaver that builds tables",
+  "eb": "🦫"
+ },
+ {
+  "id": "q158",
+  "a": "Find $10 under your bed weekly",
+  "ea": "💵",
+  "b": "Get free pizza whenever you ask",
+  "eb": "🍕"
+ },
+ {
+  "id": "q159",
+  "a": "Laptop battery never drops low",
+  "ea": "💻",
+  "b": "Wi-Fi speed doubles every month",
+  "eb": "📡"
+ },
+ {
+  "id": "q160",
+  "a": "Summer sky is always golden",
+  "ea": "🌅",
+  "b": "Winter night always has an aurora",
+  "eb": "🌌"
+ },
+ {
+  "id": "q161",
+  "a": "Always wear shoes one size too big",
+  "ea": "👟",
+  "b": "Always wear gloves slightly small",
+  "eb": "🧤"
+ },
+ {
+  "id": "q162",
+  "a": "French fries that stay crunchy",
+  "ea": "🍟",
+  "b": "Soda that never loses its fizz",
+  "eb": "🥤"
+ },
+ {
+  "id": "q163",
+  "a": "Turn small rocks into diamonds",
+  "ea": "💎",
+  "b": "Turn ocean water into fruit juice",
+  "eb": "🧃"
+ },
+ {
+  "id": "q164",
+  "a": "Sleep in an underwater hotel",
+  "ea": "🐠",
+  "b": "Sleep in a cliffside glass pod",
+  "eb": "🧗"
+ },
+ {
+  "id": "q165",
+  "a": "Homework submits automatically",
+  "ea": "📝",
+  "b": "School lunches cooked by chefs",
+  "eb": "🍳"
+ },
+ {
+  "id": "q166",
+  "a": "Unlock cheat codes in every game",
+  "ea": "💻",
+  "b": "Create custom game controllers",
+  "eb": "🕹️"
+ },
+ {
+  "id": "q167",
+  "a": "Ride a giant squirrel in woods",
+  "ea": "🐿️",
+  "b": "Ride a giant duck across lakes",
+  "eb": "🦆"
+ },
+ {
+  "id": "q168",
+  "a": "Get $1 every time you clap hands",
+  "ea": "👏",
+  "b": "Get $5 every time you high five",
+  "eb": "✋"
+ },
+ {
+  "id": "q169",
+  "a": "Headphones that predict your mood",
+  "ea": "🎧",
+  "b": "Glasses showing real-time radar",
+  "eb": "👓"
+ },
+ {
+  "id": "q170",
+  "a": "Snow flakes glow in the dark",
+  "ea": "❄️",
+  "b": "Raindrops shine like diamonds",
+  "eb": "💧"
+ },
+ {
+  "id": "q171",
+  "a": "Ice cream cone that never drips",
+  "ea": "🍦",
+  "b": "Hot cocoa that never gets cold",
+  "eb": "☕"
+ },
+ {
+  "id": "q172",
+  "a": "Change clothes color instantly",
+  "ea": "👕",
+  "b": "Change shoe design instantly",
+  "eb": "👟"
+ },
+ {
+  "id": "q173",
+  "a": "Explore a floating sky island",
+  "ea": "☁️",
+  "b": "Explore a giant underground maze",
+  "eb": "🚇"
+ },
+ {
+  "id": "q174",
+  "a": "School library has video games",
+  "ea": "📚",
+  "b": "School yard has a water slide",
+  "eb": "🛝"
+ },
+ {
+  "id": "q175",
+  "a": "Play every video game at 240 FPS",
+  "ea": "🖥️",
+  "b": "Have zero ping in online games",
+  "eb": "🌐"
+ },
+ {
+  "id": "q176",
+  "a": "Have a miniature pet giraffe",
+  "ea": "🦒",
+  "b": "Have a tiny bathtub hippo",
+  "eb": "🦛"
+ },
+ {
+  "id": "q177",
+  "a": "Find rare collector cards daily",
+  "ea": "🃏",
+  "b": "Find limited edition toys daily",
+  "eb": "🧸"
+ },
+ {
+  "id": "q178",
+  "a": "Phone camera sees in total darkness",
+  "ea": "📸",
+  "b": "Phone recharges in five seconds",
+  "eb": "🔋"
+ },
+ {
+  "id": "q179",
+  "a": "Summer days last 30 hours long",
+  "ea": "☀️",
+  "b": "Winter snow turns into lemonade",
+  "eb": "🍋"
+ },
+ {
+  "id": "q180",
+  "a": "Speak only in rhymes for a week",
+  "ea": "📜",
+  "b": "Speak in third person for a week",
+  "eb": "🗣️"
+ },
+ {
+  "id": "q181",
+  "a": "Cereal never gets soggy in milk",
+  "ea": "🥣",
+  "b": "Toast never gets burnt in toaster",
+  "eb": "🍞"
+ },
+ {
+  "id": "q182",
+  "a": "Instantly grow wings to glide",
+  "ea": "🪽",
+  "b": "Instantly sprout fins to swim",
+  "eb": "🦭"
+ },
+ {
+  "id": "q183",
+  "a": "Tour space on a solar spaceship",
+  "ea": "🚀",
+  "b": "Tour oceans in a submarine city",
+  "eb": "🌊"
+ },
+ {
+  "id": "q184",
+  "a": "School desks have mini fridges",
+  "ea": "🧊",
+  "b": "School desks have snack dispensers",
+  "eb": "🥨"
+ },
+ {
+  "id": "q185",
+  "a": "Create your own gaming avatar",
+  "ea": "👤",
+  "b": "Create your own game soundtrack",
+  "eb": "🎵"
+ },
+ {
+  "id": "q186",
+  "a": "Talk to barnyard farm pigs",
+  "ea": "🐖",
+  "b": "Talk to wild forest blue jays",
+  "eb": "🐦"
+ },
+ {
+  "id": "q187",
+  "a": "Get 25 percent back on all buys",
+  "ea": "💳",
+  "b": "Get buy-one-get-one on items",
+  "eb": "🛍️"
+ },
+ {
+  "id": "q188",
+  "a": "VR gloves that feel real textures",
+  "ea": "🧤",
+  "b": "VR boots that simulate walking",
+  "eb": "👢"
+ },
+ {
+  "id": "q189",
+  "a": "Spring breeze smells like vanilla",
+  "ea": "🍦",
+  "b": "Autumn rain smells like cocoa",
+  "eb": "🍫"
+ },
+ {
+  "id": "q190",
+  "a": "Wear a heavy winter coat indoors",
+  "ea": "🧥",
+  "b": "Wear dark sunglasses indoors",
+  "eb": "🕶️"
  }
 ]
