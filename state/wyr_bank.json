@@ -1328,5 +1328,285 @@
   "ea": "🧥",
   "b": "Wear dark sunglasses indoors",
   "eb": "🕶️"
+ },
+ {
+  "id": "q191",
+  "a": "eat spicy tacos for breakfast",
+  "ea": "🌮",
+  "b": "eat sweet pancakes for dinner",
+  "eb": "🥞"
+ },
+ {
+  "id": "q192",
+  "a": "breathe underwater for an hour",
+  "ea": "🌊",
+  "b": "fly above the clouds all day",
+  "eb": "☁️"
+ },
+ {
+  "id": "q193",
+  "a": "explore a dark cave with a torch",
+  "ea": "🔦",
+  "b": "climb a tall tree in the sun",
+  "eb": "🌳"
+ },
+ {
+  "id": "q194",
+  "a": "ride a skateboard on Mars",
+  "ea": "🛹",
+  "b": "surf a wave on Saturn",
+  "eb": "🪐"
+ },
+ {
+  "id": "q195",
+  "a": "wear a robotic exo-suit",
+  "ea": "🤖",
+  "b": "wear a jetpack to school",
+  "eb": "🎒"
+ },
+ {
+  "id": "q196",
+  "a": "have glowing green eyes",
+  "ea": "👀",
+  "b": "have bright purple hair",
+  "eb": "💜"
+ },
+ {
+  "id": "q197",
+  "a": "fight one giant duck",
+  "ea": "🦆",
+  "b": "fight fifty tiny ducks",
+  "eb": "🐥"
+ },
+ {
+  "id": "q198",
+  "a": "live in a house made of glass",
+  "ea": "🪟",
+  "b": "live in a house made of stone",
+  "eb": "🧱"
+ },
+ {
+  "id": "q199",
+  "a": "always smell like fresh cookies",
+  "ea": "🍪",
+  "b": "always smell like rain puddles",
+  "eb": "🌧️"
+ },
+ {
+  "id": "q200",
+  "a": "have fingers as long as pencils",
+  "ea": "✏️",
+  "b": "have arms as bendy as snakes",
+  "eb": "🐍"
+ },
+ {
+  "id": "q201",
+  "a": "speak only in bird chirps",
+  "ea": "🐦",
+  "b": "speak only in robot beeps",
+  "eb": "💻"
+ },
+ {
+  "id": "q202",
+  "a": "find a chest of gold coins",
+  "ea": "🪙",
+  "b": "find a bag of magic seeds",
+  "eb": "🌱"
+ },
+ {
+  "id": "q203",
+  "a": "play video games on a toaster",
+  "ea": "🍞",
+  "b": "watch movies on a fridge screen",
+  "eb": "🧊"
+ },
+ {
+  "id": "q204",
+  "a": "have a pet dragon that breathes stars",
+  "ea": "✨",
+  "b": "have a pet phoenix made of fire",
+  "eb": "🔥"
+ },
+ {
+  "id": "q205",
+  "a": "travel back to medieval times",
+  "ea": "🛡️",
+  "b": "travel forward to the year 3000",
+  "eb": "🚀"
+ },
+ {
+  "id": "q206",
+  "a": "eat popcorn with hot mustard",
+  "ea": "🍿",
+  "b": "eat pretzels with grape jelly",
+  "eb": "🥨"
+ },
+ {
+  "id": "q207",
+  "a": "control the element of water",
+  "ea": "💧",
+  "b": "control the element of earth",
+  "eb": "🪨"
+ },
+ {
+  "id": "q208",
+  "a": "ride a T-Rex to the grocery store",
+  "ea": "🦖",
+  "b": "ride a woolly mammoth to park",
+  "eb": "🦣"
+ },
+ {
+  "id": "q209",
+  "a": "have a room made of trampolines",
+  "ea": "🛏️",
+  "b": "have a pool filled with pillows",
+  "eb": "🛟"
+ },
+ {
+  "id": "q210",
+  "a": "wear a cape that makes you giggle",
+  "ea": "🤭",
+  "b": "wear boots that squeak with joy",
+  "eb": "🥾"
+ },
+ {
+  "id": "q211",
+  "a": "draw pictures that come alive",
+  "ea": "🎨",
+  "b": "sing songs that change the weather",
+  "eb": "🎶"
+ },
+ {
+  "id": "q212",
+  "a": "eat cheese pizza with kiwi slices",
+  "ea": "🥝",
+  "b": "eat vanilla ice cream with corn",
+  "eb": "🌽"
+ },
+ {
+  "id": "q213",
+  "a": "have a shadow that dances alone",
+  "ea": "👤",
+  "b": "have an echo that tells jokes",
+  "eb": "🗣️"
+ },
+ {
+  "id": "q214",
+  "a": "explore a maze made of hedges",
+  "ea": "🌿",
+  "b": "explore a maze made of mirrors",
+  "eb": "🪞"
+ },
+ {
+  "id": "q215",
+  "a": "wear a crown made of daisies",
+  "ea": "🌼",
+  "b": "wear a belt made of glowing gems",
+  "eb": "💎"
+ },
+ {
+  "id": "q216",
+  "a": "have a backpack that talks back",
+  "ea": "🎒",
+  "b": "have a hoodie that hugs you back",
+  "eb": "🧥"
+ },
+ {
+  "id": "q217",
+  "a": "build a fortress in a giant tree",
+  "ea": "🌲",
+  "b": "build a fortress in a snow bank",
+  "eb": "❄️"
+ },
+ {
+  "id": "q218",
+  "a": "eat glowing noodles for lunch",
+  "ea": "🍜",
+  "b": "eat sparkle burgers for dinner",
+  "eb": "🍔"
+ },
+ {
+  "id": "q219",
+  "a": "have a tiny robot on your shoulder",
+  "ea": "🤖",
+  "b": "have a tiny fairy in your pocket",
+  "eb": "🧚"
+ },
+ {
+  "id": "q220",
+  "a": "walk everywhere in flippers",
+  "ea": "🩴",
+  "b": "hop everywhere like a bunny",
+  "eb": "🐇"
+ },
+ {
+  "id": "q221",
+  "a": "have a cloud as a soft pillow",
+  "ea": "☁️",
+  "b": "have a rainbow as a comfy blanket",
+  "eb": "🌈"
+ },
+ {
+  "id": "q222",
+  "a": "hear every whispered secret nearby",
+  "ea": "👂",
+  "b": "see every hidden door in rooms",
+  "eb": "🚪"
+ },
+ {
+  "id": "q223",
+  "a": "paint your bedroom neon orange",
+  "ea": "🟧",
+  "b": "paint your bedroom lime green",
+  "eb": "🟩"
+ },
+ {
+  "id": "q224",
+  "a": "drink sparkling apple cider",
+  "ea": "🧃",
+  "b": "drink fizzy peach nectar",
+  "eb": "🍑"
+ },
+ {
+  "id": "q225",
+  "a": "have a clock that runs backward",
+  "ea": "⏰",
+  "b": "have a compass that spins wildly",
+  "eb": "🧭"
+ },
+ {
+  "id": "q226",
+  "a": "wear paper bag shoes outside",
+  "ea": "🛍️",
+  "b": "wear cardboard boxes on hands",
+  "eb": "📦"
+ },
+ {
+  "id": "q227",
+  "a": "catch a falling shooting star",
+  "ea": "🌠",
+  "b": "catch a floating soap bubble",
+  "eb": "🫧"
+ },
+ {
+  "id": "q228",
+  "a": "make every pencil write in glitter",
+  "ea": "✨",
+  "b": "make every eraser smell like mint",
+  "eb": "🌿"
+ },
+ {
+  "id": "q229",
+  "a": "have a pet fox that wears a scarf",
+  "ea": "🦊",
+  "b": "have a pet turtle with a top hat",
+  "eb": "🐢"
+ },
+ {
+  "id": "q230",
+  "a": "slide down a hill of bubble gum",
+  "ea": "🍬",
+  "b": "slide down a hill of whipped cream",
+  "eb": "🍦"
  }
 ]
