@@ -1608,5 +1608,271 @@
   "ea": "🍬",
   "b": "slide down a hill of whipped cream",
   "eb": "🍦"
+ },
+ {
+  "id": "q231",
+  "a": "have a pet parrot that raps",
+  "ea": "🦜",
+  "b": "have a pet monkey that bakes",
+  "eb": "🐒"
+ },
+ {
+  "id": "q232",
+  "a": "pause time while reading books",
+  "ea": "📖",
+  "b": "memorize any page by touching it",
+  "eb": "🧠"
+ },
+ {
+  "id": "q233",
+  "a": "notebook with infinite pages",
+  "ea": "📓",
+  "b": "pencil that never needs sharpening",
+  "eb": "✏️"
+ },
+ {
+  "id": "q234",
+  "a": "slide down a rainbow to travel",
+  "ea": "🌈",
+  "b": "teleport through open doorways",
+  "eb": "🚪"
+ },
+ {
+  "id": "q235",
+  "a": "fries taste like cinnamon churros",
+  "ea": "🍟",
+  "b": "chips taste like cheesy nachos",
+  "eb": "🧀"
+ },
+ {
+  "id": "q236",
+  "a": "jump into any retro arcade game",
+  "ea": "🕹️",
+  "b": "bring game power-ups into reality",
+  "eb": "🍄"
+ },
+ {
+  "id": "q237",
+  "a": "ride a giant otter across rivers",
+  "ea": "🦦",
+  "b": "ride a giant grasshopper in fields",
+  "eb": "🦗"
+ },
+ {
+  "id": "q238",
+  "a": "every coin you flip lands on heads",
+  "ea": "🪙",
+  "b": "every dice roll is a lucky six",
+  "eb": "🎲"
+ },
+ {
+  "id": "q239",
+  "a": "walk everywhere backwards all day",
+  "ea": "🚶",
+  "b": "skip sideways instead of walking",
+  "eb": "🦘"
+ },
+ {
+  "id": "q240",
+  "a": "drink hot chocolate from a river",
+  "ea": "🍫",
+  "b": "pick donuts fresh from trees",
+  "eb": "🍩"
+ },
+ {
+  "id": "q241",
+  "a": "science class aboard a spaceship",
+  "ea": "🚀",
+  "b": "history class in a time machine",
+  "eb": "⏳"
+ },
+ {
+  "id": "q242",
+  "a": "control the flow of sand",
+  "ea": "🏖️",
+  "b": "control ocean waves with a wave",
+  "eb": "🌊"
+ },
+ {
+  "id": "q243",
+  "a": "smartphone battery charges in rain",
+  "ea": "🌧️",
+  "b": "solar phone with infinite storage",
+  "eb": "📱"
+ },
+ {
+  "id": "q244",
+  "a": "walk a friendly lion on a leash",
+  "ea": "🦁",
+  "b": "cuddle a giant grizzly bear",
+  "eb": "🐻"
+ },
+ {
+  "id": "q245",
+  "a": "sit on a giant gummy bear chair",
+  "ea": "🍬",
+  "b": "sleep in a bed made of marshmallows",
+  "eb": "🛏️"
+ },
+ {
+  "id": "q246",
+  "a": "sail a cloud across the world",
+  "ea": "☁️",
+  "b": "ride an underground crystal cart",
+  "eb": "💎"
+ },
+ {
+  "id": "q247",
+  "a": "music class taught in a studio",
+  "ea": "🎧",
+  "b": "art class carving giant ice blocks",
+  "eb": "🧊"
+ },
+ {
+  "id": "q248",
+  "a": "always hear a gentle drum roll",
+  "ea": "🥁",
+  "b": "always hear quiet violin music",
+  "eb": "🎻"
+ },
+ {
+  "id": "q249",
+  "a": "inventory screen to hold 10 items",
+  "ea": "🎒",
+  "b": "health bar floating above head",
+  "eb": "💚"
+ },
+ {
+  "id": "q250",
+  "a": "swim as fast as a sailfish",
+  "ea": "🐟",
+  "b": "climb sheer cliffs like a gecko",
+  "eb": "🦎"
+ },
+ {
+  "id": "q251",
+  "a": "pizzas that change toppings daily",
+  "ea": "🍕",
+  "b": "sandwiches tailored to your mood",
+  "eb": "🥪"
+ },
+ {
+  "id": "q252",
+  "a": "summon any puzzle on demand",
+  "ea": "🧩",
+  "b": "conjure harmless party fireworks",
+  "eb": "🎆"
+ },
+ {
+  "id": "q253",
+  "a": "mirror displays tomorrow's weather",
+  "ea": "🪞",
+  "b": "clock counts down to surprises",
+  "eb": "⏰"
+ },
+ {
+  "id": "q254",
+  "a": "never pay for theme park tickets",
+  "ea": "🎟️",
+  "b": "never pay for concert admissions",
+  "eb": "🎸"
+ },
+ {
+  "id": "q255",
+  "a": "eternal spring with glowing petals",
+  "ea": "🌸",
+  "b": "eternal autumn with golden skies",
+  "eb": "🍂"
+ },
+ {
+  "id": "q256",
+  "a": "explore floating clouds on a kite",
+  "ea": "🪁",
+  "b": "explore a forest on a giant elk",
+  "eb": "🦌"
+ },
+ {
+  "id": "q257",
+  "a": "school hallways are moving walkways",
+  "ea": "🚶",
+  "b": "school classrooms on rollercoasters",
+  "eb": "🎢"
+ },
+ {
+  "id": "q258",
+  "a": "earn real money beating game bosses",
+  "ea": "👾",
+  "b": "gain real fitness from video games",
+  "eb": "🎮"
+ },
+ {
+  "id": "q259",
+  "a": "water tastes like blue raspberry",
+  "ea": "🫐",
+  "b": "milk tastes like strawberry sundae",
+  "eb": "🍓"
+ },
+ {
+  "id": "q260",
+  "a": "whisper to wind to deliver notes",
+  "ea": "🍃",
+  "b": "send messages through mirrors",
+  "eb": "🪞"
+ },
+ {
+  "id": "q261",
+  "a": "have a pocket-sized koala",
+  "ea": "🐨",
+  "b": "have a miniature pet zebra",
+  "eb": "🦓"
+ },
+ {
+  "id": "q262",
+  "a": "camera captures smells in photos",
+  "ea": "📷",
+  "b": "screen lets you touch distant pets",
+  "eb": "💻"
+ },
+ {
+  "id": "q263",
+  "a": "wear a giant sombrero everywhere",
+  "ea": "👒",
+  "b": "wear bright yellow ski goggles",
+  "eb": "🥽"
+ },
+ {
+  "id": "q264",
+  "a": "change the flavor of any chew gum",
+  "ea": "🍬",
+  "b": "blow bubbles that never pop",
+  "eb": "🫧"
+ },
+ {
+  "id": "q265",
+  "a": "ride a giant mechanical beetle",
+  "ea": "🪲",
+  "b": "pilot a miniature submarine drone",
+  "eb": "🛥️"
+ },
+ {
+  "id": "q266",
+  "a": "holographic trading card battles",
+  "ea": "🃏",
+  "b": "interactive virtual zoo at home",
+  "eb": "🦚"
+ },
+ {
+  "id": "q267",
+  "a": "recess with a giant obstacle dome",
+  "ea": "🧗",
+  "b": "lunch recess with a bouncy castle",
+  "eb": "🏰"
+ },
+ {
+  "id": "q268",
+  "a": "snowflakes that smell like mint",
+  "ea": "❄️",
+  "b": "raindrops that taste like limeade",
+  "eb": "🍋"
  }
 ]
