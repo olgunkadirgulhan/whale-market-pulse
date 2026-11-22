@@ -1874,5 +1874,33 @@
   "ea": "❄️",
   "b": "raindrops that taste like limeade",
   "eb": "🍋"
+ },
+ {
+  "id": "q269",
+  "a": "have fingers made of hot dogs",
+  "ea": "🌭",
+  "b": "have toes made of french fries",
+  "eb": "🍟"
+ },
+ {
+  "id": "q270",
+  "a": "ride a giant sloth to school",
+  "ea": "🦥",
+  "b": "ride a giant turtle to class",
+  "eb": "🐢"
+ },
+ {
+  "id": "q271",
+  "a": "wear a watermelon helmet",
+  "ea": "🍉",
+  "b": "wear a pumpkin backpack",
+  "eb": "🎃"
+ },
+ {
+  "id": "q272",
+  "a": "make every computer mouse a frog",
+  "ea": "🐸",
+  "b": "make every keyboard key a marshmallow",
+  "eb": "🍡"
  }
 ]
