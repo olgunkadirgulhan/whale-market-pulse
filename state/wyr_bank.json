@@ -2028,5 +2028,257 @@
   "ea": "🥞",
   "b": "eat waffles shaped like animal tracks",
   "eb": "🧇"
+ },
+ {
+  "id": "q291",
+  "a": "toaster that prints custom memes",
+  "ea": "🍞",
+  "b": "fridge that plays retro tunes",
+  "eb": "🧊"
+ },
+ {
+  "id": "q292",
+  "a": "glow pink whenever you hiccup",
+  "ea": "✨",
+  "b": "float two inches when you giggle",
+  "eb": "🎈"
+ },
+ {
+  "id": "q293",
+  "a": "have a talking hamster assistant",
+  "ea": "🐹",
+  "b": "have a giant parrot math tutor",
+  "eb": "🦜"
+ },
+ {
+  "id": "q294",
+  "a": "visit an island of neon sand",
+  "ea": "🏝️",
+  "b": "explore a forest of glass trees",
+  "eb": "🌲"
+ },
+ {
+  "id": "q295",
+  "a": "play games on a movie screen",
+  "ea": "🎮",
+  "b": "stream games straight to brain",
+  "eb": "🧠"
+ },
+ {
+  "id": "q296",
+  "a": "get $50 every time you sneeze",
+  "ea": "💰",
+  "b": "get $100 every time you swim",
+  "eb": "💵"
+ },
+ {
+  "id": "q297",
+  "a": "eat cereal that tastes like cake",
+  "ea": "🥣",
+  "b": "eat soup that tastes like cocoa",
+  "eb": "🍲"
+ },
+ {
+  "id": "q298",
+  "a": "teleport to any fast food place",
+  "ea": "🍔",
+  "b": "fly directly to any beach city",
+  "eb": "✈️"
+ },
+ {
+  "id": "q299",
+  "a": "ride a giant owl to school",
+  "ea": "🦉",
+  "b": "ride a friendly bear to class",
+  "eb": "🐻"
+ },
+ {
+  "id": "q300",
+  "a": "arcade cabinet in your bedroom",
+  "ea": "🕹️",
+  "b": "private bowling alley at home",
+  "eb": "🎳"
+ },
+ {
+  "id": "q301",
+  "a": "summer weather every weekend",
+  "ea": "☀️",
+  "b": "fresh snow on every birthday",
+  "eb": "❄️"
+ },
+ {
+  "id": "q302",
+  "a": "understand all dog barks",
+  "ea": "🐶",
+  "b": "understand all cat meows",
+  "eb": "🐱"
+ },
+ {
+  "id": "q303",
+  "a": "vacation in an underwater dome",
+  "ea": "🥽",
+  "b": "vacation in a floating airship",
+  "eb": "🛸"
+ },
+ {
+  "id": "q304",
+  "a": "free app downloads forever",
+  "ea": "📱",
+  "b": "free online shipping forever",
+  "eb": "📦"
+ },
+ {
+  "id": "q305",
+  "a": "win every board game on turn one",
+  "ea": "🎲",
+  "b": "beat every puzzle in ten seconds",
+  "eb": "🧩"
+ },
+ {
+  "id": "q306",
+  "a": "no morning classes ever again",
+  "ea": "⏰",
+  "b": "no Friday classes ever again",
+  "eb": "📅"
+ },
+ {
+  "id": "q307",
+  "a": "wear neon orange pants daily",
+  "ea": "👖",
+  "b": "wear bright purple coats daily",
+  "eb": "🧥"
+ },
+ {
+  "id": "q308",
+  "a": "climb walls like a squirrel",
+  "ea": "🐿️",
+  "b": "leap on roofs like a cat",
+  "eb": "🐈"
+ },
+ {
+  "id": "q309",
+  "a": "explore a cavern filled with neon",
+  "ea": "🕳️",
+  "b": "explore a canyon made of candy",
+  "eb": "🍬"
+ },
+ {
+  "id": "q310",
+  "a": "backpack that cleans itself",
+  "ea": "🎒",
+  "b": "shoes that tie automatically",
+  "eb": "👟"
+ },
+ {
+  "id": "q311",
+  "a": "real life quick save button",
+  "ea": "💾",
+  "b": "real life mini-map in your vision",
+  "eb": "🗺️"
+ },
+ {
+  "id": "q312",
+  "a": "keyboard that plays drum sounds",
+  "ea": "🥁",
+  "b": "mouse that glows like a rainbow",
+  "eb": "🖱️"
+ },
+ {
+  "id": "q313",
+  "a": "french fries taste like cocoa",
+  "ea": "🍟",
+  "b": "popcorn tastes like cheddar",
+  "eb": "🍿"
+ },
+ {
+  "id": "q314",
+  "a": "have a pet baby alpaca",
+  "ea": "🦙",
+  "b": "have a pet baby otter",
+  "eb": "🦦"
+ },
+ {
+  "id": "q315",
+  "a": "make clouds shaped like animals",
+  "ea": "☁️",
+  "b": "make rain drop in rainbow colors",
+  "eb": "🌧️"
+ },
+ {
+  "id": "q316",
+  "a": "find $50 in an old coat pocket",
+  "ea": "🧥",
+  "b": "find a $100 bill on sidewalk",
+  "eb": "💵"
+ },
+ {
+  "id": "q317",
+  "a": "gym class is all tag games",
+  "ea": "🏃",
+  "b": "gym class is all roller skating",
+  "eb": "🛼"
+ },
+ {
+  "id": "q318",
+  "a": "turn any liquid into lemonade",
+  "ea": "🍋",
+  "b": "turn any snack into spicy chips",
+  "eb": "🌶️"
+ },
+ {
+  "id": "q319",
+  "a": "spend a month on space station",
+  "ea": "🚀",
+  "b": "spend a month in underwater city",
+  "eb": "🌊"
+ },
+ {
+  "id": "q320",
+  "a": "shoes make squeaky duck noises",
+  "ea": "🦆",
+  "b": "socks play soft chime music",
+  "eb": "🧦"
+ },
+ {
+  "id": "q321",
+  "a": "eat glowing green ice cream",
+  "ea": "🍦",
+  "b": "eat bright purple hot chocolate",
+  "eb": "☕"
+ },
+ {
+  "id": "q322",
+  "a": "live inside a cozy farming game",
+  "ea": "🌾",
+  "b": "live inside an epic kart racer",
+  "eb": "🏎️"
+ },
+ {
+  "id": "q323",
+  "a": "feed bananas to a wild monkey",
+  "ea": "🐒",
+  "b": "feed bamboo to a giant panda",
+  "eb": "🐼"
+ },
+ {
+  "id": "q324",
+  "a": "phone camera takes 3D holograms",
+  "ea": "📸",
+  "b": "phone speaker mutes the room",
+  "eb": "🔊"
+ },
+ {
+  "id": "q325",
+  "a": "only eat cold meals for a month",
+  "ea": "🥗",
+  "b": "only eat hot meals for a year",
+  "eb": "🍲"
+ },
+ {
+  "id": "q326",
+  "a": "ride a futuristic bullet train",
+  "ea": "🚅",
+  "b": "fly on a solar-powered glider",
+  "eb": "🪂"
  }
 ]
