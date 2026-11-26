@@ -2280,5 +2280,75 @@
   "ea": "🚅",
   "b": "fly on a solar-powered glider",
   "eb": "🪂"
+ },
+ {
+  "id": "q327",
+  "a": "Fly like a soaring eagle",
+  "ea": "🦅",
+  "b": "Swim like a swift dolphin",
+  "eb": "🐬"
+ },
+ {
+  "id": "q328",
+  "a": "Eat tacos every single day",
+  "ea": "🌮",
+  "b": "Eat sushi every single day",
+  "eb": "🍣"
+ },
+ {
+  "id": "q329",
+  "a": "Control wind with your hand",
+  "ea": "💨",
+  "b": "Control electricity with a touch",
+  "eb": "⚡"
+ },
+ {
+  "id": "q330",
+  "a": "Have a pet baby dragon",
+  "ea": "🐉",
+  "b": "Have a pet baby phoenix",
+  "eb": "🔥"
+ },
+ {
+  "id": "q331",
+  "a": "Explore an ancient pyramid",
+  "ea": "🏜️",
+  "b": "Explore a frozen glacier",
+  "eb": "🧊"
+ },
+ {
+  "id": "q332",
+  "a": "Never have homework again",
+  "ea": "📚",
+  "b": "Never take exams again",
+  "eb": "📝"
+ },
+ {
+  "id": "q333",
+  "a": "Wear a crown made of gold",
+  "ea": "👑",
+  "b": "Wear boots made of starlight",
+  "eb": "✨"
+ },
+ {
+  "id": "q334",
+  "a": "Build houses out of pillows",
+  "ea": "🛌",
+  "b": "Build forts out of cardboard",
+  "eb": "📦"
+ },
+ {
+  "id": "q335",
+  "a": "Ride a giant soaring kite",
+  "ea": "🪁",
+  "b": "Ride a fast mechanical jet",
+  "eb": "🚀"
+ },
+ {
+  "id": "q336",
+  "a": "Sleep in a treehouse fortress",
+  "ea": "🌳",
+  "b": "Sleep in a cave full of gems",
+  "eb": "💎"
  }
 ]
