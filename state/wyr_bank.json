@@ -2350,5 +2350,264 @@
   "ea": "🌳",
   "b": "Sleep in a cave full of gems",
   "eb": "💎"
+ },
+ {
+  "id": "q337",
+  "a": "eat bright blue maple syrup",
+  "ea": "🥞",
+  "b": "eat deep purple mustard",
+  "eb": "🥨"
+ },
+ {
+  "id": "q338",
+  "a": "bend shadows into fun shapes",
+  "ea": "🌑",
+  "b": "glow brightly in pitch darkness",
+  "eb": "💡"
+ },
+ {
+  "id": "q339",
+  "a": "sail on a crystal ice sailboat",
+  "ea": "⛵",
+  "b": "ride a sand glider in canyons",
+  "eb": "🛷"
+ },
+ {
+  "id": "q340",
+  "a": "keyboard types in rainbow ink",
+  "ea": "⌨️",
+  "b": "mouse pointer follows your gaze",
+  "eb": "🖱️"
+ },
+ {
+  "id": "q341",
+  "a": "school lounge with free boba",
+  "ea": "🧋",
+  "b": "school hallway with mini golf",
+  "eb": "⛳"
+ },
+ {
+  "id": "q342",
+  "a": "befriend a flying squirrel",
+  "ea": "🐿️",
+  "b": "befriend a glowing axolotl",
+  "eb": "🦎"
+ },
+ {
+  "id": "q343",
+  "a": "get $2 every time you laugh",
+  "ea": "😂",
+  "b": "get $5 every time you snap",
+  "eb": "👌"
+ },
+ {
+  "id": "q344",
+  "a": "snow tastes like mint cocoa",
+  "ea": "❄️",
+  "b": "leaves crunch like potato chips",
+  "eb": "🍂"
+ },
+ {
+  "id": "q345",
+  "a": "play games on holographic air",
+  "ea": "👾",
+  "b": "control video games with gestures",
+  "eb": "🖐️"
+ },
+ {
+  "id": "q346",
+  "a": "turn into a statue to hide",
+  "ea": "🗿",
+  "b": "walk silently on any surface",
+  "eb": "👟"
+ },
+ {
+  "id": "q347",
+  "a": "hike giant mushroom woods",
+  "ea": "🍄",
+  "b": "kayak on a glowing blue river",
+  "eb": "🛶"
+ },
+ {
+  "id": "q348",
+  "a": "finish math homework by humming",
+  "ea": "🎵",
+  "b": "finish essays by clapping",
+  "eb": "👏"
+ },
+ {
+  "id": "q349",
+  "a": "pizza crust filled with honey",
+  "ea": "🍕",
+  "b": "pancakes made of melted ice cream",
+  "eb": "🥞"
+ },
+ {
+  "id": "q350",
+  "a": "chat with colorful garden snails",
+  "ea": "🐌",
+  "b": "understand ocean fish thoughts",
+  "eb": "🐟"
+ },
+ {
+  "id": "q351",
+  "a": "doorknobs play a soft melody",
+  "ea": "🚪",
+  "b": "lights fade down like a theater",
+  "eb": "💡"
+ },
+ {
+  "id": "q352",
+  "a": "phone screen never scratches",
+  "ea": "📱",
+  "b": "earbuds never tangle in pockets",
+  "eb": "🎧"
+ },
+ {
+  "id": "q353",
+  "a": "ride an underground glass train",
+  "ea": "🚆",
+  "b": "ride a sky cable car across peaks",
+  "eb": "🚠"
+ },
+ {
+  "id": "q354",
+  "a": "double jump high into the air",
+  "ea": "👟",
+  "b": "wall jump up to any balcony",
+  "eb": "🧱"
+ },
+ {
+  "id": "q355",
+  "a": "find game cards growing on trees",
+  "ea": "🃏",
+  "b": "find shiny coins inside rocks",
+  "eb": "🪙"
+ },
+ {
+  "id": "q356",
+  "a": "pet cat bakes fresh cookies daily",
+  "ea": "🐱",
+  "b": "pet hamster makes tiny tacos",
+  "eb": "🐹"
+ },
+ {
+  "id": "q357",
+  "a": "slow down falling raindrops",
+  "ea": "🌧️",
+  "b": "make flowers bloom in seconds",
+  "eb": "🌸"
+ },
+ {
+  "id": "q358",
+  "a": "desk has a secret arcade button",
+  "ea": "🕹️",
+  "b": "notebook cover changes daily",
+  "eb": "📓"
+ },
+ {
+  "id": "q359",
+  "a": "visit an island of glitter rain",
+  "ea": "✨",
+  "b": "visit a peak made of pink snow",
+  "eb": "🏔️"
+ },
+ {
+  "id": "q360",
+  "a": "find a mini loot chest daily",
+  "ea": "🧰",
+  "b": "vending machines give toys",
+  "eb": "🧸"
+ },
+ {
+  "id": "q361",
+  "a": "pet parrot speaks five languages",
+  "ea": "🦜",
+  "b": "pet dog plays beginner chess",
+  "eb": "🐕"
+ },
+ {
+  "id": "q362",
+  "a": "microwave cooks in two seconds",
+  "ea": "🍿",
+  "b": "blender turns fruit into gelato",
+  "eb": "🍧"
+ },
+ {
+  "id": "q363",
+  "a": "turn paper sheets into steel",
+  "ea": "📄",
+  "b": "turn heavy stones into rubber",
+  "eb": "🪨"
+ },
+ {
+  "id": "q364",
+  "a": "explore a colorful coral castle",
+  "ea": "🪸",
+  "b": "walk across a sky cloud bridge",
+  "eb": "☁️"
+ },
+ {
+  "id": "q365",
+  "a": "earn game coins by walking daily",
+  "ea": "🪙",
+  "b": "unlock game skins by dancing",
+  "eb": "💃"
+ },
+ {
+  "id": "q366",
+  "a": "french fries shaped like stars",
+  "ea": "🍟",
+  "b": "chips that pop like pop rocks",
+  "eb": "🥔"
+ },
+ {
+  "id": "q367",
+  "a": "always find open seats on buses",
+  "ea": "🚌",
+  "b": "never wait for an elevator door",
+  "eb": "🛗"
+ },
+ {
+  "id": "q368",
+  "a": "understand any ancient language",
+  "ea": "📜",
+  "b": "solve complex equations on sight",
+  "eb": "🧮"
+ },
+ {
+  "id": "q369",
+  "a": "feed wild deer in a forest",
+  "ea": "🦌",
+  "b": "swim beside gentle sea turtles",
+  "eb": "🐢"
+ },
+ {
+  "id": "q370",
+  "a": "computer boots in zero seconds",
+  "ea": "💻",
+  "b": "wi-fi signal works underground",
+  "eb": "📶"
+ },
+ {
+  "id": "q371",
+  "a": "swap colors of any two objects",
+  "ea": "🎨",
+  "b": "shrink or grow any small pebble",
+  "eb": "🪨"
+ },
+ {
+  "id": "q372",
+  "a": "tea that tastes like marshmallow",
+  "ea": "☕",
+  "b": "bread that tastes like strawberries",
+  "eb": "🍞"
+ },
+ {
+  "id": "q373",
+  "a": "health bar shows daily energy",
+  "ea": "🔋",
+  "b": "compass points to nearby fun events",
+  "eb": "🧭"
  }
 ]
